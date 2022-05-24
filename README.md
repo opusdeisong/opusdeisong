@@ -11,4 +11,13 @@
 ***
 ***
 
-# <center>Woojung, Song's Github Page</center>
+# <div align="center">Woojung, Song's Github Page</div>
+
+
+
+<div align="center">Served as KATUSA(SGT) 
+  
+  3 BSB, 1 ABCT, 3ID Camp Humphrey, South Korea  
+  2019 ~ 2021 
+  
+  Studying Information System in Hanyang Univ.</div>
