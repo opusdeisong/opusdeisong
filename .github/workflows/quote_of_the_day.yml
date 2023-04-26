@@ -3,7 +3,7 @@ name: Quote of the Day
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at 00:00
+    - cron: '0 0 * * *' # Runs every day at 00:0
 
 jobs:
   update_readme_with_quote:
