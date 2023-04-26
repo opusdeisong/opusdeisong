@@ -19,9 +19,9 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Daily Quote
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. - Sydney Smith
   </blockquote>
-> Daily Quote
+> When you rise in the morning, form a resolution to make the day a happy one for a fellow creature. - Sydney Smith
 > Quote of the Day
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
