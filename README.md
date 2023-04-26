@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontcolor=auto)
+<h1 align="center">Woojung, Song's Github Page</h1>
 <p align="center">
   <img src="[(https://avatars.githubusercontent.com/u/105193807?s=96&v=4)" width="150" style="border-radius: 50%;">
 </p>
@@ -21,10 +21,10 @@
 </p>
 
 <div align="center">   
-  <h1>Woojung, Song's Github Page</h1>
   <hr>
   <h3>🎓 Studying Information System at Hanyang University</h3>
-  <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID Camp Humphrey, South Korea (2020-2021)</h3>
+  <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
+    Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
     "Festina lente."
   </blockquote>
