@@ -1,0 +1,9 @@
+- name: Install jq
+  # You may pin to the exact commit or the version.
+  # uses: dcarbone/install-jq-action@91d8da7268538e8a0ae0c8b72af44f1763228455
+  uses: dcarbone/install-jq-action@v1.0.1
+  with:
+    # Version of jq to install
+    version: # optional, default is 1.6
+    # If 'true', does not check for existing jq installation before continuing.
+    force: # optional, default is false
