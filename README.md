@@ -3,20 +3,21 @@
   <img src="[(https://avatars.githubusercontent.com/u/105193807?s=96&v=4)" width="150" style="border-radius: 50%;">
 </p>
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=opusdeisong" height="165">
+  <img align='center' src="https://github-readme-stats.vercel.app/api?username=opusdeisong&show_icons=true&theme=highcontrast" height="165">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
 </p>
+
 <p>&nbsp;</p>
 <p align="center">
-  <img align='center' src="https://ghchart.rshah.org/1F222E/opusdeisong" width="800">
+  <img align='center' src="https://ghchart.rshah.org/98fb98/opusdeisong" width="800">
 </p>
 <p>&nbsp;</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=dracula" alt="GitHub Streak Stats" width = "600">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=ko&date_format=M%20j%5B%2C%20Y%5D" width = "600">
 </p>
 <p>&nbsp;</p>
 <p align="center">
-  <img align='center' src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opusdeisong&theme=monokai" width="600">
+  <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opusdeisong&theme=github" width="600">
 </p>
 
 <div align="center">   
