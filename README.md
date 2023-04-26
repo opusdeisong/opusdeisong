@@ -6,28 +6,22 @@
   <img align='center' src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
 </p>
-
-<p>&nbsp;</p>
-<p align="center">
-  <img align='center' src="https://ghchart.rshah.org/98fb98/opusdeisong" width="800">
-</p>
-<p>&nbsp;</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600">
 </p>
-<p>&nbsp;</p>
-<p align="center">
-  <img align='center' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=opusdeisong&theme=github" width="600">
-</p>
-
 <div align="center">   
   <hr>
-  <h3>🎓 Studying Information System at Hanyang University</h3>
+  <h3>👋 Hi, I'm Woojung Song!</h3>
+  <p>🎓 Studying Information System at Hanyang University</p>
+  <p>📚 Passionate about learning algorithms using Python and exploring machine learning</p>
+  <p>🌟 Successfully completed a project as a PM to display scores for academy students</p>
+  <p>🍽️ Currently working as a PM on HYFood, a webpage to help Hanyang University students <br>discover delicious and exciting food options nearby</p>
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
     "Festina lente."
   </blockquote>
+  
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
   <a href="https://github.com/opusdeisong" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -49,8 +43,6 @@
   <img src="https://img.shields.io/badge/Processing-0096D6?style=for-the-badge&logo=processingfoundation&logoColor=white" alt="Processing" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-
-
 </div>
 <p>&nbsp;</p>
 <p align="center">
