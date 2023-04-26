@@ -3,7 +3,7 @@
   <img src="[(https://avatars.githubusercontent.com/u/105193807?s=96&v=4)" width="150" style="border-radius: 50%;">
 </p>
 <p align="center">
-  <img align='center' src="https://github-readme-stats.vercel.app/api?username=opusdeisong&show_icons=true&theme=highcontrast" height="165">
+  <img align='center' src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
 </p>
 
