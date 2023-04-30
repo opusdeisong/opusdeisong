@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> When you are tempted to give up, your breakthrough is probably just around the corner. - Joyce Meyer
+> Adventure is not outside man; it is within. - George Eliot
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
