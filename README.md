@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Adventure is not outside man; it is within. - George Eliot
+> The only lost cause is one we give up on before we enter the struggle. - Vaclav Havel
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
