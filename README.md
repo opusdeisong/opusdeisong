@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Be still when you have nothing to say; when genuine passion moves you, say what you've got to say, and say it hot. - D. H. Lawrence
+> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. - John Tukey
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
