@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question. - John Tukey
+> Life is a process. We are a process. The universe is a process. - Anne Wilson Schaef
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
