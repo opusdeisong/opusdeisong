@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. - Pema Chodron
+> No man becomes rich unless he enriches others. - Andrew Carnegie
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
