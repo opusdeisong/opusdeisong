@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Formal education will make you a living, self-education will make you a fortune. - Jim Rohn
+> Reading should be a pleasure, not a chore. - Joan Rivers
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
