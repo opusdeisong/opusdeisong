@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Nothing is hopeless; we must hope for everything. - Euripides
+> The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  - Henry Ford
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
