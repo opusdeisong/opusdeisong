@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Money poisons you when you've got it, and starves you when you haven't. - D. H. Lawrence
+> There is always room in your life for thinking bigger, pushing limits and imagining the impossible. - Tony Robbins
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
