@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> There is always room in your life for thinking bigger, pushing limits and imagining the impossible. - Tony Robbins
+> The measure of wisdom is how calm you are when facing any given situation. - Naval Ravikant
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
