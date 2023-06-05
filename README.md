@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The quality of your life is determined by the quality of your thoughts. - Unknown
+> Stay away from people who makes you feel like you are wasting their time. - Paulo Coelho
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
