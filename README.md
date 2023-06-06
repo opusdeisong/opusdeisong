@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Stay away from people who makes you feel like you are wasting their time. - Paulo Coelho
+> Success is the progressive realization of a worthy goal or ideal. - Earl Nightingale
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
