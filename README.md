@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If the grass is greener on the other side, maybe that's because you're not taking good care of your grass. - Unknown
+> The eyes of others our prisons; their thoughts our cages. - Virginia Woolf
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
