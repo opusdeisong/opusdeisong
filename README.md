@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The eyes of others our prisons; their thoughts our cages. - Virginia Woolf
+> The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution. - Albus Dumbledore
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
