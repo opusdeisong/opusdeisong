@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Everyone you meet is fighting a battle you know nothing about. Be kind. Always. - Robin Williams
+> If you cling to a certain thought with dynamic will power, it finally assumes a tangible outward form. - Paramahansa Yogananda
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
