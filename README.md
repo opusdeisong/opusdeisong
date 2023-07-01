@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you aren't sure which way to do something, do it both ways and see which works better. - John Carmack
+> Whether you have a problem in your life or not depends upon your own attitude, your own understanding. - Shunryu Suzuki
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
