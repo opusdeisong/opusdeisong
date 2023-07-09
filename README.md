@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Stop being tormented by everyone else's reaction to you. - Joyce Meyer
+> Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - Tony Robbins
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
