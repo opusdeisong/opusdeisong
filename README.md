@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Fools resist. The wise embrace. - Maxime Lagace
+> Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. - Billie Jean King
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
