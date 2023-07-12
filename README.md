@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. - Billie Jean King
+> You can often change your circumstances by changing your attitude. - Eleanor Roosevelt
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
