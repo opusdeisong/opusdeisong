@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Human beings can alter their lives by altering their attitudes of mind. - William James
+> Every strike brings me closer to the next home run.  - Babe Ruth
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
