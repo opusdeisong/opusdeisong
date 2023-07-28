@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Always focus on the front windshield and not the rear view mirror. - Colin Powell
+> Silence is the great teacher and to learn its lessons you must pay attention to it. - Deepak Chopra
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
