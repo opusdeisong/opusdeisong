@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Would you rather live your life according to the approval of others or aligned with your truth and your dreams? - Robin Sharma
+> Raise your words, not voice. It is rain that grows flowers, not thunder. - Rumi
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
