@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Raise your words, not voice. It is rain that grows flowers, not thunder. - Rumi
+> There is no one giant step that does it. It's a lot of little steps. - Peter A. Cohen
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
