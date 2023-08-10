@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> A man with outward courage dares to die: a man with inner courage dares to live. - Lao Tzu
+> I don't ever give up. I'd have to be dead or completely incapacitated. - Elon Musk
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
