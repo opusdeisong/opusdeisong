@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> I don't ever give up. I'd have to be dead or completely incapacitated. - Elon Musk
+> True life is lived when tiny changes occur. - Leo Tolstoy
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
