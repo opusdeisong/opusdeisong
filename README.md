@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Where words fail, music speaks. - Hans Christian Andersen
+> The only time you run out of chances is when you stop taking them. - Unknown
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
