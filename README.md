@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Friends ask you questions; enemies question you. - Criss Jami
+> You must find the place inside yourself where nothing is impossible. - Deepak Chopra
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
