@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing. - Morihei Ueshiba
+> Genius is the ability to act rightly without precedent - the power to do the right thing the first time. - Elbert Hubbard
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
