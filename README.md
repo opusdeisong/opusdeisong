@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The very essence of instinct is that it's followed independently of reason. - Charles Darwin
+> Change begets change. Nothing propagates so fast. - Charles Dickens
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
