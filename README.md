@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Change begets change. Nothing propagates so fast. - Charles Dickens
+> The most important thing is to enjoy your life, to be happy, it's all that matters. - Audrey Hepburn
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
