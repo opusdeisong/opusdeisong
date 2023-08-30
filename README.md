@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Life reflects your own thoughts back to you. - Napoleon Hill
+> A gentleman is one who puts more into the world than he takes out. - George Bernard Shaw
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
