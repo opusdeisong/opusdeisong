@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> A gentleman is one who puts more into the world than he takes out. - George Bernard Shaw
+> Life is like riding a bicycle. To keep your balance you must keep moving. - Albert Einstein
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
