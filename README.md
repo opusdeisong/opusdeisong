@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Life must be a constant education; one must learn everything, from speaking to dying. - Gustave Flaubert
+> Fiction is the truth inside the lie. - Stephen King
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
