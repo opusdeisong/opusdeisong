@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The most tragic thing in the world is a man of genius who is not a man of honor. - George Bernard Shaw
+> We are shaped and fashioned by what we love. - Johann Wolfgang von Goethe
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
