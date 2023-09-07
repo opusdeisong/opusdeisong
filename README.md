@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> We are shaped and fashioned by what we love. - Johann Wolfgang von Goethe
+> Anyone telling you it's pointless to share your perspective is sharing their perspective. - Jack Butcher
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
