@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The heart that gives, gathers. - Lao Tzu
+> The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart. - Helen Keller
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
