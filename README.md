@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If I have seen further than others, it is by standing upon the shoulders of giants. - Isaac Newton
+> A man has to learn that he cannot command things but that he can command himself; that he cannot coerce the wills of others but that he can mold and master his own will. - James Allen
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
