@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Successful people appreciate where they have come from, but they don't let their past set the tone for their future. - Steve Harvey
+> If you want to know what God thinks about money just look at the people He gives it to. - Alexander Pope
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
