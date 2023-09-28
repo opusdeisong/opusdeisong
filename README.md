@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you want to know what God thinks about money just look at the people He gives it to. - Alexander Pope
+> It is dangerous to be right in matters on which the established authorities are wrong. - Voltaire
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
