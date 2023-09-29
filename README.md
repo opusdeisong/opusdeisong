@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> It is dangerous to be right in matters on which the established authorities are wrong. - Voltaire
+> I am always doing what I cannot do yet, in order to learn how to do it. - Vincent van Gogh
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
