@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The chief enemy of creativity is good sense. - Pablo Picasso
+> Never say never, because limits, like fears, are often just an illusion. - Michael Jordan
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
