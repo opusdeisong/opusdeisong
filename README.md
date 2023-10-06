@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> I learned the value of hard work by working hard.  - Margaret Mead
+> What's obvious to you isn't obvious to most people. Operate from this perspective and you'll help more people. - Jack Butcher
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
