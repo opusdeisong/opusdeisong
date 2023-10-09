@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. - Dr. Seuss
+> Give so much away people insist on paying you. - Jack Butcher
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
