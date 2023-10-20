@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> How much pain they have cost us, the evils which have never happened. - Thomas Jefferson
+> Work as though you would live forever, and live as though you would die today. Go another mile. - Og Mandino
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
