@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Work as though you would live forever, and live as though you would die today. Go another mile. - Og Mandino
+> To know even one life has breathed easier because you have lived. This is to have succeeded. - Ralph Waldo Emerson
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
