@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Turn the pain into power. - Unknown
+> It ain't where you start in life, it's where you end up, and what you did along the way. - Colin Powell
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
