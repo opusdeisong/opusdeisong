@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> We cannot expect to be happy always... by experiencing evil as well as good we become wise. - Hans Christian Andersen
+> If you want peace, accept. If you want suffering, expect. - Maxime Lagace
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
