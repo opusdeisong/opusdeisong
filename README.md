@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner. - Sonia Ricotti
+> There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. - Alexandre Dumas
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
