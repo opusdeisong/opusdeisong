@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> There are two ways of seeing: with the body and with the soul. The body's sight can sometimes forget, but the soul remembers forever. - Alexandre Dumas
+> The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. - Herodotus
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
