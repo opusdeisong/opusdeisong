@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Life is a traveling to the edge of knowledge, then a leap taken. - D. H. Lawrence
+> Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. - Brian Tracy
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
