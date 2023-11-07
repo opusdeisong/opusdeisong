@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Do what is right, not what is easy, nor what is popular. - Roy T. Bennett
+> You're on earth. There's no cure for that. - Samuel Beckett
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
