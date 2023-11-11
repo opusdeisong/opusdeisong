@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> I don't pretend to know everything; I just only speak on matters I know I'll win. - Criss Jami
+> You don't need to be better than anyone else, you just need to be better than you used to be. - Wayne Dyer
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
