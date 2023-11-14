@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. - Kahlil Gibran
+> When people are free to do as they please, they usually imitate each other. - Eric Hoffer
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
