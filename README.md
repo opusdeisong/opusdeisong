@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Man should fear never beginning to live. - Marcus Aurelius
+> Live your life as an exclamation rather than an explanation. - Isaac Newton
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
