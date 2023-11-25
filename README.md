@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The only thing more frustrating than slanderers is those foolish enough to listen to them. - Criss Jami
+> You need to be doing fewer things for more effect instead of doing more things with side effects. - Gary Keller
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
