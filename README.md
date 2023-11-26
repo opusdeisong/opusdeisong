@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You need to be doing fewer things for more effect instead of doing more things with side effects. - Gary Keller
+> What is planted in each person's soul will sprout.   - Rumi
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
