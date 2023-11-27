@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> What is planted in each person's soul will sprout.   - Rumi
+> This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play. - Alan Watts
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
