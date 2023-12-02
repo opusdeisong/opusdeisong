@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Don't be afraid to go slowly. Be afraid of stopping. - Zen Proverb
+> Why compare yourself with others? No one in the entire world can do a better job of being you than you. - Unknown
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
