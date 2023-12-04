@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You get in life what you have the courage to ask for. - Oprah Winfrey
+> The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
