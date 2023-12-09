@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> There are more people who wish to be loved than there are who are willing to love.  - Nicolas Chamfort
+> Be brave enough to suck at something new. - Unknown
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
