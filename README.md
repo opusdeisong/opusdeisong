@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Be brave enough to suck at something new. - Unknown
+> Coming together is a beginning, staying together is progress, and working together is success.  - Henry Ford
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
