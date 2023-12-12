@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You can't make someone feel good about themselves until you feel good about yourself. - Robin Sharma
+> A moving door hinge never corrodes. Flowing water never grows stagnant. - Ming-Dao Deng
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
