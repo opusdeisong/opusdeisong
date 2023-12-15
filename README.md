@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Never be bored, and you will never be boring. - Eleanor Roosevelt
+> Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become. - Paramahansa Yogananda
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
