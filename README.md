@@ -15,7 +15,7 @@
   <p>🎓 Studying Information System at Hanyang University</p>
   <p>📚 Passionate about learning algorithms using Python and exploring machine learning</p>
   <p>🌟 Successfully completed a project as a PM to display scores for academy students</p>
-  <p>🍽️ Currently working as a PM on HYFood, a webpage to help Hanyang University students <br>discover delicious and exciting food options nearby</p>
+  <p>🍽️ 2nd Place in Software Engineering Project with LG</p>
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
