@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Never do to others what you would not like them to do to you.  - Confucius
+> If you don't know where you're going, you will probably end up somewhere else. - Laurence J. Peter
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
