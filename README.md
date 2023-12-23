@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Instead of thinking about what you are going to do when you retire, think about how you can do that now and make a living from it. - Celestine Chua
+> The truly rich men are the ones who have health, loved ones and a work they love. - Maxime Lagace
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
