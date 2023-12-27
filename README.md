@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you don't like something change it; if you can't change it, change the way you think about it. - Mary Engelbreit
+> There is no one giant step that does it. It's a lot of little steps. - Peter A. Cohen
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
