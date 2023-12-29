@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - Pema Chodron
+> You are not only responsible for what you say, but also for what you do not say.  - Martin Luther
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
