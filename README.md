@@ -13,10 +13,11 @@
   <hr>
   <h3>👋 Hi, I'm Woojung Song!</h3>
   <p>🎓 Studying Information System at Hanyang University</p>
-  <p>📚 Passionate about learning algorithms using Python and exploring machine learning</p>
-  <p>🌟 Successfully completed a project as a PM to display scores for academy students</p>
-  <p>🍽️ 2nd Place in Software Engineering Project with LG</p>
-  <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
+  <p>💻 Passionate about learning algorithms using Python and exploring machine learning</p>
+  <p>🚀 Successfully completed a project as a PM to display scores for academy students</p>
+  <p>🥈 2nd Place in Software Engineering Project with LG</p>
+  <p>🥇 1st Place in Namuthon(2023 GDSC X Alpaco Hackathon)</p>
+  <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
 > If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
