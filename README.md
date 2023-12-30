@@ -19,7 +19,7 @@
   <h3>🎖️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You are not only responsible for what you say, but also for what you do not say.  - Martin Luther
+> If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
