@@ -20,7 +20,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
+> Working hard for something we don't care about is called stress: Working hard for something we love is called passion. - Simon Sinek
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
