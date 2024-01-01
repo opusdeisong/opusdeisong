@@ -20,7 +20,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Working hard for something we don't care about is called stress: Working hard for something we love is called passion. - Simon Sinek
+> It's the little things done consistently over time, straight from your heart, that have the greatest impact. - Unknown
   </blockquote>
   <h2 align="center">📫 How to Reach Me:</h2>
 <p align="center">
