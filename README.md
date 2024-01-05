@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> I love fools' experiments. I am always making them. - Charles Darwin
+> Muddy water is best cleared by leaving it alone. - Alan Watts
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
