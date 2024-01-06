@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Muddy water is best cleared by leaving it alone. - Alan Watts
+> So long as we are being remembered, we remain alive. - Carlos Ruiz Zafon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
