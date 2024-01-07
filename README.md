@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> So long as we are being remembered, we remain alive. - Carlos Ruiz Zafon
+> A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. - Henry Ward Beecher
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
