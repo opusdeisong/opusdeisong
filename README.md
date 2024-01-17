@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> My instinct is always to seek out challenges as opposed to avoiding them. - Josh Waitzkin
+> When one does not have what one wants, one must want what one has. - Sigmund Freud
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
