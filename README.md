@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Don't let the noise of others opinions drown out your inner voice. - Steve Jobs
+> Peace is not the absence of conflict, but the ability to cope with it. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
