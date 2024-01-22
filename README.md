@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You have within you right now, everything you need to deal with whatever the world can throw at you. - Brian Tracy
+> Receive without pride, let go without attachment. - Marcus Aurelius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
