@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> You only live once, but if you do it right, once is enough. - Mae West
+> Happiness is a quality of the soul...not a function of one's material circumstances. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
