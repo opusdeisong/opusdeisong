@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Happiness is a quality of the soul...not a function of one's material circumstances. - Aristotle
+> Failure is a great teacher. If you're open to it every mistake has a lesson to offer. - Oprah Winfrey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
