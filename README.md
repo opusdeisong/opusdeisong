@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> It is ignorance that causes most mistakes. - Harry S. Truman
+> However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
