@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking
+> In the long run, the sharpest weapon of all is a kind and gentle spirit. - Anne Frank
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
