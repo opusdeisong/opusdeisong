@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> In the long run, the sharpest weapon of all is a kind and gentle spirit. - Anne Frank
+> Fear is your worst enemy. Risk is your best friend. - Gurbaksh Chahal
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
