@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Motivation gets you going and habit gets you there.   - Zig Ziglar
+> Try to be a rainbow in someone's cloud. - Maya Angelou
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
