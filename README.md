@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Try to be a rainbow in someone's cloud. - Maya Angelou
+> A clear conscience is the sure sign of a bad memory. - Mark Twain
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
