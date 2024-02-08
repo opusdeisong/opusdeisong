@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results. - Tony Robbins
+> Eighty percent of success is showing up.  - Woody Allen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
