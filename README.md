@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Any game becomes important when you know and love the players. - W.P. Kinsella
+> I am always doing what I cannot do yet, in order to learn how to do it. - Vincent van Gogh
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
