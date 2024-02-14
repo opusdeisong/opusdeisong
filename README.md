@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Progress comes to those who train and train; reliance on secret techniques will get you nowhere. - Morihei Ueshiba
+> Every moment of happiness requires a great amount of Ignorance - Honore de Balzac
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
