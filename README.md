@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Speak when you are angry - and you'll make the best speech you'll ever regret. - Laurence J. Peter
+> Gratitude is the fairest blossom which springs from the soul. - Henry Ward Beecher
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
