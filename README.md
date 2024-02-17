@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Gratitude is the fairest blossom which springs from the soul. - Henry Ward Beecher
+> Remember to look up at the stars and not down at your feet. - Stephen Hawking
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
