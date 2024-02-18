@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Remember to look up at the stars and not down at your feet. - Stephen Hawking
+> It's not what we do once in a while that shapes our lives, but what we do consistently. - Tony Robbins
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
