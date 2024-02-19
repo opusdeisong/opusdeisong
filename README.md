@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> It's not what we do once in a while that shapes our lives, but what we do consistently. - Tony Robbins
+> Be willing to be a beginner every single morning. - Meister Eckhart
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
