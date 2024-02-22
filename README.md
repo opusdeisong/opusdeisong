@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Your hardest times often lead to the greatest moments of your life. Keep going. Tough situations build strong people in the end. - Roy T. Bennett
+> One is never afraid of the unknown; one is afraid of the known coming to an end. - Jiddu Krishnamurti
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
