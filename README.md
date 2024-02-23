@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> One is never afraid of the unknown; one is afraid of the known coming to an end. - Jiddu Krishnamurti
+> Happiness is not the absence of problems, it's the ability to deal with them. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
