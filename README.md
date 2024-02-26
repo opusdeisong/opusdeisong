@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The majority of what you want will come from the minority of what you do. - Gary Keller
+> The strongest and sweetest songs yet remain to be sung. - Walt Whitman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
