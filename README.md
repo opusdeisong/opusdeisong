@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you care about someone enough, you'll always be there for them no matter what. - Roy T. Bennett
+> The glow of one warm thought is to me worth more than money. - Thomas Jefferson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
