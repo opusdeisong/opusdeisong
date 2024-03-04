@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Progress lies not in enhancing what is, but in advancing toward what will be. - Kahlil Gibran
+> Faithless is he that says farewell when the road darkens. - J.R.R. Tolkien
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
