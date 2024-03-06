@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Your friends will know you better in the first minute you meet than your acquaintances will know you in a thousand years. - Richard Bach
+> There is nothing quite so tragic as a young cynic. - Maya Angelou
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
