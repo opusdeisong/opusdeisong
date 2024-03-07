@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> There is nothing quite so tragic as a young cynic. - Maya Angelou
+> The first half of life is devoted to forming a healthy ego, the second half is going inward and letting go of it. - Carl Jung
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
