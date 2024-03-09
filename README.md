@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Throw your heart over the fence and the rest will follow - Norman Vincent Peale
+> Champions keep playing until they get it right. - Billie Jean King
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
