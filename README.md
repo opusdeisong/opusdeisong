@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Our life isn't how much we can take out, but how much we can put in.   - Estee Lauder
+> The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. - George Bernard Shaw
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
