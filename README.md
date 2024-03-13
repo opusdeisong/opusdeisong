@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. - George Bernard Shaw
+> Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
