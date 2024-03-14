@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
+> If you spend too much time thinking about a thing, you'll never get it done.  - Bruce Lee
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
