@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> If you spend too much time thinking about a thing, you'll never get it done.  - Bruce Lee
+> Always dream and shoot higher than you know you can do. Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself. - William Faulkner
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
