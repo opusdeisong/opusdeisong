@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> It is hard to fail, but it is worse never to have tried to succeed. - Theodore Roosevelt
+> A creative man is motivated by the desire to achieve, not by the desire to beat others. - Ayn Rand
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
