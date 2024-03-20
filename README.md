@@ -23,7 +23,7 @@
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
   <blockquote>
-> Shoot for the moon. Even if you miss, you'll land among the stars. - Norman Vincent Peale
+> Every blessing ignored becomes a curse. - Paulo Coelho
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
