@@ -22,6 +22,13 @@
   <hr>
   <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
     Camp Humphrey, South Korea (2020-2021)</h3>
+    <hr>
+
+   <h3>Work Experience</h3> 
+    <h4>👨‍💻 AI Home Appliance SW Developer Intern </h4>
+    <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
+    <p>(2024.03 ~ 2024.06)</p>
+     <hr>
   <blockquote>
 > Every blessing ignored becomes a curse. - Paulo Coelho
   </blockquote>
