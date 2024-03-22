@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Life is growth. If we stop growing, technically and spiritually, we are as good as dead. - Morihei Ueshiba
+> Dreams are for dreamers. Goals are for achievers. - Arnold Schwarzenegger
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
