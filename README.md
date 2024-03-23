@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Dreams are for dreamers. Goals are for achievers. - Arnold Schwarzenegger
+> Forever is composed of now's. - Emily Dickinson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
