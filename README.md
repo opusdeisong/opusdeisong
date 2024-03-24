@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Forever is composed of now's. - Emily Dickinson
+> Whatever happens always happens on time. - Zen Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
