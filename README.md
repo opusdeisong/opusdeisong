@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Whatever happens always happens on time. - Zen Proverb
+> Life moves on and so should we. - Spencer Johnson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
