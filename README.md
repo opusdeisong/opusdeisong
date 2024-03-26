@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Life moves on and so should we. - Spencer Johnson
+> It's much better to do good in a way that no one knows anything about it. - Leo Tolstoy
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
