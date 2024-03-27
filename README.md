@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> It's much better to do good in a way that no one knows anything about it. - Leo Tolstoy
+> Ponder and deliberate before you make a move. - Sun Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
