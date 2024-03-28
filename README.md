@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Ponder and deliberate before you make a move. - Sun Tzu
+> Every experience is a lesson. Every loss is a gain. - Sathya Sai Baba
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
