@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Every experience is a lesson. Every loss is a gain. - Sathya Sai Baba
+> Don't try to be young. Just open your mind. Stay interested in stuff. - Betty White
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
