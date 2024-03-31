@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> You're braver than you believe, and stronger than you seem, and smarter than you think. - A.A. Milne
+> The wise learn many things from their enemies. - Aristophanes
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
