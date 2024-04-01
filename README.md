@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> The wise learn many things from their enemies. - Aristophanes
+> The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
