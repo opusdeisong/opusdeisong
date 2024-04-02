@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
+> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  - Oprah Winfrey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
