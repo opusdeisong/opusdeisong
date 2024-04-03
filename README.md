@@ -30,7 +30,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.  - Oprah Winfrey
+> Life is what you make it. Always has been, always will be. - Eleanor Roosevelt
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
