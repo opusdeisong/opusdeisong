@@ -28,6 +28,9 @@
     <h4>👨‍💻 AI Home Appliance SW Developer Intern </h4>
     <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
     <p>(2024.03 ~ 2024.06)</p>
+    <h4>👨‍💻 CNC Study PM </h4>
+    <p>Providing English Questions and Analysis for Middle School Student</p>
+    <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
 > Life is what you make it. Always has been, always will be. - Eleanor Roosevelt
