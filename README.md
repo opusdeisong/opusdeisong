@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Life is what you make it. Always has been, always will be. - Eleanor Roosevelt
+> Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. - Robert Kiyosaki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
