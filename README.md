@@ -20,8 +20,8 @@
   <p>🥈 2nd Place in Software Engineering Project with LG</p>
   <p>🥇 1st Place in Namuthon(2023 GDSC X Alpaco Hackathon)</p>
   <hr>
-  <h3>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
-    Camp Humphrey, South Korea (2020-2021)</h3>
+  <p>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
+    Camp Humphrey, South Korea (2020-2021)</p>
     <hr>
 
    <h3>Work Experience</h3> 
