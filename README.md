@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Where the willingness is great, the difficulties cannot be great. - Niccolo Machiavelli
+> All religions, arts and sciences are branches of the same tree.  - Albert Einstein
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
