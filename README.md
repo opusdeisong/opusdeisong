@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> All religions, arts and sciences are branches of the same tree.  - Albert Einstein
+> Why compare yourself with others? No one in the entire world can do a better job of being you than you. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
