@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Why compare yourself with others? No one in the entire world can do a better job of being you than you. - Unknown
+> Like it or not, this moment is all we really have to work with. - Jon Kabat-Zinn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
