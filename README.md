@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Like it or not, this moment is all we really have to work with. - Jon Kabat-Zinn
+> Zen insists that the whole trouble is just our failure to realize that there is no problem. - Bruce Lee
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
