@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Zen insists that the whole trouble is just our failure to realize that there is no problem. - Bruce Lee
+> It all depends on what you choose to believe. - Spencer Johnson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
