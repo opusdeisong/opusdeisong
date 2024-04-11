@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It all depends on what you choose to believe. - Spencer Johnson
+> Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
