@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa
+> The meaning of life is just to be alive. It is so plain and so obvious and so simple. - Alan Watts
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
