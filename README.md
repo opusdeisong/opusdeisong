@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The meaning of life is just to be alive. It is so plain and so obvious and so simple. - Alan Watts
+> Your next step is simple. You are the first domino. - Gary Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
