@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Your next step is simple. You are the first domino. - Gary Keller
+> A little impatience will spoil great plans. - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
