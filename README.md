@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A little impatience will spoil great plans. - Chinese Proverb
+> Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Confucius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
