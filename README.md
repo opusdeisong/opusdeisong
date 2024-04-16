@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Education breeds confidence. Confidence breeds hope. Hope breeds peace. - Confucius
+> You don't have to be great to start, but you have to start to be great.   - Zig Ziglar
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
