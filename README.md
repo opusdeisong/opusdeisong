@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You don't have to be great to start, but you have to start to be great.   - Zig Ziglar
+> Against the assault of laughter nothing can stand. - Mark Twain
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
