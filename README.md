@@ -33,7 +33,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Against the assault of laughter nothing can stand. - Mark Twain
+> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. - Naval Ravikant
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
