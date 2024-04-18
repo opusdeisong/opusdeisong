@@ -18,7 +18,7 @@
   <hr>
   <h3>👋 Hi, I'm Woojung Song!</h3>
   <p>🎓 Studying Information System at Hanyang University</p>
-  <p>💻 Passionate about learning algorithms using Python and exploring machine learning</p>
+  <p>💻 Passionate about learning algorithms using Python and learning Deep Learning</p>
   <p>🚀 Successfully completed a project as a PM to display scores for academy students</p>
   <hr>
   <h3>Awards</h3>
@@ -33,8 +33,8 @@
     <h4>👨‍💻 AI Home Appliance SW Developer Intern </h4>
     <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
     <p>(2024.03 ~ 2024.06)</p>
-    <h4>🤝 CNC Study PM </h4>
-    <p>Providing English Questions and Analysis for Middle School Student</p>
+    <h4>🤝 CNC Study (Datalingo Team PM) </h4>
+    <p>Providing English Questions and Analysis for Middle School Student (<a href="https://www.cncscore.com/">Working Page</a>)</p>  
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
