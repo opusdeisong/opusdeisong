@@ -8,7 +8,7 @@
   <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600">
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600"> -->
 
   ![](./profile-3d-contrib/profile-gitblock.svg)
   
