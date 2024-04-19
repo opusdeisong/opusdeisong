@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The first rule of handling conflict is don't hang around people who are constantly engaging in conflict. - Naval Ravikant
+> What would you do if you weren't afraid? - Spencer Johnson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
