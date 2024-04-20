@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> What would you do if you weren't afraid? - Spencer Johnson
+> First say to yourself what you would be; and then do what you have to do. - Epictetus
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
