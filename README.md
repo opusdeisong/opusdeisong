@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> First say to yourself what you would be; and then do what you have to do. - Epictetus
+> There are no uninteresting things, only uninterested people. - Gilbert Chesterton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
