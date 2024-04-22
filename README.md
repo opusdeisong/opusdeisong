@@ -19,7 +19,7 @@
   <h3>👋 Hi, I'm Woojung Song!</h3>
   <p>🎓 Studying Information System at Hanyang University</p>
   <p>💻 Passionate about learning algorithms using Python and learning Deep Learning</p>
-  <p>🚀 Successfully completed a project as a PM to display scores for academy students</p>
+  <p>🚀 Currently writing a paper about generating questions based on paragraph.</p>
   <hr>
   <h3>Awards</h3>
   <p>🥈 2nd Place in Software Engineering Project with LG</p>
