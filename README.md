@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Do you have the patience to wait until your mud settles and the water is clear? - Lao Tzu
+> Be polite to all, but intimate with few. - Thomas Jefferson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
