@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be polite to all, but intimate with few. - Thomas Jefferson
+> Sometimes you will never know the value of something, until it becomes a memory. - Dr. Seuss
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
