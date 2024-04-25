@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Sometimes you will never know the value of something, until it becomes a memory. - Dr. Seuss
+> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. - Charles Dickens
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
