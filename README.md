@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. - Charles Dickens
+> It is our experiences that mold us into who we are...during times of adversity our true character will show. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
