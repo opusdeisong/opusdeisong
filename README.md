@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is our experiences that mold us into who we are...during times of adversity our true character will show. - Unknown
+> No amount of regretting can change the past, and no amount of worrying can change the future. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
