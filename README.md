@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I have no methods; all I do is accept people as they are. - Joan Rivers
+> Change begets change. Nothing propagates so fast. - Charles Dickens
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
