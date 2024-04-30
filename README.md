@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Change begets change. Nothing propagates so fast. - Charles Dickens
+> Go for it now. The future is promised to no one. - Wayne Dyer
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
