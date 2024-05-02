@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> As you think, so shall you become.  - Bruce Lee
+> Never take your position for granted and never let any favors you receive go to your head. - Robert Greene
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
