@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Never take your position for granted and never let any favors you receive go to your head. - Robert Greene
+> The hard path is often the right one. The river teaches more than the shore. - Maxime Lagace
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
