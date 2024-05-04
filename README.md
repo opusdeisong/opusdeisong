@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The hard path is often the right one. The river teaches more than the shore. - Maxime Lagace
+> If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month. - Theodore Roosevelt
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
