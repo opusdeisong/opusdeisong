@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you could kick the person in the pants responsible for most of your trouble, you wouldn't sit for a month. - Theodore Roosevelt
+> Walking with a friend in the dark is better than walking alone in the light. - Helen Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
