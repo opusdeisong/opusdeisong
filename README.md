@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To accomplish big things, I am convinced you must first dream big dreams. - Conrad Hilton
+> You must learn to let go. Release the stress. You were never in control anyway. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
