@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Creative endeavors are by their nature uncertain. - Robert Greene
+> You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way. - Richard Bach
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
