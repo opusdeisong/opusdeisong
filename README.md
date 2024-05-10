@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You have the freedom to be yourself, your true self, here and now, and nothing can stand in your way. - Richard Bach
+> If you do not conquer self, you will be conquered by self. - Napoleon Hill
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
