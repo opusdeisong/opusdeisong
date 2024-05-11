@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you do not conquer self, you will be conquered by self. - Napoleon Hill
+> I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams. - D. H. Lawrence
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
