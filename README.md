@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The purpose of life is the life of purpose. - Robin Sharma
+> You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
