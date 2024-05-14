@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You were put on this earth to achieve your greatest self, to live out your purpose, and to do it courageously. - Steve Maraboli
+> You become stronger with every problem you face and every obstacle you overcome. - Celestine Chua
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
