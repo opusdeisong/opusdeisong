@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You become stronger with every problem you face and every obstacle you overcome. - Celestine Chua
+> Empty yourself of everything - let the mind become still. - Lao Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
