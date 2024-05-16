@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Empty yourself of everything - let the mind become still. - Lao Tzu
+> If your mind is empty, it is always ready for anything, it is open to everything. - Shunryu Suzuki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
