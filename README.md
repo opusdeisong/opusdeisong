@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If your mind is empty, it is always ready for anything, it is open to everything. - Shunryu Suzuki
+> Live life as though nobody is watching, and express yourself as though everyone is listening. - Nelson Mandela
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
