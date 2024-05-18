@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Live life as though nobody is watching, and express yourself as though everyone is listening. - Nelson Mandela
+> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe. - Nikola Tesla
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
