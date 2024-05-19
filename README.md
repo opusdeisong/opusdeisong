@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe. - Nikola Tesla
+> I live by letting things happen. - Dogen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
