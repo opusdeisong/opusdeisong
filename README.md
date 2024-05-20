@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I live by letting things happen. - Dogen
+> Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. - Thich Nhat Hanh
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
