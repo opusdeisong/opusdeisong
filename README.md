@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Hope is important because it can make the present moment less difficult to bear. If we believe that tomorrow will be better, we can bear a hardship today. - Thich Nhat Hanh
+> Life has the name of life, but in reality it is death. - Heraclitus
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
