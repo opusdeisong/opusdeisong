@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Life has the name of life, but in reality it is death. - Heraclitus
+> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - Lao Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
