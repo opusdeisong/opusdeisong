@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - Lao Tzu
+> Your heart is the size of an ocean. Go find yourself in its hidden depths. - Rumi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
