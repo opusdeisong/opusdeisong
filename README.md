@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Your heart is the size of an ocean. Go find yourself in its hidden depths. - Rumi
+> Once you learn to quit, it becomes a habit. - Vince Lombardi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
