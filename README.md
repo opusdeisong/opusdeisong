@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Once you learn to quit, it becomes a habit. - Vince Lombardi
+> Get mad, then get over it. - Colin Powell
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
