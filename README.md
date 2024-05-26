@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Get mad, then get over it. - Colin Powell
+> Children are our greatest natural resource. - Herbert Hoover
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
