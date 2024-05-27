@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Children are our greatest natural resource. - Herbert Hoover
+> The secret of change is to focus all your energy not on fighting the old, but on building the new. - Dan Millman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
