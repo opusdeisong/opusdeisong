@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The secret of change is to focus all your energy not on fighting the old, but on building the new. - Dan Millman
+> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. - Peter Drucker
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
