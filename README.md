@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results. - Peter Drucker
+> Even the smallest person can change the course of the future. - J.R.R. Tolkien
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
