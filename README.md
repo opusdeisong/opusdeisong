@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Even the smallest person can change the course of the future. - J.R.R. Tolkien
+> The decisions of our past are the architects of our present. - Dan Brown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
