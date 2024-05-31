@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The decisions of our past are the architects of our present. - Dan Brown
+> Where focus goes, energy flows. - Tony Robbins
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
