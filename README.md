@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It's not about what it is, it's about what it can become. - Dr. Seuss
+> Don't criticize what you can't understand.  - Bob Dylan
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
