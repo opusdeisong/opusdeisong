@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Don't criticize what you can't understand.  - Bob Dylan
+> Words are like Leaves; and where they most abound, Much Fruit of Sense beneath is rarely found. - Alexander Pope
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
