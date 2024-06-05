@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You are the only real obstacle in your path to a fulfilling life. - Les Brown
+> We must have strong minds, ready to accept facts as they are. - Harry S. Truman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
