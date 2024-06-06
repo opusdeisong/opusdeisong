@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We must have strong minds, ready to accept facts as they are. - Harry S. Truman
+> The chief cause of failure and unhappiness is trading what you want most for what you want right now. - Zig Ziglar
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
