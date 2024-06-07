@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The chief cause of failure and unhappiness is trading what you want most for what you want right now. - Zig Ziglar
+> The power of human thought grows exponentially with the number of minds that share that thought. - Dan Brown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
