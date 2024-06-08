@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The power of human thought grows exponentially with the number of minds that share that thought. - Dan Brown
+> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - Robert Kiyosaki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
