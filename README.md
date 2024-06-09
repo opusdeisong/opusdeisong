@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - Robert Kiyosaki
+> I cannot make my days longer so I strive to make them better. - Henry David Thoreau
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
