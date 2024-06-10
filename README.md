@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I cannot make my days longer so I strive to make them better. - Henry David Thoreau
+> When the world pushes you to your knees, you're in the perfect position to pray. - Rumi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
