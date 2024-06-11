@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> When the world pushes you to your knees, you're in the perfect position to pray. - Rumi
+> The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! - Tony Robbins
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
