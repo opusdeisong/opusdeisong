@@ -30,7 +30,7 @@
     <hr>
 
    <h3>Work Experience</h3> 
-    <h4>👨‍💻 AI Home Appliance SW Developer Intern </h4>
+    <h4>👨‍💻 AI Speaker SW Developer Intern </h4>
     <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
     <p>(2024.03 ~ 2024.06)</p>
     <h4>🤝 CNC Study (Datalingo Team PM) </h4>
