@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Love is merely the name for the desire and pursuit of the whole. - Aristophanes
+> Everyone wants to go to Heaven, but no one wants to die. - Robert Kiyosaki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
