@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Everyone wants to go to Heaven, but no one wants to die. - Robert Kiyosaki
+> Live in the sunshine, swim the sea, drink the wild air. - Ralph Waldo Emerson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
