@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Live in the sunshine, swim the sea, drink the wild air. - Ralph Waldo Emerson
+> Follow your instincts. That is where true wisdom manifests itself. - Oprah Winfrey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
