@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I can think of nothing less pleasurable than a life devoted to pleasure. - John D. Rockefeller
+> All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
