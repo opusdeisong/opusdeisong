@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas
+> Love your enemies, for they tell you your faults. - Benjamin Franklin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
