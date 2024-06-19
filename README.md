@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Love your enemies, for they tell you your faults. - Benjamin Franklin
+> There is no path to Love. Love is the path. - Dan Millman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
