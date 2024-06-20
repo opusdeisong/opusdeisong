@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There is no path to Love. Love is the path. - Dan Millman
+> Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. - Ming-Dao Deng
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
