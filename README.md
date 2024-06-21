@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. - Ming-Dao Deng
+> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
