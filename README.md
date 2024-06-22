@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The universe doesn't give you what you ask for with your thoughts - it gives you what you demand with your actions. - Steve Maraboli
+> It is in the darkness that one finds the light. - Meister Eckhart
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
