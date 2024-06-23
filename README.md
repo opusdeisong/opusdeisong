@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is in the darkness that one finds the light. - Meister Eckhart
+> You are what you believe in. You become that which you believe you can become. - Bhagavad Gita
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
