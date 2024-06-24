@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You are what you believe in. You become that which you believe you can become. - Bhagavad Gita
+> The measure of wisdom is how calm you are when facing any given situation. - Naval Ravikant
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
