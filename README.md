@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The measure of wisdom is how calm you are when facing any given situation. - Naval Ravikant
+> No amount of regretting can change the past, and no amount of worrying can change the future. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
