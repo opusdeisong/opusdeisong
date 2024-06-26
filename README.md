@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> No amount of regretting can change the past, and no amount of worrying can change the future. - Roy T. Bennett
+> Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. - Celestine Chua
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
