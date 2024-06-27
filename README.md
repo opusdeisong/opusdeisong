@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Everyone faces challenges in life. It's a matter of how you learn to overcome them and using them to your advantage. - Celestine Chua
+> It is not uncommon for people to spend their whole life waiting to start living. - Eckhart Tolle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
