@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is not uncommon for people to spend their whole life waiting to start living. - Eckhart Tolle
+> Thinking is difficult, that's why most people judge. - Carl Jung
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
