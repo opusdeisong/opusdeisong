@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Thinking is difficult, that's why most people judge. - Carl Jung
+> Remain calm. Be kind. - Colin Powell
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
