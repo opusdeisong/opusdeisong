@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Remain calm. Be kind. - Colin Powell
+> If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
