@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you want others to be happy, practice compassion. If you want to be happy, practice compassion. - Dalai Lama
+> Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - Brian Tracy
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
