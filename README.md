@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Successful people are always looking for opportunities to help others. Unsuccessful people are always asking, 'What's in it for me?' - Brian Tracy
+> Life is about choice. You can choose to be a victim or anything else you like to be. - Celestine Chua
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
