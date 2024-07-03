@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Life is about choice. You can choose to be a victim or anything else you like to be. - Celestine Chua
+> Talk sense to a fool and he calls you foolish. - Euripides
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
