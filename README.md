@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Talk sense to a fool and he calls you foolish. - Euripides
+> Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. - James Cameron
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
