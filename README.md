@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. - James Cameron
+> Don't look back - you're not going that way. - Mary Engelbreit
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
