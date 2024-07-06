@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Don't look back - you're not going that way. - Mary Engelbreit
+> An ounce of performance is worth pounds of promises. - Mae West
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
