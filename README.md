@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> An ounce of performance is worth pounds of promises. - Mae West
+> Life should be touched, not strangled.   - Ray Bradbury
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
