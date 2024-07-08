@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Life should be touched, not strangled.   - Ray Bradbury
+> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. - Marcus Aurelius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
