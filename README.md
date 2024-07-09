@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. - Marcus Aurelius
+> Remember to look up at the stars and not down at your feet. - Stephen Hawking
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
