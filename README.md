@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A man's worth is no greater than his ambitions. - Marcus Aurelius
+> No man can get rich himself unless he enriches others. - Earl Nightingale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
