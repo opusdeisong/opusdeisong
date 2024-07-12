@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> No man can get rich himself unless he enriches others. - Earl Nightingale
+> Everyday you can take a tiny step in the right direction. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
