@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Everyday you can take a tiny step in the right direction. - Unknown
+> The road to success is always under construction.. - Lily Tomlin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
