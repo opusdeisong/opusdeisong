@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The road to success is always under construction.. - Lily Tomlin
+> Rivers know this: there is no hurry. We shall get there some day. - A.A. Milne
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
