@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Rivers know this: there is no hurry. We shall get there some day. - A.A. Milne
+> A minute's success pays the failure of years. - Robert Browning
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
