@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A minute's success pays the failure of years. - Robert Browning
+> There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
