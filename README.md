@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan
+> Nothing good ever comes of violence. - Martin Luther
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
