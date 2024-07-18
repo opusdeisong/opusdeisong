@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Nothing good ever comes of violence. - Martin Luther
+> Turn off your mind, relax, and float downstream. - John Lennon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
