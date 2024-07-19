@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Turn off your mind, relax, and float downstream. - John Lennon
+> He will win who knows when to fight and when not to fight. - Sun Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
