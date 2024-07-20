@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> He will win who knows when to fight and when not to fight. - Sun Tzu
+> Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. - William James
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
