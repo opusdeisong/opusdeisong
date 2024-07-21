@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Genius, in truth, means little more than the faculty of perceiving in an unhabitual way. - William James
+> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  - Henry Ford
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
