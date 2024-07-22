@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.  - Henry Ford
+> It's not the men in your life that matters, it's the life in your men. - Mae West
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
