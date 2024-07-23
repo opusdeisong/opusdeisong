@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It's not the men in your life that matters, it's the life in your men. - Mae West
+> Sometimes things become possible if we want them bad enough. - T.S. Eliot
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
