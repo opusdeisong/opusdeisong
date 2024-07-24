@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Sometimes things become possible if we want them bad enough. - T.S. Eliot
+> You get paid in direct proportion to the difficulty of problems you solve. - Elon Musk
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
