@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Make your stand today. On this spot. On this day. - Ming-Dao Deng
+> Things turn out best for the people who make the best of the way things turn out. - John Wooden
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
