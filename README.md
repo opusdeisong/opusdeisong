@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Things turn out best for the people who make the best of the way things turn out. - John Wooden
+> There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - Albert Einstein
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
