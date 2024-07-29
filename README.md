@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle. - Albert Einstein
+> I admire those who do good and expect nothing in return. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
