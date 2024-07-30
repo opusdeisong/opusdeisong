@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I admire those who do good and expect nothing in return. - Roy T. Bennett
+> Self-knowledge is the beginning of self-correction. - Norman Vincent Peale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
