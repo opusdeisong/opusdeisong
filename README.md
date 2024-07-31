@@ -38,7 +38,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Self-knowledge is the beginning of self-correction. - Norman Vincent Peale
+> The season of failure is the best time for sowing the seeds of success.  - Paramahansa Yogananda
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
