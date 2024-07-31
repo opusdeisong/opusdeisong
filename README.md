@@ -18,8 +18,6 @@
   <hr>
   <h3>👋 Hi, I'm Woojung Song!</h3>
   <p>🎓 Studying Information System at Hanyang University</p>
-  <p>💻 Passionate about learning algorithms and Studying about Large Language Models</p>
-  <p>🚀 Currently writing a paper about generating questions based on paragraph.</p>
   <hr>
   <h3>Awards</h3>
   <p>🥈 2nd Place in Software Engineering Project with LG</p>
@@ -30,6 +28,9 @@
     <hr>
 
    <h3>Work Experience</h3> 
+    <h4>🎓 SNU HOLI Lab Undergraduate Research Intern </h4>
+    <p>Studying about Aligning LLMs to human values</p>
+    <p>(2024.07 ~ )</p>
     <h4>👨‍💻 AI Speaker SW Developer Intern </h4>
     <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
     <p>(2024.03 ~ 2024.06)</p>
