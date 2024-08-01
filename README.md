@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The season of failure is the best time for sowing the seeds of success.  - Paramahansa Yogananda
+> Act the way you want to be and soon you'll be the way you act. - Les Brown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
