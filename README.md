@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Act the way you want to be and soon you'll be the way you act. - Les Brown
+> If you can't feed a hundred people, then feed just one. - Mother Teresa
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
