@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. - Paramahansa Yogananda
+> A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. - D. H. Lawrence
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
