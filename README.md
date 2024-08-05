@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. - D. H. Lawrence
+> A mountain never yields to the wind no matter how strong it is. - Zen Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
