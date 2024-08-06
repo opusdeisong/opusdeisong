@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A mountain never yields to the wind no matter how strong it is. - Zen Proverb
+> The more you are motivated by Love, The more Fearless & Free your action will be. - Dalai Lama
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
