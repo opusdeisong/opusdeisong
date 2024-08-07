@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The more you are motivated by Love, The more Fearless & Free your action will be. - Dalai Lama
+> If you want peace, you won't get it with violence. - John Lennon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
