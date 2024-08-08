@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you want peace, you won't get it with violence. - John Lennon
+> You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. - Zig Ziglar
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
