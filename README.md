@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Children are our greatest natural resource. - Herbert Hoover
+> None are more hopelessly enslaved than those who falsely believe they are free. - Johann Wolfgang von Goethe
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
