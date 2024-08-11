@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> None are more hopelessly enslaved than those who falsely believe they are free. - Johann Wolfgang von Goethe
+> Kindness is a language which the deaf can hear and the blind can see. - Mark Twain
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
