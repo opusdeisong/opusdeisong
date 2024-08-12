@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Kindness is a language which the deaf can hear and the blind can see. - Mark Twain
+> A friend to all is a friend to none. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
