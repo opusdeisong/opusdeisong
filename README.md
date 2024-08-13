@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A friend to all is a friend to none. - Aristotle
+> When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy. - Norman Vincent Peale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
