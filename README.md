@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You're never too old for anything. - Betty White
+> I'd rather welcome change than cling to the past. - Robert Kiyosaki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
