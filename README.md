@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I'd rather welcome change than cling to the past. - Robert Kiyosaki
+> It is ignorance that causes most mistakes. - Harry S. Truman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
