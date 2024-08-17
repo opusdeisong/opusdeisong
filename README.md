@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is ignorance that causes most mistakes. - Harry S. Truman
+> Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us. - Richard Bach
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
