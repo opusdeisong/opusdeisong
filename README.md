@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> When the fish is caught we pay no more attention to the trap. - Huang Po
+> What would life be if we had no courage to attempt anything?  - Vincent van Gogh
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
