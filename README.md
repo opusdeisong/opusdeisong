@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> What would life be if we had no courage to attempt anything?  - Vincent van Gogh
+> All power is from within and therefore under our control. - Robert Collier
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
