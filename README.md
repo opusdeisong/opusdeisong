@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> All power is from within and therefore under our control. - Robert Collier
+> Always render more and better service than is expected of you, no matter what your task may be. - Og Mandino
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
