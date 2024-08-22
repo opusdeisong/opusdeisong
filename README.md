@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Always render more and better service than is expected of you, no matter what your task may be. - Og Mandino
+> Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - Honore de Balzac
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
