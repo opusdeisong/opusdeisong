@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - Honore de Balzac
+> For all evils there are two remedies - time and silence. - Alexandre Dumas
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
