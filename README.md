@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> For all evils there are two remedies - time and silence. - Alexandre Dumas
+> Is it really possible to tell someone else what one feels? - Leo Tolstoy
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
