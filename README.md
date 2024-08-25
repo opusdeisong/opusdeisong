@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Is it really possible to tell someone else what one feels? - Leo Tolstoy
+> Choose to be optimistic, it feels better. - Dalai Lama
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
