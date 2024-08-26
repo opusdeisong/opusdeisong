@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Choose to be optimistic, it feels better. - Dalai Lama
+> The significance of life is living. - Jiddu Krishnamurti
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
