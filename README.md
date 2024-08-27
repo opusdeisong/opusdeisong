@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The significance of life is living. - Jiddu Krishnamurti
+> Nothing is really work unless you would rather be doing something else.  - James Matthew Barrie
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
