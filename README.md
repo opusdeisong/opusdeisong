@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Successful people do what unsuccessful people are not willing to do. - Jim Rohn
+> Heroes don't need to talk about what they did. - W.P. Kinsella
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
