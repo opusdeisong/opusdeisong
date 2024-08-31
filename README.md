@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Heroes don't need to talk about what they did. - W.P. Kinsella
+> TEAMWORK: the fuel that allows common people attain uncommon results. - Andrew Carnegie
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
