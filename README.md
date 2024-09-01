@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> TEAMWORK: the fuel that allows common people attain uncommon results. - Andrew Carnegie
+> We think too much and feel too little. - Charlie Chaplin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
