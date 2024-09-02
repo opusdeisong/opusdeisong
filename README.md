@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We think too much and feel too little. - Charlie Chaplin
+> As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt. - Jack London
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
