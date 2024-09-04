@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> In life you need either inspiration or desperation. - Tony Robbins
+> The sun is new each day. - Heraclitus
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
