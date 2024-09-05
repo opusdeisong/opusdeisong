@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The sun is new each day. - Heraclitus
+> Even though you are on the right track - you will get run over if you just sit there. - Will Rogers
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
