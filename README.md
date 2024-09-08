@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The scariest monsters are the ones that lurk within our souls. - Edgar Allan Poe
+> Live simply, expect little, give much. - Norman Vincent Peale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
