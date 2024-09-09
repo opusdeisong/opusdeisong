@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Live simply, expect little, give much. - Norman Vincent Peale
+> Everyone has the right to make his own decisions, but none has the right to force his decision on others. - Ayn Rand
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
