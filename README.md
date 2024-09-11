@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> How much pain they have cost us, the evils which have never happened. - Thomas Jefferson
+> In youth we run into difficulties. In old age difficulties run into us.  - Beverly Sills
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
