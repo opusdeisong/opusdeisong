@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> In youth we run into difficulties. In old age difficulties run into us.  - Beverly Sills
+> Take care of your cents: dollars will take care of themselves. - Thomas Jefferson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
