@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Take care of your cents: dollars will take care of themselves. - Thomas Jefferson
+> It's not what you've got; it's what you do that makes the difference. - Celestine Chua
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
