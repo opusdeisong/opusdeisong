@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Rest in reason; move in passion. - Kahlil Gibran
+> Every moment is a fresh beginning. - T.S. Eliot
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
