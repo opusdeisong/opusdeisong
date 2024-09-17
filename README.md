@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - Gary Keller
+> What is a friend? A single soul dwelling in two bodies. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
