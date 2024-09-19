@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You may forget with whom you laughed, but you will never forget with whom you wept.   - Kahlil Gibran
+> No tree, it is said, can grow to heaven unless its roots reach down to hell. - Carl Jung
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
