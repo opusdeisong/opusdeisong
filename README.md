@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> No tree, it is said, can grow to heaven unless its roots reach down to hell. - Carl Jung
+> Obstacles are those frightful things you see when you take your eyes off your goals. - Sydney Smith
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
