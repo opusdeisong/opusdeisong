@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Obstacles are those frightful things you see when you take your eyes off your goals. - Sydney Smith
+> The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
