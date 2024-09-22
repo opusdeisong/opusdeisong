@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran
+> Nothing is hopeless; we must hope for everything. - Euripides
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
