@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Nothing is hopeless; we must hope for everything. - Euripides
+> Everything will be ok in the end. If it's not ok, it's not the end. - John Lennon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
