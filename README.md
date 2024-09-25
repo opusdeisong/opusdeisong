@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Where focus goes, energy flows. - Tony Robbins
+> We've got to live, no matter how many skies have fallen. - D. H. Lawrence
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
