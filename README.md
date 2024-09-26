@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We've got to live, no matter how many skies have fallen. - D. H. Lawrence
+> You are the average of the five people you spend the most time with. - Jim Rohn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
