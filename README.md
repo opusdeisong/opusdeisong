@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You are the average of the five people you spend the most time with. - Jim Rohn
+> To a mind that is still, the entire universe surrenders. - Zhuangzi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
