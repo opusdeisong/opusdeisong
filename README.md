@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To a mind that is still, the entire universe surrenders. - Zhuangzi
+> There is always risk, so learn to manage risk instead of avoiding it. - Robert Kiyosaki
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
