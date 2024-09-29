@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There is always risk, so learn to manage risk instead of avoiding it. - Robert Kiyosaki
+> Be not afraid of growing slowly, be afraid only of standing still.  - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
