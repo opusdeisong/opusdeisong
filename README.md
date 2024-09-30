@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be not afraid of growing slowly, be afraid only of standing still.  - Chinese Proverb
+> If you don't make things happen then things will happen to you. - Robert Collier
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
