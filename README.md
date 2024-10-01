@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you don't make things happen then things will happen to you. - Robert Collier
+> The more you like yourself, the less you are like anyone else, which makes you unique. - Walt Disney
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
