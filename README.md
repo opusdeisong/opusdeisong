@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Who you are is always right. - Ming-Dao Deng
+> Listen to the secret sound, the real sound, which is inside you. - Kabir
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
