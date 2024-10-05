@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Real loss is only possible when you love something more than you love yourself. - Robin Williams
+> What most people need to learn in life is how to love people and use things instead of using people and loving things. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
