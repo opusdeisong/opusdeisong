@@ -20,6 +20,9 @@
   <p>🎓 Studying Information System at Hanyang University</p>
   <hr>
   <h3>Awards</h3>
+  <p>🥇 1st Place from Korea Railroad Corporation Busan-Gyeongnam Headquarters in 2024 DIVE competition</p>
+  <p>🥉 3rd Place from Busan Metropolitan City in App and Service Development category (2024 DIVE)</p>
+ 
   <p>🥈 2nd Place in Software Engineering Project with LG</p>
   <p>🥇 1st Place in Namuthon(2023 GDSC X Alpaco Hackathon)</p>
   <hr>
