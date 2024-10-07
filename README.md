@@ -39,7 +39,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To forget the whole world is easy; to make the whole world forget you is hard. - Zhuangzi
+> Life is trying things to see if they work. - Ray Bradbury
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
