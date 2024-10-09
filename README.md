@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
+> To every action there is always opposed an equal reaction. - Isaac Newton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
