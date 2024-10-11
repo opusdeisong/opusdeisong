@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Embrace the life you have and stop wishing that you could be someone else. - Joyce Meyer
+> Do anything, but let it produce joy. - Walt Whitman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
