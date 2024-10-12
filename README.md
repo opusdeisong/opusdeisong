@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Do anything, but let it produce joy. - Walt Whitman
+> You are never too old to set another goal or to dream a new dream. - Les Brown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
