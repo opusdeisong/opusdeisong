@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You are never too old to set another goal or to dream a new dream. - Les Brown
+> Definiteness of purpose is the starting point of all achievement.  - W. Clement Stone
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
