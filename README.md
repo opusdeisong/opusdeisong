@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Definiteness of purpose is the starting point of all achievement.  - W. Clement Stone
+> Blessed is he who expects nothing, for he shall be disappointed. - Jonathan Swift
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
