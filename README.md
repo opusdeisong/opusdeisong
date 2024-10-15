@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Blessed is he who expects nothing, for he shall be disappointed. - Jonathan Swift
+> Sometimes, the only way to evolve is to open ourselves fully. - Kamal Ravikant
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
