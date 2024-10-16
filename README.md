@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Sometimes, the only way to evolve is to open ourselves fully. - Kamal Ravikant
+> You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. - Arnold Schwarzenegger
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
