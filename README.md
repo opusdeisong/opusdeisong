@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. - Arnold Schwarzenegger
+> You may think I'm small, but I have a universe inside my mind. - Yoko Ono
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
