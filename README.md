@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You may think I'm small, but I have a universe inside my mind. - Yoko Ono
+> You are now, and you do become, what you think about. - Earl Nightingale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
