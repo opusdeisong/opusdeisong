@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You are now, and you do become, what you think about. - Earl Nightingale
+> Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die. - Gilbert Chesterton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
