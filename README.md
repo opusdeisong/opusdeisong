@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Courage is almost a contradiction in terms. It means a strong desire to live taking the form of a readiness to die. - Gilbert Chesterton
+> The greatest deception men suffer is from their own opinions. - Leonardo da Vinci
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
