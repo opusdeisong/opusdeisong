@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The greatest deception men suffer is from their own opinions. - Leonardo da Vinci
+> Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. - Eckhart Tolle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
