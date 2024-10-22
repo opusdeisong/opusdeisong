@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. - Eckhart Tolle
+> If you do not get the chills when you set your goal you're not setting big enough goals. - Bob Proctor
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
