@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you do not get the chills when you set your goal you're not setting big enough goals. - Bob Proctor
+> Each of us is a unique strand in the intricate web of life and here to make a contribution. - Deepak Chopra
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
