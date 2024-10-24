@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Each of us is a unique strand in the intricate web of life and here to make a contribution. - Deepak Chopra
+> The best dreams happen when you're awake. - Cherie Gilderbloom
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
