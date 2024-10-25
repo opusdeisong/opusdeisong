@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The best dreams happen when you're awake. - Cherie Gilderbloom
+> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. - Richard Bach
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
