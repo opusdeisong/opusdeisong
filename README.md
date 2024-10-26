@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Your conscience is the measure of the honesty of your selfishness. Listen to it carefully. - Richard Bach
+> If you're not failing every now and again, it's a sign you're not doing anything very innovative. - Woody Allen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
