@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you're not failing every now and again, it's a sign you're not doing anything very innovative. - Woody Allen
+> Conquer the devils with a little thing called love. - Bob Marley
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
