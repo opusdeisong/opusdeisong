@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Conquer the devils with a little thing called love. - Bob Marley
+> The most tragic thing in the world is a man of genius who is not a man of honor. - George Bernard Shaw
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
