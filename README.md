@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Do not think you will necessarily be aware of your own enlightenment. - Dogen
+> Real loss is only possible when you love something more than you love yourself. - Robin Williams
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
