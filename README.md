@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Productize your perspective. - Jack Butcher
+> That some achieve great success is proof to all that others can achieve it as well. - Abraham Lincoln
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
