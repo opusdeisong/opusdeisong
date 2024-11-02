@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> That some achieve great success is proof to all that others can achieve it as well. - Abraham Lincoln
+> Every great change is preceded by chaos. - Deepak Chopra
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
