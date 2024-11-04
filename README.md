@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Here and now...breathe and relax...in battle and in life. - Dan Millman
+> Rewards and punishment is the lowest form of education. - Zhuangzi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
