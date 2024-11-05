@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Rewards and punishment is the lowest form of education. - Zhuangzi
+> The only thing worse than being blind is having sight but no vision. - Helen Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
