@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The only thing worse than being blind is having sight but no vision. - Helen Keller
+> The temptation to give up is strongest just before victory. - Zen Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
