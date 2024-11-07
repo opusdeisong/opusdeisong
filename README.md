@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The temptation to give up is strongest just before victory. - Zen Proverb
+> If a thing is worth doing, it is worth doing badly. - Gilbert Chesterton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
