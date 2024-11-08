@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If a thing is worth doing, it is worth doing badly. - Gilbert Chesterton
+> Making your mark on the world is hard. If it were easy, everybody would do it. - Barack Obama
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
