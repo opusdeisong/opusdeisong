@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Making your mark on the world is hard. If it were easy, everybody would do it. - Barack Obama
+> Work as though you would live forever, and live as though you would die today. Go another mile. - Og Mandino
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
