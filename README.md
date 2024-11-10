@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Work as though you would live forever, and live as though you would die today. Go another mile. - Og Mandino
+> Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
