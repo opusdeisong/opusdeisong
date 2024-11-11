@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal
+> You must learn to let go. Release the stress. You were never in control anyway. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
