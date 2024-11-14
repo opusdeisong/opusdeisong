@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be grateful for what you have now, and nothing should be taken for granted. - Roy T. Bennett
+> If ever you feel like an animal among men, be a lion. - Criss Jami
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
