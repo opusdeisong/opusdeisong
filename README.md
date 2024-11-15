@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If ever you feel like an animal among men, be a lion. - Criss Jami
+> No man becomes rich unless he enriches others. - Andrew Carnegie
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
