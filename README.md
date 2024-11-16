@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> No man becomes rich unless he enriches others. - Andrew Carnegie
+> It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   - Seneca
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
