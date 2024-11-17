@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.   - Seneca
+> Living life in style also means living a life of balance. - Jim Rohn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
