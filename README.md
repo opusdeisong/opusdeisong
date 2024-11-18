@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Living life in style also means living a life of balance. - Jim Rohn
+> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - Deepak Chopra
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
