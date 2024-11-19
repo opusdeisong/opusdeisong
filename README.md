@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - Deepak Chopra
+> What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. - Robert Greene
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
