@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. - Robert Greene
+> Things do not have meaning. We assign meaning to everything. - Tony Robbins
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
