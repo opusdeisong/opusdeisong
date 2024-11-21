@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Things do not have meaning. We assign meaning to everything. - Tony Robbins
+> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
