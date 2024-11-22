@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene
+> At the center of your being you have the answer; you know who you are and you know what you want. - Lao Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
