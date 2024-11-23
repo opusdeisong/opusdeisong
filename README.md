@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> At the center of your being you have the answer; you know who you are and you know what you want. - Lao Tzu
+> A needle is not sharp at both ends.  - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
