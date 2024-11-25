@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> As one grows weaker one is less susceptible to suffering. There is less hurt because there is less to hurt. - Jack London
+> When you judge others, you do not define them, you define yourself. - Earl Nightingale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
