@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> When you judge others, you do not define them, you define yourself. - Earl Nightingale
+> The greater the impact you want to make, the greater your influence needs to be. - Lolly Daskal
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
