@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is better to be looked over than overlooked. - Mae West
+> Far more crucial than what we know or do not know is what we do not want to know. - Eric Hoffer
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
