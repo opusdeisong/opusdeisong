@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Far more crucial than what we know or do not know is what we do not want to know. - Eric Hoffer
+> It is those who concentrate on but one thing at a time who advance in this world. - Gary Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
