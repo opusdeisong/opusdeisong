@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is those who concentrate on but one thing at a time who advance in this world. - Gary Keller
+> You know you are on the road to success if you would do your job and not be paid for it. - Oprah Winfrey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
