@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You know you are on the road to success if you would do your job and not be paid for it. - Oprah Winfrey
+> When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
