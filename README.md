@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
+> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. - Gary Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
