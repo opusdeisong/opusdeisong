@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it. - Gary Keller
+> He who cheats the earth will be cheated by the earth. - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
