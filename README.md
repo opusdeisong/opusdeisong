@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Believe in your infinite potential. Your only limitations are those you set upon yourself. - Roy T. Bennett
+> Fears are nothing more than a state of mind. - Napoleon Hill
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
