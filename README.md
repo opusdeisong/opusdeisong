@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Fears are nothing more than a state of mind. - Napoleon Hill
+> Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
