@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb
+> If I have seen further than others, it is by standing upon the shoulders of giants. - Isaac Newton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
