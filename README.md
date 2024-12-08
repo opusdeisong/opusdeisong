@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If I have seen further than others, it is by standing upon the shoulders of giants. - Isaac Newton
+> Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. - Kamal Ravikant
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
