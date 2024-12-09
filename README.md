@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff. - Kamal Ravikant
+> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.   - Wayne Dyer
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
