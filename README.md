@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Peace is the result of retraining your mind to process life as it is, rather than as you think it should be.   - Wayne Dyer
+> You use a glass mirror to see your face; you use works of art to see your soul. - George Bernard Shaw
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
