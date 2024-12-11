@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You use a glass mirror to see your face; you use works of art to see your soul. - George Bernard Shaw
+> It's always to soon to quit! - Norman Vincent Peale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
