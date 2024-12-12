@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It's always to soon to quit! - Norman Vincent Peale
+> Every one of us is the sum total of his own thoughts. - Earl Nightingale
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
