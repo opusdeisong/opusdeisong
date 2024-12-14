@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Don't listen to the person who has the answers; listen to the person who has the questions. - Albert Einstein
+> For fast-acting relief try slowing down. - Lily Tomlin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
