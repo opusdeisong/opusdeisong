@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> For fast-acting relief try slowing down. - Lily Tomlin
+> I love fools' experiments. I am always making them. - Charles Darwin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
