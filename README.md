@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> I love fools' experiments. I am always making them. - Charles Darwin
+> If you can't imagine it, you can't have it. - Toni Morrison
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
