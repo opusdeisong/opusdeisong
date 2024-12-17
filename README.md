@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you can't imagine it, you can't have it. - Toni Morrison
+> Real learning comes about when the competitive spirit has ceased. - Jiddu Krishnamurti
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
