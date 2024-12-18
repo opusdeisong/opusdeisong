@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Real learning comes about when the competitive spirit has ceased. - Jiddu Krishnamurti
+> Boldness makes even the smallest animal dangerous. - Robert Greene
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
