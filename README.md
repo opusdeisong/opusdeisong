@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Boldness makes even the smallest animal dangerous. - Robert Greene
+> A single act of kindness throws out roots in all directions, and the roots spring up and make new trees. - Amelia Earhart
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
