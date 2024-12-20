@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A single act of kindness throws out roots in all directions, and the roots spring up and make new trees. - Amelia Earhart
+> Life must be a constant education; one must learn everything, from speaking to dying. - Gustave Flaubert
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
