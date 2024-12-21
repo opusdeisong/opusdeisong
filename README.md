@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Life must be a constant education; one must learn everything, from speaking to dying. - Gustave Flaubert
+> There is no path to Peace. Peace is the path. - Dan Millman
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
