@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There is no path to Peace. Peace is the path. - Dan Millman
+> Every man gotta right to decide his own destiny. - Bob Marley
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
