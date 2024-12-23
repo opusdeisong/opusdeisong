@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Every man gotta right to decide his own destiny. - Bob Marley
+> Even the finest sword plunged into salt water will eventually rust. - Sun Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
