@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Even the finest sword plunged into salt water will eventually rust. - Sun Tzu
+> You cannot change your destination overnight but you can change your direction overnight. - Jim Rohn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
