@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You cannot change your destination overnight but you can change your direction overnight. - Jim Rohn
+> Believe you can and you're halfway there. - Theodore Roosevelt
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
