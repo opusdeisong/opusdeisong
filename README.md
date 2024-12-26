@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Believe you can and you're halfway there. - Theodore Roosevelt
+> By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul. - Marcus Aurelius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
