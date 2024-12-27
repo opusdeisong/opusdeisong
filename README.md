@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul. - Marcus Aurelius
+> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. - Rumi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
