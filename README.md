@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it. - Rumi
+> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. - W. Clement Stone
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
