@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Be careful the environment you choose for it will shape you; be careful the friends you choose for you will become like them. - W. Clement Stone
+> Time doesn't heal emotional pain, you need to learn how to let go. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
