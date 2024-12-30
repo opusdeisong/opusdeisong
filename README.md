@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Time doesn't heal emotional pain, you need to learn how to let go. - Roy T. Bennett
+> Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
