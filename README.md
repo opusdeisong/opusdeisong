@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius
+> A comfort zone is a beautiful place, but nothing ever grows there. - Unknown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
