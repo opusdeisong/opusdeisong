@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> A comfort zone is a beautiful place, but nothing ever grows there. - Unknown
+> If you've never eaten while crying you don t know what life tastes like. - Johann Wolfgang von Goethe
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
