@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you've never eaten while crying you don t know what life tastes like. - Johann Wolfgang von Goethe
+> Self-control is strength. - James Allen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
