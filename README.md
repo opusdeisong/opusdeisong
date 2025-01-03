@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Self-control is strength. - James Allen
+> We all give up great expectations along the way. - Carlos Ruiz Zafon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
