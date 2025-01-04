@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We all give up great expectations along the way. - Carlos Ruiz Zafon
+> Work harder on yourself than you do on your job. - Jim Rohn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
