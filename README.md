@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Work harder on yourself than you do on your job. - Jim Rohn
+> The sun is new each day. - Heraclitus
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
