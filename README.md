@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The sun is new each day. - Heraclitus
+> Correct what you can. Learn from what you can't. - Toni Morrison
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
