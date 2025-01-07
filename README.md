@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Correct what you can. Learn from what you can't. - Toni Morrison
+> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.  - Franz Kafka
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
