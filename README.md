@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old.  - Franz Kafka
+> Wealth is the product of man's capacity to think. - Ayn Rand
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
