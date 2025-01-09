@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Wealth is the product of man's capacity to think. - Ayn Rand
+> Those who know, do. Those that understand, teach. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
