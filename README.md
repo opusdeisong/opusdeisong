@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Those who know, do. Those that understand, teach. - Aristotle
+> It is not the knowing that is difficult, but the doing.  - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
