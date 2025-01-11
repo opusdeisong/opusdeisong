@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It is not the knowing that is difficult, but the doing.  - Chinese Proverb
+> I would rather be a little nobody, then to be an evil somebody. - Abraham Lincoln
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
