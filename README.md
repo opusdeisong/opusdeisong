@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Good things aren't supposed to just fall into your lap. - Audrey Hepburn
+> To live is to be willing to die over and over again. - Pema Chodron
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
