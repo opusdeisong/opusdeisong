@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To live is to be willing to die over and over again. - Pema Chodron
+> Truth is exact correspondence with reality.  - Paramahansa Yogananda
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
