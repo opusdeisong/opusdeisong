@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Truth is exact correspondence with reality.  - Paramahansa Yogananda
+> None are more hopelessly enslaved than those who falsely believe they are free. - Johann Wolfgang von Goethe
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
