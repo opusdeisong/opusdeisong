@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> None are more hopelessly enslaved than those who falsely believe they are free. - Johann Wolfgang von Goethe
+> There is no one giant step that does it. It's a lot of little steps. - Peter A. Cohen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
