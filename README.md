@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There is no one giant step that does it. It's a lot of little steps. - Peter A. Cohen
+> You don't need to be better than anyone else, you just need to be better than you used to be. - Wayne Dyer
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
