@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You don't need to be better than anyone else, you just need to be better than you used to be. - Wayne Dyer
+> In three words I can sum up everything I've learned about life: it goes on. - Robert Frost
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
