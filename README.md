@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> In three words I can sum up everything I've learned about life: it goes on. - Robert Frost
+> Projecting your mind into a successful situation is the most powerful means to achieve goals.   - Estee Lauder
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
