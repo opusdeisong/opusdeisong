@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Projecting your mind into a successful situation is the most powerful means to achieve goals.   - Estee Lauder
+> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts. - Charles Dickens
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
