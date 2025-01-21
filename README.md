@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Have a heart that never hardens, and a temper that never tires, and a touch that never hurts. - Charles Dickens
+> There are no shortcuts to any place worth going. - Beverly Sills
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
