@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> There are no shortcuts to any place worth going. - Beverly Sills
+> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
