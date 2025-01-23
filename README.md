@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy
+> You purchase pain with all that joy can give and die of nothing but a rage to live. - Alexander Pope
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
