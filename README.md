@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You purchase pain with all that joy can give and die of nothing but a rage to live. - Alexander Pope
+> Thinking is the hardest work there is, which is probably the reason why so few engage in it. - Henry Ford
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
