@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Thinking is the hardest work there is, which is probably the reason why so few engage in it. - Henry Ford
+> He that can have patience can have what he will. - Benjamin Franklin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
