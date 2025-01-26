@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> He that can have patience can have what he will. - Benjamin Franklin
+> Older men declare war. But it is youth that must fight and die. - Herbert Hoover
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
