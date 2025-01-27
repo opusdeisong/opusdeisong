@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Older men declare war. But it is youth that must fight and die. - Herbert Hoover
+> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - Betty White
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
