@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - Betty White
+> Where your talents and the needs of the world cross, there lies your vocation. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
