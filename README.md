@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Where your talents and the needs of the world cross, there lies your vocation. - Aristotle
+> If you are unable to find the truth right where you are, where else do you expect to find it? - Dogen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
