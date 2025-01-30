@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you are unable to find the truth right where you are, where else do you expect to find it? - Dogen
+> The greatest step towards a life of simplicity is to learn to let go. - Steve Maraboli
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
