@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The greatest step towards a life of simplicity is to learn to let go. - Steve Maraboli
+> To be totally at leisure for one day is to be immortal for one day.  - Chinese Proverb
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
