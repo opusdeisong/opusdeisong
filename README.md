@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> To be totally at leisure for one day is to be immortal for one day.  - Chinese Proverb
+> Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. - Paramahansa Yogananda
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
