@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean. - Paramahansa Yogananda
+> My instinct is always to seek out challenges as opposed to avoiding them. - Josh Waitzkin
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
