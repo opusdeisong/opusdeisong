@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> My instinct is always to seek out challenges as opposed to avoiding them. - Josh Waitzkin
+> 
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
