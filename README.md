@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> 
+> You must find the place inside yourself where nothing is impossible. - Deepak Chopra
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
