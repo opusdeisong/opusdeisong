@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> One never does wrong by doing right. - Norman Vincent Peale
+> It's wise to tell the truth. It's even wiser to tell it kindly. - Maxime Lagace
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
