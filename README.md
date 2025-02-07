@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> It's wise to tell the truth. It's even wiser to tell it kindly. - Maxime Lagace
+> By perseverance the snail reached the ark. - Charles Spurgeon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
