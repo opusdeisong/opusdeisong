@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> By perseverance the snail reached the ark. - Charles Spurgeon
+> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  - Charles Swindoll
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
