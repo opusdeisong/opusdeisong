@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic.  - Charles Swindoll
+> Every great change is preceded by chaos. - Deepak Chopra
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
