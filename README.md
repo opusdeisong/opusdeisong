@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Every great change is preceded by chaos. - Deepak Chopra
+> The quality of your life is the quality of your relationships. - Tony Robbins
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
