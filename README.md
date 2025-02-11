@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The quality of your life is the quality of your relationships. - Tony Robbins
+> The river that flows in you also flows in me. - Kabir
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
