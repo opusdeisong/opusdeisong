@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The river that flows in you also flows in me. - Kabir
+> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - T.S. Eliot
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
