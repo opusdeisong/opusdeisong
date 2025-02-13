@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - T.S. Eliot
+> If you can see it in your mind, you can hold it in your mind. - Steve Harvey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
