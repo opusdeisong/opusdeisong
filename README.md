@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> If you can see it in your mind, you can hold it in your mind. - Steve Harvey
+> Knowing others is wisdom, knowing yourself is enlightenment. - Lao Tzu
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
