@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Knowing others is wisdom, knowing yourself is enlightenment. - Lao Tzu
+> Your next step is simple. You are the first domino. - Gary Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
