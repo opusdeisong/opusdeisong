@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Your next step is simple. You are the first domino. - Gary Keller
+> Why change? Everyone has his own style. When you have found it, you should stick to it. - Audrey Hepburn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
