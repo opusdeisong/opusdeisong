@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Why change? Everyone has his own style. When you have found it, you should stick to it. - Audrey Hepburn
+> Through discipline comes freedom. - Aristotle
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
