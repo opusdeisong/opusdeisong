@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Through discipline comes freedom. - Aristotle
+> There is a difference between giving directions and giving direction. - Simon Sinek
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
