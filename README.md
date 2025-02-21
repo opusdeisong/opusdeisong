@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> You want to live but do you know how to live? You are scared of dying and tell me, is the kind of life you lead really any different from being dead? - Seneca
+> The more I want to get something done, the less I call it work. - Richard Bach
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
