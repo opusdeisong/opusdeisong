@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> The more I want to get something done, the less I call it work. - Richard Bach
+> We must create our own world or we will die from inaction. - Robert Greene
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
