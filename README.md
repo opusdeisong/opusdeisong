@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We must create our own world or we will die from inaction. - Robert Greene
+> Aim for the moon. If you miss, you may hit a star. - W. Clement Stone
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
