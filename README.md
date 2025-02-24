@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Aim for the moon. If you miss, you may hit a star. - W. Clement Stone
+> We ordinary people must forge our own beauty. - Kenji Miyazawa
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
