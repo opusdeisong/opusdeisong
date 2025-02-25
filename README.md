@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> We ordinary people must forge our own beauty. - Kenji Miyazawa
+> Do one thing every day that scares you. - Eleanor Roosevelt
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
