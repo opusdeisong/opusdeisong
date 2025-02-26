@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Do one thing every day that scares you. - Eleanor Roosevelt
+> People will forget what you said, people will forget what you did, but people will never forget how you made them feel. - Maya Angelou
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
