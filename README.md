@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> People will forget what you said, people will forget what you did, but people will never forget how you made them feel. - Maya Angelou
+> If you see yourself as prosperous, you will be. - Robert Collier
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
