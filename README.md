@@ -42,7 +42,7 @@
     <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
-> Misfortune shows those who are not really friends. - Aristotle
+> Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. - Steve Harvey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
