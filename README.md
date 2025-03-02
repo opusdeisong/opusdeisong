@@ -34,12 +34,12 @@
     <h4>🎓 SNU HOLI Lab Undergraduate Research Intern </h4>
     <p>Studying about Aligning LLMs to human values</p>
     <p>(2024.07 ~ )</p>
+    <h4>🤝 CNC Study (Datalingo Team PM) </h4>
+    <p>Providing English Questions and Analysis for Middle School Student (<a href="https://www.cncscore.com/">Working Page</a>)</p>  
+    <p>(2022.07 ~ )</p>
     <h4>👨‍💻 AI Speaker SW Developer Intern </h4>
     <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
     <p>(2024.03 ~ 2024.06)</p>
-    <h4>🤝 CNC Study (Datalingo Team PM) </h4>
-    <p>Providing English Questions and Analysis for Middle School Student (<a href="https://www.cncscore.com/">Working Page</a>)</p>  
-    <p>(2022.07 ~ 2024.02)</p>
      <hr>
   <blockquote>
 > Creativity is the greatest rebellion in existence. - Osho
