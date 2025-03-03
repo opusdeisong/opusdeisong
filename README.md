@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Creativity is the greatest rebellion in existence. - Osho
+> Curiosity is the most powerful thing you own. - James Cameron
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
