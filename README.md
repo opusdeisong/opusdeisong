@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Curiosity is the most powerful thing you own. - James Cameron
+> When asked, how do you write? I invariably answer, one word at a time. - Stephen King
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
