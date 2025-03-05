@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> When asked, how do you write? I invariably answer, one word at a time. - Stephen King
+> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. - John Lennon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
