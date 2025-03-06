@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> It matters not who you love, where you love, why you love, when you love or how you love, it matters only that you love. - John Lennon
+> The power of man has grown in every sphere, except over himself. - Winston Churchill
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
