@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Enjoy life. There's plenty of time to be dead. - Hans Christian Andersen
+> Never be bored, and you will never be boring. - Eleanor Roosevelt
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
