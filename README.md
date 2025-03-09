@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Never be bored, and you will never be boring. - Eleanor Roosevelt
+> Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. - Carl Jung
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
