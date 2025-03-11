@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> The more you lose yourself in something bigger than yourself, the more energy you will have. - Norman Vincent Peale
+> If you want peace, accept. If you want suffering, expect. - Maxime Lagace
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
