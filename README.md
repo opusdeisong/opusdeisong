@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> If you want peace, accept. If you want suffering, expect. - Maxime Lagace
+> All human beings can alter their lives by altering their attitudes. - Andrew Carnegie
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
