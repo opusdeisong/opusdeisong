@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> All human beings can alter their lives by altering their attitudes. - Andrew Carnegie
+> The scariest moment is always just before you start. After that, things can only get better. - Stephen King
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
