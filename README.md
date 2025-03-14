@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> The scariest moment is always just before you start. After that, things can only get better. - Stephen King
+> Making your mark on the world is hard. If it were easy, everybody would do it. - Barack Obama
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
