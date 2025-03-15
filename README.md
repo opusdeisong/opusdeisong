@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Making your mark on the world is hard. If it were easy, everybody would do it. - Barack Obama
+> Help others achieve their dreams and you will achieve yours. - Les Brown
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
