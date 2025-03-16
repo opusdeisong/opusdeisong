@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Help others achieve their dreams and you will achieve yours. - Les Brown
+> Sometimes you have to shut your eyes, so you can see the real beauty. - Kilian Jornet
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
