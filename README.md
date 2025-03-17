@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Sometimes you have to shut your eyes, so you can see the real beauty. - Kilian Jornet
+> Success is about creating value. - Candice Carpenter
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
