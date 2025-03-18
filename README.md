@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Success is about creating value. - Candice Carpenter
+> Exceptional thinkers ignore their critics and go about their business making history. - John Eliot
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
