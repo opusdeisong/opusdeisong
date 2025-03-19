@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Exceptional thinkers ignore their critics and go about their business making history. - John Eliot
+> All we have to decide is what to do with the time that is given to us. - J.R.R. Tolkien
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
