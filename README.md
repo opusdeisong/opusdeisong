@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> All we have to decide is what to do with the time that is given to us. - J.R.R. Tolkien
+> People seldom do what they believe in. They do what is convenient, then repent. - Bob Dylan
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
