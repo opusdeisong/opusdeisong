@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> People seldom do what they believe in. They do what is convenient, then repent. - Bob Dylan
+> If you care about someone enough, you'll always be there for them no matter what. - Roy T. Bennett
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
