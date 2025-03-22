@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> If you care about someone enough, you'll always be there for them no matter what. - Roy T. Bennett
+> It all depends on what you choose to believe. - Spencer Johnson
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
