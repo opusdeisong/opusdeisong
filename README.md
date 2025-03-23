@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> It all depends on what you choose to believe. - Spencer Johnson
+> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. - Jonathan Swift
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
