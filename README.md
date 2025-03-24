@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through. - Jonathan Swift
+> There's more to life than being a passenger. - Amelia Earhart
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
