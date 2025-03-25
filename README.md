@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> There's more to life than being a passenger. - Amelia Earhart
+> Do not allow your inner doubts to keep you from achieving what you can do. - Lolly Daskal
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
