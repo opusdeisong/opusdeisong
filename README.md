@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Do not allow your inner doubts to keep you from achieving what you can do. - Lolly Daskal
+> A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. - Bob Proctor
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
