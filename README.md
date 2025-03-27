@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. - Bob Proctor
+> Today you are you, that is truer than true. There is no one alive who is you-er than you. - Dr. Seuss
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
