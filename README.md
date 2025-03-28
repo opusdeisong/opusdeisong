@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Today you are you, that is truer than true. There is no one alive who is you-er than you. - Dr. Seuss
+> Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
