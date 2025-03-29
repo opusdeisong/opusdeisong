@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard
+> A good system shortens the road to the goal.  - Orison Swett Marden
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
