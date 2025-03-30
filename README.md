@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> A good system shortens the road to the goal.  - Orison Swett Marden
+> If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - Jon Kabat-Zinn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
