@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - Jon Kabat-Zinn
+> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. - Marcus Aurelius
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
