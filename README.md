@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly. - Marcus Aurelius
+> Change yourself - you are in control. - Mahatma Gandhi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
