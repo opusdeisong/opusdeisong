@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Change yourself - you are in control. - Mahatma Gandhi
+> Change is hardest at the beginning, messiest in the middle and best at the end. - Robin Sharma
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
