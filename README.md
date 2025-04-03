@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Change is hardest at the beginning, messiest in the middle and best at the end. - Robin Sharma
+> The way to love anything is to realize that it may be lost. - Gilbert Chesterton
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
