@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> The way to love anything is to realize that it may be lost. - Gilbert Chesterton
+> If you don't have time to do it right, when will you have time to do it over? - John Wooden
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
