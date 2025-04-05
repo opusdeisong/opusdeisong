@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> If you don't have time to do it right, when will you have time to do it over? - John Wooden
+> Death walks faster than the wind and never returns what he has taken. - Hans Christian Andersen
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
