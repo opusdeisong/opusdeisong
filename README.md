@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Death walks faster than the wind and never returns what he has taken. - Hans Christian Andersen
+> Don't let your learning lead to knowledge. Let your learning lead to action. - Jim Rohn
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
