@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Don't let your learning lead to knowledge. Let your learning lead to action. - Jim Rohn
+> Walking with a friend in the dark is better than walking alone in the light. - Helen Keller
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
