@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Walking with a friend in the dark is better than walking alone in the light. - Helen Keller
+> Go confidently in the direction of your dreams! Live the life you've imagined. - Henry David Thoreau
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
