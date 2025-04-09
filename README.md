@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Go confidently in the direction of your dreams! Live the life you've imagined. - Henry David Thoreau
+> Winning isn't everything, but wanting to win is. - Vince Lombardi
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
