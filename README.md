@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Winning isn't everything, but wanting to win is. - Vince Lombardi
+> Everybody by your side ain't on your side. - Steve Harvey
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
