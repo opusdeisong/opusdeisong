@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Everybody by your side ain't on your side. - Steve Harvey
+> Motivation gets you going and habit gets you there.   - Zig Ziglar
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
