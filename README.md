@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Motivation gets you going and habit gets you there.   - Zig Ziglar
+> Some people don't like change, but you need to embrace change if the alternative is disaster. - Elon Musk
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
