@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> What people need and what they want may be very different. - Elbert Hubbard
+> Sometimes you have to travel a long way to find what is near. - Paulo Coelho
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
