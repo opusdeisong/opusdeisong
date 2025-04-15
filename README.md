@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Sometimes you have to travel a long way to find what is near. - Paulo Coelho
+> Longevity is a fleeting moment that lasts forever. - Vidal Sassoon
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
