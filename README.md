@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> Longevity is a fleeting moment that lasts forever. - Vidal Sassoon
+> All things come into being by conflict of opposites. - Heraclitus
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
