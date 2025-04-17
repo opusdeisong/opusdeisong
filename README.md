@@ -1,70 +1,137 @@
-
-<h1 align="center">Woojung, Song's Github Page</h1>
-<p align="center">
-  <img src="[(https://avatars.githubusercontent.com/u/105193807?s=96&v=4)" width="150" style="border-radius: 50%;">
-</p>
-<p align="center">
-  <img align='center' src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
-  <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
-</p>
-<p align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com?user=opusdeisong&theme=vue&hide_border=true&locale=en&date_format=M%20j%5B%2C%20Y%5D" width = "600"> -->
-
-  ![](./profile-3d-contrib/profile-gitblock.svg)
+<div align="center">
   
-</p>
-
-<div align="center">   
-  <hr>
-  <h3>👋 Hi, I'm Woojung Song!</h3>
-  <p>🎓 Studying Information System at Hanyang University</p>
-  <hr>
-  <h3>Awards</h3>
-  <p>🥇 1st Place from Korea Railroad Corporation Busan-Gyeongnam Headquarters in 2024 DIVE competition</p>
-  <p>🥉 3rd Place from Busan Metropolitan City in App and Service Development category (2024 DIVE)</p>
- 
-  <p>🥈 2nd Place in Software Engineering Project with LG</p>
-  <p>🥇 1st Place in Namuthon(2023 GDSC X Alpaco Hackathon)</p>
-  <hr>
-  <p>🛡️ Served as KATUSA(SGT) at 3 BSB, 1 ABCT, 3ID <br>
-    Camp Humphrey, South Korea (2020-2021)</p>
-    <hr>
-
-   <h3>Work Experience</h3> 
-    <h4>🎓 SNU HOLI Lab Undergraduate Research Intern </h4>
-    <p>Studying about Aligning LLMs to human values</p>
-    <p>(2024.07 ~ )</p>
-    <h4>🤝 CNC Study (Datalingo Team PM) </h4>
-    <p>Providing English Questions and Analysis for Middle School Student (<a href="https://www.cncscore.com/">Working Page</a>)</p>  
-    <p>(2022.07 ~ )</p>
-    <h4>👨‍💻 AI Speaker SW Developer Intern </h4>
-    <p>LG Electronics H&A Sound/Image Intelligence R&D Lab</p>
-    <p>(2024.03 ~ 2024.06)</p>
-     <hr>
+  # ✨ Woojung Song ✨
+  
+  <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
+  
+  <div>
+    <a href="https://github.com/opusdeisong" target="_blank">
+      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:opusdeisong@gmail.com" target="_blank">
+      <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://www.linkedin.com/in/opusdeisong/" target="_blank">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://velog.io/@qui_procedit" target="_blank">
+      <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
+    </a>
+  </div>
+  
   <blockquote>
-> When things go wrong, don't go with them. - Elvis Presley
+    <p><em>"When things go wrong, don't go with them." - Elvis Presley</em></p>
   </blockquote>
-  <hr>
-  <h2 align="center">📫 How to Reach Me:</h2>
-<p align="center">
-  <a href="https://github.com/opusdeisong" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:opusdeisong@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/opusdeisong//" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://velog.io/@qui_procedit" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
-</p>
+</div>
 
-  <br>
-  <h2>🛠️ Technologies & Tools:</h2>
-  <p>Technologies that I use!</p>
+## 🏆 Awards
+
+<table>
+  <tr>
+    <td align="center">🥇</td>
+    <td><strong>1st Place</strong> - Korea Railroad Corporation Busan-Gyeongnam Headquarters in 2024 DIVE competition</td>
+  </tr>
+  <tr>
+    <td align="center">🥉</td>
+    <td><strong>3rd Place</strong> - Busan Metropolitan City in App and Service Development category (2024 DIVE)</td>
+  </tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td><strong>2nd Place</strong> - Software Engineering Project with LG</td>
+  </tr>
+  <tr>
+    <td align="center">🥇</td>
+    <td><strong>1st Place</strong> - Namuthon (2023 GDSC X Alpaco Hackathon)</td>
+  </tr>
+</table>
+
+## 📄 Publications
+
+<details open>
+  <summary><strong>Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark</strong></summary>
+  <p>
+    <em>Under Review at ACL (2025)</em><br>
+    Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo†<br>
+    <em>*Co-first authors; †Corresponding author</em>
+  </p>
+</details>
+
+<details open>
+  <summary><strong>B. F. Sword: Blank inference system with optimized RAG and knowledge distillation</strong></summary>
+  <p>
+    <em>PROCEEDINGS OF HCI KOREA 2025</em><br>
+    Junseong Pyo, Hyejin Bae, Kitae Kwon, Jina Kim, <strong>Woojung Song</strong>, Yeonseong Shin
+  </p>
+</details>
+
+## 🔍 Patents
+
+<div>
+  <h3>English problem creation system using multi-agents</h3>
+  <p>
+    <em>App. No: 10-2024-0109541 (Filed: August 16, 2024)</em><br>
+    <a href="https://drive.google.com/file/d/1w7xtQ66pYHyL0JH7QnKij2dlh1I9ydmo/view" target="_blank">
+      <img src="https://img.shields.io/badge/View_Patent-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Patent">
+    </a>
+  </p>
+</div>
+
+## 💼 Work Experience
+
+<div>
+  <h3>🎓 SNU HOLI Lab Undergraduate Research Intern</h3>
+  <p>
+    Studying about Aligning LLMs to human values<br>
+    <em>(2024.07 ~ Present)</em>
+  </p>
+</div>
+
+<div>
+  <h3>🤝 CNC Study (Datalingo Team PM)</h3>
+  <p>
+    Providing English Questions and Analysis for Middle School Student<br>
+    <a href="https://www.cncscore.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Working_Page-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Working Page">
+    </a><br>
+    <em>(2022.07 ~ Present)</em>
+  </p>
+</div>
+
+<div>
+  <h3>👨‍💻 AI Speaker SW Developer Intern</h3>
+  <p>
+    LG Electronics H&A Sound/Image Intelligence R&D Lab<br>
+    <em>(2024.03 ~ 2024.06)</em>
+  </p>
+</div>
+
+## 🛡️ Military Service
+
+<div>
+  <p>
+    <strong>KATUSA (SGT)</strong> at 3 BSB, 1 ABCT, 3ID<br>
+    Camp Humphrey, South Korea <em>(2020-2021)</em>
+  </p>
+</div>
+
+## 🛠️ Technologies & Tools
+<a href="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
+    <img src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold" alt="Mazandi Profile">
+  </a>
+  &nbsp;
+  <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong" alt="BOJ Profile">
+</a>
+<br>
+<div align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /><br>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </div>
-<p>&nbsp;</p>
-<p align="center">
+<br>
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=opusdeisong&color=blue&style=flat-square" alt="Visitors">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fopusdeisong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false">
-</p>
+</div>
