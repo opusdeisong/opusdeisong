@@ -42,7 +42,7 @@
     <p>(2024.03 ~ 2024.06)</p>
      <hr>
   <blockquote>
-> All things come into being by conflict of opposites. - Heraclitus
+> When things go wrong, don't go with them. - Elvis Presley
   </blockquote>
   <hr>
   <h2 align="center">📫 How to Reach Me:</h2>
