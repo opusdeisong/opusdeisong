@@ -20,7 +20,7 @@
   </div>
   
   <blockquote>
-    <p><em>"When things go wrong, don't go with them." - Elvis Presley</em></p>
+    "When things go wrong, don't go with them." - Elvis Presley
   </blockquote>
 </div>
 
