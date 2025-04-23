@@ -18,12 +18,10 @@
       <img alt="Velog" src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />
     </a>
   </div>
-  
-  <blockquote>
+</div>
+<blockquote>
     "When things go wrong, don't go with them." - Elvis Presley
   </blockquote>
-</div>
-
 ## 🏆 Awards
 
 <table>
