@@ -1,28 +1,32 @@
 name: Quote of the Day
-
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at 00:0
-
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
 jobs:
   update_readme_with_quote:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-
       - name: Fetch Quote of the Day
         id: quote
         run: |
           QUOTE=$(curl -s https://zenquotes.io/api/random | jq -r '.[0].q + " - " + .[0].a')
-          echo "::set-output name=quote::$QUOTE"
-
+          echo "quote=$QUOTE" >> $GITHUB_OUTPUT
       - name: Update README with Quote of the Day
         env:
           QUOTE: ${{ steps.quote.outputs.quote }}
         run: |
-          sed -i '/^> /c\> '"$QUOTE" README.md
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git commit -am "Update README with Quote of the Day"
-          git push
+          # Replace content between blockquote tags with new quote
+          sed -i '/<blockquote>/,/<\/blockquote>/c\  <blockquote>\n    "'"$QUOTE"'"\n  <\/blockquote>' README.md
+          
+          # Check if there are changes before committing
+          if [[ -n $(git status -s) ]]; then
+            git config --local user.email "action@github.com"
+            git config --local user.name "GitHub Action"
+            git add README.md
+            git commit -m "Update README with Quote of the Day"
+            git push
+          else
+            echo "No changes detected in README.md"
+          fi
