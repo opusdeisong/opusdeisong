@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "When things go wrong, don't go with them." - Elvis Presley
+    "None of us can change our yesterdays but all of us can change our tomorrows. - Colin Powell"
   </blockquote>
   <hr>
   <div>
