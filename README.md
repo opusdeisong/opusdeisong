@@ -20,8 +20,8 @@
   </div>
 </div>
 <blockquote>
-    "When things go wrong, don't go with them." - Elvis Presley
-  </blockquote>
+  "When things go wrong, don't go with them." - Elvis Presley
+</blockquote>
   
 ## 🏆 Awards
 
