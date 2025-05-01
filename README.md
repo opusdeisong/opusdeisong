@@ -3,10 +3,11 @@
   # ✨ Woojung Song ✨
   
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
-  
+  <hr>
   <blockquote>
     "When things go wrong, don't go with them." - Elvis Presley
   </blockquote>
+  <hr>
   <div>
     <a href="https://github.com/opusdeisong" target="_blank">
       <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
