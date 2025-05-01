@@ -115,10 +115,7 @@
 </div>
 
 ## 🛠️ Technologies & Tools
-<a href="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold">
-    <img src="http://mazandi.herokuapp.com/api?handle=opusdeisong&theme=cold" alt="Mazandi Profile">
-  </a>
-  &nbsp;
+
   <a href="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=opusdeisong" alt="BOJ Profile">
 </a>
