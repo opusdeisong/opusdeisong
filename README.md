@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "None of us can change our yesterdays but all of us can change our tomorrows. - Colin Powell"
+    "Friendship is like money, easier made than kept. - Samuel Butler"
   </blockquote>
   <hr>
   <div>
