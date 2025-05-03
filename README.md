@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Friendship is like money, easier made than kept. - Samuel Butler"
+    "Don't stumble over something that's behind you. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
