@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Don't stumble over something that's behind you. - Steve Harvey"
+    "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
