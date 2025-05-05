@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can. - Norman Vincent Peale"
+    "Acknowledging the good that you already have in your life is the foundation for all abundance. - Eckhart Tolle"
   </blockquote>
   <hr>
   <div>
