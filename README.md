@@ -48,7 +48,7 @@
 ## 📄 Publications
 
 <details open>
-  <summary><strong>Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark</strong></summary>
+  <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark</a></strong></summary>
   <p>
     <em>Under Review at ACL (2025)</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo†<br>
