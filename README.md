@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Acknowledging the good that you already have in your life is the foundation for all abundance. - Eckhart Tolle"
+    "If you want to keep your memories, you first have to live them. - Bob Dylan"
   </blockquote>
   <hr>
   <div>
