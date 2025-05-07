@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "If you want to keep your memories, you first have to live them. - Bob Dylan"
+    "Keep your dreams, you never know when you might need them. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
