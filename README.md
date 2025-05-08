@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Keep your dreams, you never know when you might need them. - Carlos Ruiz Zafon"
+    "What the mind can conceive and believe, and the heart desire, you can achieve. - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
