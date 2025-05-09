@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "What the mind can conceive and believe, and the heart desire, you can achieve. - Norman Vincent Peale"
+    "Difficult and meaningful will always bring more satisfaction than easy and meaningless. - Maxime Lagace"
   </blockquote>
   <hr>
   <div>
