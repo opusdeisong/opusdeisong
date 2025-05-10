@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Difficult and meaningful will always bring more satisfaction than easy and meaningless. - Maxime Lagace"
+    "There is no such thing as a great talent without great willpower. - Honore de Balzac"
   </blockquote>
   <hr>
   <div>
