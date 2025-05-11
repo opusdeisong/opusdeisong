@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "There is no such thing as a great talent without great willpower. - Honore de Balzac"
+    "You may be disappointed if you fail, but you are doomed if you don't try. - Beverly Sills"
   </blockquote>
   <hr>
   <div>
