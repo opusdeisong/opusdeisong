@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "You may be disappointed if you fail, but you are doomed if you don't try. - Beverly Sills"
+    "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided. - Tony Robbins"
   </blockquote>
   <hr>
   <div>
