@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided. - Tony Robbins"
+    "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has. - Epictetus"
   </blockquote>
   <hr>
   <div>
