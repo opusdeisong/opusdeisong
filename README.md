@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has. - Epictetus"
+    "The goal is not to be perfect by the end, the goal is to be better today. - Simon Sinek"
   </blockquote>
   <hr>
   <div>
