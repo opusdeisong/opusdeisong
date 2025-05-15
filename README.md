@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "The goal is not to be perfect by the end, the goal is to be better today. - Simon Sinek"
+    "Surround yourself with only people who are going to lift you higher.  - Oprah Winfrey"
   </blockquote>
   <hr>
   <div>
