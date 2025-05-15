@@ -50,7 +50,7 @@
 <details open>
   <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Understanding Values of LLMs with Human-aligned Benchmark</a></strong></summary>
   <p>
-    <em>Under Review at ACL (2025)</em><br>
+    <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo†<br>
     <em>*Co-first authors; †Corresponding author</em>
   </p>
