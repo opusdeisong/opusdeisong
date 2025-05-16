@@ -57,7 +57,7 @@
 </details>
 
 <details open>
-  <summary><strong>B. F. Sword: Blank inference system with optimized RAG and knowledge distillation</strong></summary>
+  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">B. F. Sword: Blank inference system with optimized RAG and knowledge distillation</strong></summary>
   <p>
     <em>PROCEEDINGS OF HCI KOREA 2025</em><br>
     Junseong Pyo, Hyejin Bae, Kitae Kwon, Jina Kim, <strong>Woojung Song</strong>, Yeonseong Shin
