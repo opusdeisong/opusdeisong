@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Surround yourself with only people who are going to lift you higher.  - Oprah Winfrey"
+    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
   </blockquote>
   <hr>
   <div>
