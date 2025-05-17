@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
+    "When you can't make them see the light, make them feel the heat. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
