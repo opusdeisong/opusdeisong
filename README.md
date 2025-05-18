@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "When you can't make them see the light, make them feel the heat. - Ronald Reagan"
+    "You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. - Zig Ziglar"
   </blockquote>
   <hr>
   <div>
