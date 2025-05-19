@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "You were born to win, but to be a winner you must plan to win, prepare to win, and expect to win. - Zig Ziglar"
+    "The greatest of all mistakes is to do nothing because you think you can only do a little.   - Zig Ziglar"
   </blockquote>
   <hr>
   <div>
