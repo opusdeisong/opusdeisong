@@ -2,8 +2,8 @@
   
   # ✨ Woojung Song ✨
   
-  <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
-  <hr>
+*🎓 B.S. in Information System at Hanyang University*  
+*🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
     "Life has no limitations except the ones you make. - Les Brown"
   </blockquote>
