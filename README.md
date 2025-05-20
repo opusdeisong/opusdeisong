@@ -5,7 +5,7 @@
   <p><em>🎓 B.S. in Information System at Hanyang University</em></p>
   <hr>
   <blockquote>
-    "The greatest of all mistakes is to do nothing because you think you can only do a little.   - Zig Ziglar"
+    "Life has no limitations except the ones you make. - Les Brown"
   </blockquote>
   <hr>
   <div>
