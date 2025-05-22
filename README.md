@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. - Josh Waitzkin"
+    "If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison"
   </blockquote>
   <hr>
   <div>
