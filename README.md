@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "If we did all the things we are capable of, we would literally astound ourselves. - Thomas Edison"
+    "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford"
   </blockquote>
   <hr>
   <div>
