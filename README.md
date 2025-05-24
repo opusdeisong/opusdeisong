@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford"
+    "The strength of a wall is neither greater nor less than the courage of the men who defend it.  - Genghis Khan"
   </blockquote>
   <hr>
   <div>
