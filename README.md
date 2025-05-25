@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "The strength of a wall is neither greater nor less than the courage of the men who defend it.  - Genghis Khan"
+    "When you are tough on yourself, life is going to be infinitely easier on you.   - Zig Ziglar"
   </blockquote>
   <hr>
   <div>
