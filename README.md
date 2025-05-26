@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "When you are tough on yourself, life is going to be infinitely easier on you.   - Zig Ziglar"
+    "Until we can manage time, we can manage nothing else. - Peter Drucker"
   </blockquote>
   <hr>
   <div>
