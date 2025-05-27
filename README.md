@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Until we can manage time, we can manage nothing else. - Peter Drucker"
+    "Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible in us be found. - Pema Chodron"
   </blockquote>
   <hr>
   <div>
