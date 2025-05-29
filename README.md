@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "A goal is a dream with a deadline. - Napoleon Hill"
+    "Every time we liberate a woman, we liberate a man.  - Margaret Mead"
   </blockquote>
   <hr>
   <div>
