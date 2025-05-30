@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Every time we liberate a woman, we liberate a man.  - Margaret Mead"
+    "The dream is free, but the hustle is sold separately. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
