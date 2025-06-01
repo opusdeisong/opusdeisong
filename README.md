@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Fear can hold you prisoner. Hope can set you free. - Stephen King"
+    "I want the fishing rod, not the fish. - Yanni"
   </blockquote>
   <hr>
   <div>
