@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "I want the fishing rod, not the fish. - Yanni"
+    "All you need is passion. If you have a passion for something, you'll create the talent. - Yanni"
   </blockquote>
   <hr>
   <div>
