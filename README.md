@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "All you need is passion. If you have a passion for something, you'll create the talent. - Yanni"
+    "The decisions of our past are the architects of our present. - Dan Brown"
   </blockquote>
   <hr>
   <div>
