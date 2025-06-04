@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "The decisions of our past are the architects of our present. - Dan Brown"
+    "Make no small plans for they have no power to stir the soul. - Niccolo Machiavelli"
   </blockquote>
   <hr>
   <div>
