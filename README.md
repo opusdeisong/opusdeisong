@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Make no small plans for they have no power to stir the soul. - Niccolo Machiavelli"
+    "Many of life's failures are people who did not realize how close they were to success when they gave up. - Thomas Edison"
   </blockquote>
   <hr>
   <div>
