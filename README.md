@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Many of life's failures are people who did not realize how close they were to success when they gave up. - Thomas Edison"
+    "If you see someone without a smile give them one of yours. - Unknown"
   </blockquote>
   <hr>
   <div>
