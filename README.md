@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "If you see someone without a smile give them one of yours. - Unknown"
+    "Where the willingness is great, the difficulties cannot be great. - Niccolo Machiavelli"
   </blockquote>
   <hr>
   <div>
