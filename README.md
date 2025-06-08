@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Where the willingness is great, the difficulties cannot be great. - Niccolo Machiavelli"
+    "People who say it cannot be done should not interrupt those who are doing it. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
