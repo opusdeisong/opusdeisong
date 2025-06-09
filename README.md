@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "People who say it cannot be done should not interrupt those who are doing it. - George Bernard Shaw"
+    "To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - Deepak Chopra"
   </blockquote>
   <hr>
   <div>
