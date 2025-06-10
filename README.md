@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless. - Deepak Chopra"
+    "He who cannot be a good follower cannot be a good leader. - Aristotle"
   </blockquote>
   <hr>
   <div>
