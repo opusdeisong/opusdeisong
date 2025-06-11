@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "He who cannot be a good follower cannot be a good leader. - Aristotle"
+    "Only the hand that erases can write the true thing. - Meister Eckhart"
   </blockquote>
   <hr>
   <div>
