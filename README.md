@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Only the hand that erases can write the true thing. - Meister Eckhart"
+    "Challenge yourself to find the good and beautiful thing inside of everyone. - Mark Manson"
   </blockquote>
   <hr>
   <div>
