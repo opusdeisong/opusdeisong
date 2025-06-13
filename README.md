@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Challenge yourself to find the good and beautiful thing inside of everyone. - Mark Manson"
+    "Show kindness but never expect it. Show authenticity but never expect it. Only the wise are indifferent to things they can't control. - Maxime Lagace"
   </blockquote>
   <hr>
   <div>
