@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "There are no mistakes in life, only lessons. - Robin Sharma"
+    "Peace if possible, truth at all costs. - Martin Luther"
   </blockquote>
   <hr>
   <div>
