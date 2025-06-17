@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "All religions, arts and sciences are branches of the same tree.  - Albert Einstein"
+    "Know yourself and you will win all battles. - Sun Tzu"
   </blockquote>
   <hr>
   <div>
