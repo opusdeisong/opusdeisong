@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Know yourself and you will win all battles. - Sun Tzu"
+    "We can spend our whole lives escaping from the monsters of our minds. - Pema Chodron"
   </blockquote>
   <hr>
   <div>
