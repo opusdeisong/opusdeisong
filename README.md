@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "We can spend our whole lives escaping from the monsters of our minds. - Pema Chodron"
+    "Never give way to laziness. - Bhagavad Gita"
   </blockquote>
   <hr>
   <div>
