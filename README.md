@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Never give way to laziness. - Bhagavad Gita"
+    "If your happiness depends on what somebody else does, I guess you do have a problem. - Richard Bach"
   </blockquote>
   <hr>
   <div>
