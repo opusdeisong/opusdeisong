@@ -27,22 +27,26 @@
 ## 🏆 Awards
 
 <table>
-  <tr>
-    <td align="center">🥇</td>
-    <td><strong>1st Place</strong> - Korea Railroad Corporation Busan-Gyeongnam Headquarters in 2024 DIVE competition</td>
-  </tr>
-  <tr>
-    <td align="center">🥉</td>
-    <td><strong>3rd Place</strong> - Busan Metropolitan City in App and Service Development category (2024 DIVE)</td>
-  </tr>
-  <tr>
-    <td align="center">🥈</td>
-    <td><strong>2nd Place</strong> - Software Engineering Project with LG</td>
-  </tr>
-  <tr>
-    <td align="center">🥇</td>
-    <td><strong>1st Place</strong> - Namuthon (2023 GDSC X Alpaco Hackathon)</td>
-  </tr>
+ <tr>
+   <td align="center">🥉</td>
+   <td><strong>3rd Place (Chuncheon Mayor's Award)</strong> - Chuncheon Generative AI Competition</td>
+ </tr>
+ <tr>
+   <td align="center">🥇</td>
+   <td><strong>1st Place</strong> - Korea Railroad Corporation Busan-Gyeongnam Headquarters in 2024 DIVE competition</td>
+ </tr>
+ <tr>
+   <td align="center">🥉</td>
+   <td><strong>3rd Place (Busan Mayor's Award)</strong> - Busan Metropolitan City in App and Service Development category (2024 DIVE)</td>
+ </tr>
+ <tr>
+   <td align="center">🥈</td>
+   <td><strong>2nd Place</strong> - Software Engineering Competition with LG X HYU</td>
+ </tr>
+ <tr>
+   <td align="center">🥇</td>
+   <td><strong>1st Place</strong> - Namuthon (2023 GDSC X Alpaco Hackathon)</td>
+ </tr>
 </table>
 
 ## 📄 Publications
