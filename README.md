@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "If your happiness depends on what somebody else does, I guess you do have a problem. - Richard Bach"
+    "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - James Matthew Barrie"
   </blockquote>
   <hr>
   <div>
