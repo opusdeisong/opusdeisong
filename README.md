@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - James Matthew Barrie"
+    "Life itself is the most wonderful fairy tale. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
