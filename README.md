@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Life itself is the most wonderful fairy tale. - Hans Christian Andersen"
+    "Trust, but verify. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
