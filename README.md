@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Trust, but verify. - Ronald Reagan"
+    "Don't be pushed by your problems; be led by your dreams. - Unknown"
   </blockquote>
   <hr>
   <div>
