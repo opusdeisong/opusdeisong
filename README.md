@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Don't be pushed by your problems; be led by your dreams. - Unknown"
+    "Perseverance and spirit have done wonders in all ages.  - George Washington"
   </blockquote>
   <hr>
   <div>
