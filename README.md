@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Perseverance and spirit have done wonders in all ages.  - George Washington"
+    "Time stays long enough for anyone who will use it. - Leonardo da Vinci"
   </blockquote>
   <hr>
   <div>
