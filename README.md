@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Time stays long enough for anyone who will use it. - Leonardo da Vinci"
+    "You cannot change your destination overnight but you can change your direction overnight. - Jim Rohn"
   </blockquote>
   <hr>
   <div>
