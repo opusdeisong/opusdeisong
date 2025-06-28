@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "You cannot change your destination overnight but you can change your direction overnight. - Jim Rohn"
+    "Wit is educated insolence. - Aristotle"
   </blockquote>
   <hr>
   <div>
