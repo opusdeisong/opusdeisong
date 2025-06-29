@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Wit is educated insolence. - Aristotle"
+    "Leadership is solving problems - Colin Powell"
   </blockquote>
   <hr>
   <div>
