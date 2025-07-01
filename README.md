@@ -52,8 +52,7 @@
 ## 📄 Publications
 
 <details open>
-  <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items
-</a></strong></summary>
+  <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items</a></strong></summary>
   <p>
     <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo†<br>
@@ -62,10 +61,34 @@
 </details>
 
 <details open>
-  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">B. F. Sword: Blank inference system with optimized RAG and knowledge distillation</strong></summary>
+  <summary><strong>Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</strong></summary>
+  <p>
+    <em>Transactions of the Association for Computational Linguistics (TACL) (Under Review), 2025</em><br>
+    Sungjib Lim, Woojung Song, Eunju Lee, Yohan Jo
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
+  <p>
+    <em>PeerJ Computer Science (Under Review), 2025</em><br>
+    Woojung Song, Jina Kim, Jaehyuk Lee, Eunchan Kim
+  </p>
+</details>
+
+<details open>
+  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">B. F. Sword: Blank Inference System with Optimized RAG and Knowledge Distillation</a></strong></summary>
   <p>
     <em>PROCEEDINGS OF HCI KOREA 2025</em><br>
     Junseong Pyo, Hyejin Bae, Kitae Kwon, Jina Kim, <strong>Woojung Song</strong>, Yeonseong Shin
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Enhancing the Security of AI Models through Parameter Encryption</strong></summary>
+  <p>
+    <em>Korea Computer Congress 2025</em><br>
+    Dongwook Kim, Woojung Song
   </p>
 </details>
 
