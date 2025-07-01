@@ -69,14 +69,6 @@
 </details>
 
 <details open>
-  <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
-  <p>
-    <em>PeerJ Computer Science (Under Review), 2025</em><br>
-    Woojung Song, Jina Kim, Jaehyuk Lee, Eunchan Kim
-  </p>
-</details>
-
-<details open>
   <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true">B. F. Sword: Blank Inference System with Optimized RAG and Knowledge Distillation</a></strong></summary>
   <p>
     <em>PROCEEDINGS OF HCI KOREA 2025</em><br>
