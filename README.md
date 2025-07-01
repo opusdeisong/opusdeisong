@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "You cannot teach a crab to walk straight. - Aristophanes"
+    "A diamond is a piece of charcoal that handled stress exceptionally well. - Unknown"
   </blockquote>
   <hr>
   <div>
