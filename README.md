@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Man's character is his fate. - Heraclitus"
+    "Quiet people have the loudest minds. - Stephen King"
   </blockquote>
   <hr>
   <div>
