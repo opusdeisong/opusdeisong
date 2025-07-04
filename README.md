@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Quiet people have the loudest minds. - Stephen King"
+    "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
