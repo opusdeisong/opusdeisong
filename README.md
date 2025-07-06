@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Your neighbor is the man who needs you. - Elbert Hubbard"
+    "We forge the chains we wear in life. - Charles Dickens"
   </blockquote>
   <hr>
   <div>
