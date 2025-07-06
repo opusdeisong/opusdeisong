@@ -72,7 +72,7 @@
   <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
   <p>
     <em>PeerJ Computer Science (Under Review), 2025</em><br>
-   Jaehyuk Lee*, <strong>Woojung Song*</strong>, Jina Kim, Eunchan Kim
+   Jaehyuk Lee*, <strong>Woojung Song*</strong>, Jina Kim, Eunchan Kim<br>
     <em>*Co-first authors</em>
   </p>
 </details>
