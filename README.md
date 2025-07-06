@@ -55,8 +55,8 @@
   <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items</a></strong></summary>
   <p>
     <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025</em><br>
-    Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo†<br>
-    <em>*Co-first authors; †Corresponding author</em>
+    Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo<br>
+    <em>*Co-first authors</em>
   </p>
 </details>
 
@@ -64,7 +64,16 @@
   <summary><strong>Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</strong></summary>
   <p>
     <em>Transactions of the Association for Computational Linguistics (TACL) (Under Review), 2025</em><br>
-    Sungjib Lim, Woojung Song, Eunju Lee, Yohan Jo
+    Sungjib Lim, <strong>Woojung Song</strong>, Eunju Lee, Yohan Jo
+  </p>
+</details>
+
+<details open>
+  <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
+  <p>
+    <em>PeerJ Computer Science (Under Review), 2025</em><br>
+   Jaehyuk Lee*, <strong>Woojung Song*</strong>, Jina Kim, Eunchan Kim
+    <em>*Co-first authors</em>
   </p>
 </details>
 
@@ -80,7 +89,7 @@
   <summary><strong>Enhancing the Security of AI Models through Parameter Encryption</strong></summary>
   <p>
     <em>Korea Computer Congress 2025</em><br>
-    Dongwook Kim, Woojung Song
+    Dongwook Kim, <strong>Woojung Song</strong>
   </p>
 </details>
 
