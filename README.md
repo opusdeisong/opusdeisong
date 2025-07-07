@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "We forge the chains we wear in life. - Charles Dickens"
+    "Less is more. - Robert Browning"
   </blockquote>
   <hr>
   <div>
