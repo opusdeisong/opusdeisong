@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Less is more. - Robert Browning"
+    "He will win who knows when to fight and when not to fight. - Sun Tzu"
   </blockquote>
   <hr>
   <div>
