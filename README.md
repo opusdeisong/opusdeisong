@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "He will win who knows when to fight and when not to fight. - Sun Tzu"
+    "It's your road, and yours alone, others may walk it with you, but no one can walk it for you. - Rumi"
   </blockquote>
   <hr>
   <div>
