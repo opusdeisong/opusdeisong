@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "It's your road, and yours alone, others may walk it with you, but no one can walk it for you. - Rumi"
+    "Show up even when you don't want to show up. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
