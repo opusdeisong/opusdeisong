@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories. - Ray Bradbury"
+    "Never put off to tomorrow what you can do to-day. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
