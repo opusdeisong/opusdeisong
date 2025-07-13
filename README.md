@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Never put off to tomorrow what you can do to-day. - Thomas Jefferson"
+    "Enthusiasm is a vital element toward the individual success of every man or woman. - Conrad Hilton"
   </blockquote>
   <hr>
   <div>
