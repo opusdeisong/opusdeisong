@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Enthusiasm is a vital element toward the individual success of every man or woman. - Conrad Hilton"
+    "We must embrace pain and burn it as fuel for our journey. - Kenji Miyazawa"
   </blockquote>
   <hr>
   <div>
