@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "We must embrace pain and burn it as fuel for our journey. - Kenji Miyazawa"
+    "Life has the name of life, but in reality it is death. - Heraclitus"
   </blockquote>
   <hr>
   <div>
