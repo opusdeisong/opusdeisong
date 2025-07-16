@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Life has the name of life, but in reality it is death. - Heraclitus"
+    "There is a wisdom of the head, and there is a wisdom of the heart. - Charles Dickens"
   </blockquote>
   <hr>
   <div>
