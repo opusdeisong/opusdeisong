@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "There is a wisdom of the head, and there is a wisdom of the heart. - Charles Dickens"
+    "Words used to attract the dull of wit are not to be relied on. - Huang Po"
   </blockquote>
   <hr>
   <div>
