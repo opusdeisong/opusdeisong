@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Words used to attract the dull of wit are not to be relied on. - Huang Po"
+    "Beware of false knowledge, it is more dangerous than ignorance. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
