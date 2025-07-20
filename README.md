@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Humor isn't for everyone. It's only for people who want to have fun, enjoy life, and feel alive. - Anne Wilson Schaef"
+    "Happiness must be grown in one's own garden. - Mary Engelbreit"
   </blockquote>
   <hr>
   <div>
