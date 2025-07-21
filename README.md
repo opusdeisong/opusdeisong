@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Happiness must be grown in one's own garden. - Mary Engelbreit"
+    "Success on the outside means nothing unless you also have success within. - Robin Sharma"
   </blockquote>
   <hr>
   <div>
