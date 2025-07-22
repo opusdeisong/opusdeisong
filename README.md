@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Success on the outside means nothing unless you also have success within. - Robin Sharma"
+    "Even in the grave, all is not lost. - Edgar Allan Poe"
   </blockquote>
   <hr>
   <div>
