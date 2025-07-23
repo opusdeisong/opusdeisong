@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Even in the grave, all is not lost. - Edgar Allan Poe"
+    "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
