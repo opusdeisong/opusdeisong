@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose. - Ming-Dao Deng"
+    "If you run you stand a chance of losing, but if you don't run you've already lost. - Barack Obama"
   </blockquote>
   <hr>
   <div>
