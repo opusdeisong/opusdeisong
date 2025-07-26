@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "If you run you stand a chance of losing, but if you don't run you've already lost. - Barack Obama"
+    "Most of the evil in this world is done by people with good intentions. - T.S. Eliot"
   </blockquote>
   <hr>
   <div>
