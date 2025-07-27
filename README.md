@@ -2,8 +2,10 @@
   
   # ✨ Woojung Song ✨
   
-*🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
+
+🎓 B.S. in Information System at Hanyang University 
+
   <blockquote>
     "Your happiness is what truly matters most. Do what you have to do in order to be happy. - Brian Tracy"
   </blockquote>
