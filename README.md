@@ -52,7 +52,7 @@
 ## 📄 Publications
 
 <details open>
-  <summary><strong><a href="https://arxiv.org/abs/2505.01015">Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items</a></strong></summary>
+  <summary><strong><a href="https://aclanthology.org/2025.acl-long.838/">Value Portrait: Assessing Language Models' Values through Psychometrically and Ecologically Valid Items</a></strong></summary>
   <p>
     <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics, 2025</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo<br>
