@@ -5,7 +5,7 @@
 *🎓 B.S. in Information System at Hanyang University*  
 *🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
   <blockquote>
-    "Most of the evil in this world is done by people with good intentions. - T.S. Eliot"
+    "Your happiness is what truly matters most. Do what you have to do in order to be happy. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
