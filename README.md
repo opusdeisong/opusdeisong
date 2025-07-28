@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Your happiness is what truly matters most. Do what you have to do in order to be happy. - Brian Tracy"
+    "Those who bring sunshine into the lives of others cannot keep it from themselves. - James Matthew Barrie"
   </blockquote>
   <hr>
   <div>
