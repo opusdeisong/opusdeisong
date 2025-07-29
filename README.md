@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Those who bring sunshine into the lives of others cannot keep it from themselves. - James Matthew Barrie"
+    "Each day provides it's own gifts. - Marcus Aurelius"
   </blockquote>
   <hr>
   <div>
