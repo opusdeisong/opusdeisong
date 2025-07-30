@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Each day provides it's own gifts. - Marcus Aurelius"
+    "You have to make time, even for something as universal as staring at the stars. - W.P. Kinsella"
   </blockquote>
   <hr>
   <div>
