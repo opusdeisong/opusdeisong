@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "You have to make time, even for something as universal as staring at the stars. - W.P. Kinsella"
+    "The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. - Herodotus"
   </blockquote>
   <hr>
   <div>
