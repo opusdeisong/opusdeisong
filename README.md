@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The saddest aspect of life is that there is no one on earth whose happiness is such that he won't sometimes wish he were dead rather than alive. - Herodotus"
+    "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - James Matthew Barrie"
   </blockquote>
   <hr>
   <div>
