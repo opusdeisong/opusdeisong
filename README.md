@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Dreams do come true, if we only wish hard enough, You can have anything in life if you will sacrifice everything else for it. - James Matthew Barrie"
+    "The less you try to impress, the more peaceful you can be. - Maxime Lagace"
   </blockquote>
   <hr>
   <div>
