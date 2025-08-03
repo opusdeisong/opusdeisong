@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The less you try to impress, the more peaceful you can be. - Maxime Lagace"
+    "We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - Bhagavad Gita"
   </blockquote>
   <hr>
   <div>
