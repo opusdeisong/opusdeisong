@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "We're kept from our goal not by obstacles, but by a clear path to a lesser goal. - Bhagavad Gita"
+    "The most wasted day of all is that on which we have not laughed. - Nicolas Chamfort"
   </blockquote>
   <hr>
   <div>
