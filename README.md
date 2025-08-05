@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The most wasted day of all is that on which we have not laughed. - Nicolas Chamfort"
+    "The wise man reads both books and life itself. - Lin Yutang"
   </blockquote>
   <hr>
   <div>
