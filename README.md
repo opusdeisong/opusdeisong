@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The wise man reads both books and life itself. - Lin Yutang"
+    "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. - Earl Nightingale"
   </blockquote>
   <hr>
   <div>
