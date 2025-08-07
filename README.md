@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Wherever there is danger, there lurks opportunity; wherever there is opportunity, there lurks danger. The two are inseparable. - Earl Nightingale"
+    "Experience is a comb which nature gives us when we are bald.  - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
