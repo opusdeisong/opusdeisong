@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Experience is a comb which nature gives us when we are bald.  - Chinese Proverb"
+    "You are free, and that is why you are lost.  - Franz Kafka"
   </blockquote>
   <hr>
   <div>
