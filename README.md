@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "You are free, and that is why you are lost.  - Franz Kafka"
+    "It is up to each of us to sing as we feel moved by the overall song of life. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
