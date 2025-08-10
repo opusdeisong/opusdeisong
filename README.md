@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "It is up to each of us to sing as we feel moved by the overall song of life. - Ming-Dao Deng"
+    "An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
