@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "An inch of time is an inch of gold but you can't buy that inch of time with an inch of gold. - Chinese Proverb"
+    "I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry. - Tony Robbins"
   </blockquote>
   <hr>
   <div>
