@@ -31,6 +31,10 @@
 <table>
  <tr>
    <td align="center">🥉</td>
+   <td><strong>3rd Place (Encouragement Award)</strong> - Korea Meteorological Administration Weather Data Contest</td>
+ </tr>
+ <tr>
+   <td align="center">🥉</td>
    <td><strong>3rd Place (Chuncheon Mayor's Award)</strong> - Chuncheon Generative AI Competition</td>
  </tr>
  <tr>
