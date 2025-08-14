@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "If we are honest with ourselves, most of us will have to admit that we live out our lives in an ocean of fear. - Jon Kabat-Zinn"
+    "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
