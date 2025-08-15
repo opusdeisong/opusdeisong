@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life. - Roy T. Bennett"
+    "Our heart is a treasury; if you pour out all its wealth at once, you are bankrupt. - Honore de Balzac"
   </blockquote>
   <hr>
   <div>
