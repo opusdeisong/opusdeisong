@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The best answer to anger is silence. - Marcus Aurelius"
+    "Enjoy every minute of life. Never second-guess life. - Michael Jordan"
   </blockquote>
   <hr>
   <div>
