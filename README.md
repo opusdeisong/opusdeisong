@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Enjoy every minute of life. Never second-guess life. - Michael Jordan"
+    "A man should do his job so well that the living, the dead, and the unborn could do it no better. - Martin Luther King, Jr."
   </blockquote>
   <hr>
   <div>
