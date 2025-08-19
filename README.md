@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A man should do his job so well that the living, the dead, and the unborn could do it no better. - Martin Luther King, Jr."
+    "Nothing important is learned; it is simply remembered. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
