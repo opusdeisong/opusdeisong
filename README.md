@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Nothing important is learned; it is simply remembered. - Carlos Ruiz Zafon"
+    "Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal"
   </blockquote>
   <hr>
   <div>
