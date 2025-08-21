@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Inspire yourself to be great. Being good isn't good enough. - Gurbaksh Chahal"
+    "If you're afraid - don't do it, - if you're doing it - don't be afraid!  - Genghis Khan"
   </blockquote>
   <hr>
   <div>
