@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "If you're afraid - don't do it, - if you're doing it - don't be afraid!  - Genghis Khan"
+    "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. - Bob Proctor"
   </blockquote>
   <hr>
   <div>
