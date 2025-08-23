@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you. - Bob Proctor"
+    "Tis not too late to seek a newer world. - Heraclitus"
   </blockquote>
   <hr>
   <div>
