@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Tis not too late to seek a newer world. - Heraclitus"
+    "If you done it, it ain't bragging. - Walt Whitman"
   </blockquote>
   <hr>
   <div>
