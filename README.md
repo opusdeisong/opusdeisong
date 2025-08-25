@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "If you done it, it ain't bragging. - Walt Whitman"
+    "When you are able to employ your will always for constructive purposes, you become the controller of your destiny. - Paramahansa Yogananda"
   </blockquote>
   <hr>
   <div>
