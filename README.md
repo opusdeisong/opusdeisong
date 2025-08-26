@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "When you are able to employ your will always for constructive purposes, you become the controller of your destiny. - Paramahansa Yogananda"
+    "The more you like yourself, the less you are like anyone else, which makes you unique. - Walt Disney"
   </blockquote>
   <hr>
   <div>
