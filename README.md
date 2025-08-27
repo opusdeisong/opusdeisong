@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The more you like yourself, the less you are like anyone else, which makes you unique. - Walt Disney"
+    "A Rolling Stone Gathers No Moss. - Publilius Syrus"
   </blockquote>
   <hr>
   <div>
