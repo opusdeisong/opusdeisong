@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A Rolling Stone Gathers No Moss. - Publilius Syrus"
+    "You make your own luck if you stay at it long enough. - Naval Ravikant"
   </blockquote>
   <hr>
   <div>
