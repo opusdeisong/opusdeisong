@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "You make your own luck if you stay at it long enough. - Naval Ravikant"
+    "Never to suffer would never to have been blessed. - Edgar Allan Poe"
   </blockquote>
   <hr>
   <div>
