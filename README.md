@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Never to suffer would never to have been blessed. - Edgar Allan Poe"
+    "It always seems impossible until it's done. - Nelson Mandela"
   </blockquote>
   <hr>
   <div>
