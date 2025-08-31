@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "It always seems impossible until it's done. - Nelson Mandela"
+    "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. - Earl Nightingale"
   </blockquote>
   <hr>
   <div>
