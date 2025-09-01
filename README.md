@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Even if our home burns down we can rebuild it. But the things that we got for nothing, we can never replace. - Earl Nightingale"
+    "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. - Mark Twain"
   </blockquote>
   <hr>
   <div>
