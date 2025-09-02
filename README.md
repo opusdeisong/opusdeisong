@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Anger is an acid that can do more harm to the vessel in which it is stored than to anything on which it is poured. - Mark Twain"
+    "It is your attitude, not your aptitude, that determines your altitude. - Zig Ziglar"
   </blockquote>
   <hr>
   <div>
