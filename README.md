@@ -100,7 +100,7 @@
 </details>
 
 <details open>
-  <summary><strong>Enhancing the Security of AI Models through Parameter Encryption</strong></summary>
+  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318872">Enhancing the Security of AI Models through Parameter Encryption</a></strong></summary>
   <p>
     <em>Korea Computer Congress 2025</em><br>
     Dongwook Kim, <strong>Woojung Song</strong>
