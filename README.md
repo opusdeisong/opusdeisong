@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "It is your attitude, not your aptitude, that determines your altitude. - Zig Ziglar"
+    "Life would be tragic if it weren't funny. - Stephen Hawking"
   </blockquote>
   <hr>
   <div>
