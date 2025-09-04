@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Life would be tragic if it weren't funny. - Stephen Hawking"
+    "Don't look for meaning in the words. Listen to the silences. - Samuel Beckett"
   </blockquote>
   <hr>
   <div>
