@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Don't look for meaning in the words. Listen to the silences. - Samuel Beckett"
+    "Wise people, even though all laws were abolished, would still lead the same life. - Aristophanes"
   </blockquote>
   <hr>
   <div>
