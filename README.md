@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Wise people, even though all laws were abolished, would still lead the same life. - Aristophanes"
+    "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. - Maxime Lagace"
   </blockquote>
   <hr>
   <div>
