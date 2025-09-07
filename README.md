@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive. - Maxime Lagace"
+    "Your imagination is your preview of life's coming attractions. - Albert Einstein"
   </blockquote>
   <hr>
   <div>
