@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Your imagination is your preview of life's coming attractions. - Albert Einstein"
+    "It is best to begin at the beginning. - Amelia Earhart"
   </blockquote>
   <hr>
   <div>
