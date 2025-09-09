@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "It is best to begin at the beginning. - Amelia Earhart"
+    "The meaning of life is to find your gift. The purpose of life is to give it away. - Pablo Picasso"
   </blockquote>
   <hr>
   <div>
