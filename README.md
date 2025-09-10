@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The meaning of life is to find your gift. The purpose of life is to give it away. - Pablo Picasso"
+    "A wise man will be master of his mind, a fool will be its slave. - Publilius Syrus"
   </blockquote>
   <hr>
   <div>
