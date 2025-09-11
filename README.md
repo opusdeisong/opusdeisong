@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A wise man will be master of his mind, a fool will be its slave. - Publilius Syrus"
+    "I am not what happened to me, I am what I choose to become. - Carl Jung"
   </blockquote>
   <hr>
   <div>
