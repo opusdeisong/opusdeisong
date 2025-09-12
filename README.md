@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "I am not what happened to me, I am what I choose to become. - Carl Jung"
+    "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. - Denis Waitley"
   </blockquote>
   <hr>
   <div>
