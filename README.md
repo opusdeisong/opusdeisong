@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them. - Denis Waitley"
+    "Be patient and calm; no one can catch fish in anger. - Herbert Hoover"
   </blockquote>
   <hr>
   <div>
