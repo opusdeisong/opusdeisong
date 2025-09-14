@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Be patient and calm; no one can catch fish in anger. - Herbert Hoover"
+    "Silence is the great teacher and to learn its lessons you must pay attention to it. - Deepak Chopra"
   </blockquote>
   <hr>
   <div>
