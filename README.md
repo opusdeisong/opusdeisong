@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Silence is the great teacher and to learn its lessons you must pay attention to it. - Deepak Chopra"
+    "Do good, live in the most positive and joyful way possible every day. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
