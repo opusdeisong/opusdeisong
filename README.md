@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Do good, live in the most positive and joyful way possible every day. - Roy T. Bennett"
+    "Better a diamond with a flaw than a pebble without one. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
