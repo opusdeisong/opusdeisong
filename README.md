@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Better a diamond with a flaw than a pebble without one. - Chinese Proverb"
+    "Never do things others can do and will do if there are things others cannot do or will not do. - Amelia Earhart"
   </blockquote>
   <hr>
   <div>
