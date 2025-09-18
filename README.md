@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Never do things others can do and will do if there are things others cannot do or will not do. - Amelia Earhart"
+    "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy. - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
