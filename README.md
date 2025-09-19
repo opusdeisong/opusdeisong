@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A vital part of the happiness formula is self-discipline. Whoever conquers himself knows deep happiness that fills the heart with joy. - Norman Vincent Peale"
+    "The world only exists in your eyes. You can make it as big or as small as you want. - F. Scott Fitzgerald"
   </blockquote>
   <hr>
   <div>
