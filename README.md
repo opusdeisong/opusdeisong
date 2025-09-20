@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The world only exists in your eyes. You can make it as big or as small as you want. - F. Scott Fitzgerald"
+    "Love is the energy of life. - Robert Browning"
   </blockquote>
   <hr>
   <div>
