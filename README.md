@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Love is the energy of life. - Robert Browning"
+    "Follow the man who seeks the truth; run from the man who has found it. - Vaclav Havel"
   </blockquote>
   <hr>
   <div>
