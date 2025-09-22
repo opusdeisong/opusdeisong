@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Follow the man who seeks the truth; run from the man who has found it. - Vaclav Havel"
+    "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   - David Brinkley"
   </blockquote>
   <hr>
   <div>
