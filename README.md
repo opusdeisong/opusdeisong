@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.   - David Brinkley"
+    "Life is a series of choices and all we can do is make them. - Kamal Ravikant"
   </blockquote>
   <hr>
   <div>
