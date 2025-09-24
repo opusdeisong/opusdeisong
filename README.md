@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Life is a series of choices and all we can do is make them. - Kamal Ravikant"
+    "Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? - Sathya Sai Baba"
   </blockquote>
   <hr>
   <div>
