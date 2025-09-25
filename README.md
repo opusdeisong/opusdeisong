@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Before you speak, ask yourself, is it kind, is it necessary, is it true, does it improve the silence? - Sathya Sai Baba"
+    "The Art of Peace begins with you. - Morihei Ueshiba"
   </blockquote>
   <hr>
   <div>
