@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The Art of Peace begins with you. - Morihei Ueshiba"
+    "Until we can manage time, we can manage nothing else. - Peter Drucker"
   </blockquote>
   <hr>
   <div>
