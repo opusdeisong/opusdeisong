@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Getting lost along your path is a part of finding the path you are meant to be on. - Robin Sharma"
+    "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. - Dr. Seuss"
   </blockquote>
   <hr>
   <div>
