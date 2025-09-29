@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "People are weird. When we find someone with weirdness that is compatible with ours, we team up and call it love. - Dr. Seuss"
+    "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
