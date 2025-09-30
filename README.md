@@ -83,6 +83,14 @@
 </details>
 
 <details open>
+  <summary><strong><a href="https://www.arxiv.org/abs/2509.23124">Non-Collaborative User Simulators for Tool Agents</a></strong></summary>
+  <p>
+    <em>International Conference on Learning Representations (ICLR) (Under Review), 2026</em><br>
+    Jeonghoon Shim, <strong>Woojung Song</strong>, Cheyon Jin, Seungwon Kook, Yohan Jo<br>
+  </p>
+</details>
+
+<details open>
   <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
   <p>
     <em>PeerJ Computer Science (Under Review), 2025</em><br>
