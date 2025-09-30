@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. - Brian Tracy"
+    "I'm an optimist by choice not by stupidity. - Yanni"
   </blockquote>
   <hr>
   <div>
