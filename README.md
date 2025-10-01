@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "I'm an optimist by choice not by stupidity. - Yanni"
+    "Wealth consists not in having great possessions, but in having few wants. - Epictetus"
   </blockquote>
   <hr>
   <div>
