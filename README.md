@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Wealth consists not in having great possessions, but in having few wants. - Epictetus"
+    "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley"
   </blockquote>
   <hr>
   <div>
