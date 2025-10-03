@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley"
+    "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways. - Sigmund Freud"
   </blockquote>
   <hr>
   <div>
