@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Unexpressed emotions will never die. They are buried alive and will come forth later in uglier ways. - Sigmund Freud"
+    "We must be free not because we claim freedom, but because we practice it. - William Faulkner"
   </blockquote>
   <hr>
   <div>
