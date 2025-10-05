@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "We must be free not because we claim freedom, but because we practice it. - William Faulkner"
+    "Life is what happens to you while you're busy making other plans. - John Lennon"
   </blockquote>
   <hr>
   <div>
