@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Life is what happens to you while you're busy making other plans. - John Lennon"
+    "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
