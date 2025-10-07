@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Always look on the bright side of things. If you can't comprehend this, polish that which has become dull until it begins to shine. - Zen Proverb"
+    "Through selfless service, you will always be fruitful and find the fulfillment of your desires. - Bhagavad Gita"
   </blockquote>
   <hr>
   <div>
