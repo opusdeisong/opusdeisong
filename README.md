@@ -67,7 +67,7 @@
 </details>
 
 <details open>
-  <summary><strong><a href="">Don't Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models</a></strong></summary>
+  <summary><strong><a href="https://arxiv.org/abs/2510.07248">Don't Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models</a></strong></summary>
   <p>
     <em>Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (ACL) (Under Review), 2026</em><br>
     Jonggeun Lee*, <strong>Woojung Song*</strong>, Jongwook Han*, Haesung Pyun, Yohan Jo<br>
@@ -76,7 +76,7 @@
 </details>
 
 <details open>
-  <summary><strong><a href="">Quantifying Data Contamination in Psychometric Evaluations of LLMs</a></strong></summary>
+  <summary><strong><a href="https://arxiv.org/abs/2510.07175">Quantifying Data Contamination in Psychometric Evaluations of LLMs</a></strong></summary>
   <p>
     <em>The 19th Conference of the European Chapter
 of the Association for Computational Linguistics (EACL) (Under Review), 2026</em><br>
