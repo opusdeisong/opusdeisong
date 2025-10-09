@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "We must accept finite disappointment, but never lose infinite hope. - Martin Luther King, Jr."
+    "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. - Richard Bach"
   </blockquote>
   <hr>
   <div>
