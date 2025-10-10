@@ -152,7 +152,7 @@ of the Association for Computational Linguistics (EACL) (Under Review), 2026</em
   <h3>🎓 SNU HOLI Lab Undergraduate Research Intern</h3>
   <p>
     Studying about Aligning LLMs to human values<br>
-    <em>(2024.07 ~ Present)</em>
+    <em>(2024.07 ~ 2025.08)</em>
   </p>
 </div>
 
@@ -163,7 +163,7 @@ of the Association for Computational Linguistics (EACL) (Under Review), 2026</em
     <a href="https://www.cncscore.com/" target="_blank">
       <img src="https://img.shields.io/badge/Working_Page-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Working Page">
     </a><br>
-    <em>(2022.07 ~ Present)</em>
+    <em>(2022.07 ~ 2025.08)</em>
   </p>
 </div>
 
