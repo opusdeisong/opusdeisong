@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. - Richard Bach"
+    "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. - Sun Tzu"
   </blockquote>
   <hr>
   <div>
