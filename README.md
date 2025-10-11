@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win. - Sun Tzu"
+    "You have as much laughter as you have faith. - Martin Luther"
   </blockquote>
   <hr>
   <div>
