@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Stop being a prisoner of your past. Become the architect of your future. - Robin Sharma"
+    "Through selfless service, you will always be fruitful and find the fulfillment of your desires. - Bhagavad Gita"
   </blockquote>
   <hr>
   <div>
