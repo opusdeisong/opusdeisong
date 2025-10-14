@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Through selfless service, you will always be fruitful and find the fulfillment of your desires. - Bhagavad Gita"
+    "Distant water does not put out a nearby fire. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
