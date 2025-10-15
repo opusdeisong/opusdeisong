@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Distant water does not put out a nearby fire. - Chinese Proverb"
+    "If your happiness depends on what somebody else does, I guess you do have a problem. - Richard Bach"
   </blockquote>
   <hr>
   <div>
