@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "If your happiness depends on what somebody else does, I guess you do have a problem. - Richard Bach"
+    "No man is happy who does not think himself so. - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
