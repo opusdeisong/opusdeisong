@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "No man is happy who does not think himself so. - Norman Vincent Peale"
+    "Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. - Deepak Chopra"
   </blockquote>
   <hr>
   <div>
