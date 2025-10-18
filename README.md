@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. - Deepak Chopra"
+    "The first principle of success is desire. - Robert Collier"
   </blockquote>
   <hr>
   <div>
