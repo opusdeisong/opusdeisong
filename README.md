@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The first principle of success is desire. - Robert Collier"
+    "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
