@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. - Lao Tzu"
+    "The secret of life is to fall seven times and to get up eight times. - Paulo Coelho"
   </blockquote>
   <hr>
   <div>
