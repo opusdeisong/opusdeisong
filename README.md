@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "The secret of life is to fall seven times and to get up eight times. - Paulo Coelho"
+    "Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley"
   </blockquote>
   <hr>
   <div>
