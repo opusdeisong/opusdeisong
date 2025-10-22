@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Happiness is the spiritual experience of living every minute with love, grace and gratitude. - Denis Waitley"
+    "Your mind is infinite, it's your doubts that are limiting. - Robert Kiyosaki"
   </blockquote>
   <hr>
   <div>
