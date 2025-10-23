@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "Your mind is infinite, it's your doubts that are limiting. - Robert Kiyosaki"
+    "An ounce of performance is worth pounds of promises. - Mae West"
   </blockquote>
   <hr>
   <div>
