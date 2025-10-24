@@ -7,7 +7,7 @@
 🎓 B.S. in Information System at Hanyang University 
 
   <blockquote>
-    "An ounce of performance is worth pounds of promises. - Mae West"
+    "The pen is the tongue of the mind.  - Miguel de Cervantes"
   </blockquote>
   <hr>
   <div>
