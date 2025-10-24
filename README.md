@@ -2,9 +2,8 @@
   
   # ✨ Woojung Song ✨
   
-*🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)*  <hr>
-
-🎓 B.S. in Information System at Hanyang University 
+*🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)* 
+🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
     "The pen is the tongue of the mind.  - Miguel de Cervantes"
