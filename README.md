@@ -2,7 +2,7 @@
   
   # ✨ Woojung Song ✨
   
-*🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)* 
+*🎓 M.S. in Data Science at Seoul National University (Incoming, September 2025)* <br>
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
