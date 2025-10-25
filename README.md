@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The pen is the tongue of the mind.  - Miguel de Cervantes"
+    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
   </blockquote>
   <hr>
   <div>
