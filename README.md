@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
+    "Rest and be kind, you don't have to prove anything. - Jack Kerouac"
   </blockquote>
   <hr>
   <div>
