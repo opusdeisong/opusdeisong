@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Rest and be kind, you don't have to prove anything. - Jack Kerouac"
+    "Cherish forever what makes you unique, cuz you're really a yawn if it goes. - Bette Midler"
   </blockquote>
   <hr>
   <div>
