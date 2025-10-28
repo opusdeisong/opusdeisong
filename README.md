@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Cherish forever what makes you unique, cuz you're really a yawn if it goes. - Bette Midler"
+    "Experience is simply the name we give our mistakes.  - Oscar Wilde"
   </blockquote>
   <hr>
   <div>
