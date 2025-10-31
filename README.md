@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Your world is a living expression of how you are using and have used your mind. - Earl Nightingale"
+    "A real friend is one who walks in when the rest of the world walks out. - Unknown"
   </blockquote>
   <hr>
   <div>
