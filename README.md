@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A real friend is one who walks in when the rest of the world walks out. - Unknown"
+    "Definiteness of purpose is the starting point of all achievement.  - W. Clement Stone"
   </blockquote>
   <hr>
   <div>
