@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Definiteness of purpose is the starting point of all achievement.  - W. Clement Stone"
+    "Realize deeply that the present moment is all you ever have.  - Eckhart Tolle"
   </blockquote>
   <hr>
   <div>
