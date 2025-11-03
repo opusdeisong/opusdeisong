@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Realize deeply that the present moment is all you ever have.  - Eckhart Tolle"
+    "Don't look for meaning in the words. Listen to the silences. - Samuel Beckett"
   </blockquote>
   <hr>
   <div>
