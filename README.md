@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Don't look for meaning in the words. Listen to the silences. - Samuel Beckett"
+    "Mistake is a mistake only if you make it twice. - Robin Sharma"
   </blockquote>
   <hr>
   <div>
