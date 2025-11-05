@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Mistake is a mistake only if you make it twice. - Robin Sharma"
+    "The clock indicates the moment...but what does eternity indicate? - Walt Whitman"
   </blockquote>
   <hr>
   <div>
