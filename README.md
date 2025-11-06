@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The clock indicates the moment...but what does eternity indicate? - Walt Whitman"
+    "Common sense is not so common.  - Voltaire"
   </blockquote>
   <hr>
   <div>
