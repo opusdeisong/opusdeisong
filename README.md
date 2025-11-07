@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Common sense is not so common.  - Voltaire"
+    "You are your best thing. - Toni Morrison"
   </blockquote>
   <hr>
   <div>
