@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You are your best thing. - Toni Morrison"
+    "There is no limit to the amount of good you can do if you don't care who gets the credit. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
