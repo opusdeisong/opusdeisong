@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "As soon as you trust yourself, you will know how to live. - Johann Wolfgang von Goethe"
+    "The most tragic thing in the world is a man of genius who is not a man of honor. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
