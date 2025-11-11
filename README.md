@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The most tragic thing in the world is a man of genius who is not a man of honor. - George Bernard Shaw"
+    "Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
