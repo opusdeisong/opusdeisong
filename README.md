@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb"
+    "Deeds will not be less valiant because they are upraised. - J.R.R. Tolkien"
   </blockquote>
   <hr>
   <div>
