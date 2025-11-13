@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Deeds will not be less valiant because they are upraised. - J.R.R. Tolkien"
+    "Don't seek, don't search, don't ask, don't knock, don't demand - relax. - Osho"
   </blockquote>
   <hr>
   <div>
