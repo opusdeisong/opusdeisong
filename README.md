@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "New opinions are always suspected, and usually opposed, without any other reason but because they are not common. - John Locke"
+    "All our knowledge has its origins in our perceptions. - Leonardo da Vinci"
   </blockquote>
   <hr>
   <div>
