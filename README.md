@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "All our knowledge has its origins in our perceptions. - Leonardo da Vinci"
+    "Success is a poor teacher. - Robert Kiyosaki"
   </blockquote>
   <hr>
   <div>
