@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Success is a poor teacher. - Robert Kiyosaki"
+    "By failing to prepare, you are preparing to fail. - Benjamin Franklin"
   </blockquote>
   <hr>
   <div>
