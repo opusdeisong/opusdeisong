@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "By failing to prepare, you are preparing to fail. - Benjamin Franklin"
+    "The first rule of business; treat others like they want to treat you. - Charles Dickens"
   </blockquote>
   <hr>
   <div>
