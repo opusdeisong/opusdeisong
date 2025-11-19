@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The first rule of business; treat others like they want to treat you. - Charles Dickens"
+    "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. - Kahlil Gibran"
   </blockquote>
   <hr>
   <div>
