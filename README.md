@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you love somebody, let them go, for if they return, they were always yours. If they don't, they never were. - Kahlil Gibran"
+    "High thoughts must have high language. - Aristophanes"
   </blockquote>
   <hr>
   <div>
