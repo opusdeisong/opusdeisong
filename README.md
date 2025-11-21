@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "High thoughts must have high language. - Aristophanes"
+    "If you do not change direction, you may end up where you are heading. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
