@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you do not change direction, you may end up where you are heading. - Lao Tzu"
+    "The act of taking the first step is what separates the winners from the losers. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
