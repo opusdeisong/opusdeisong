@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The act of taking the first step is what separates the winners from the losers. - Brian Tracy"
+    "Is it really possible to tell someone else what one feels? - Leo Tolstoy"
   </blockquote>
   <hr>
   <div>
