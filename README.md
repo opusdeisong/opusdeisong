@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Is it really possible to tell someone else what one feels? - Leo Tolstoy"
+    "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. - David Brinkley"
   </blockquote>
   <hr>
   <div>
