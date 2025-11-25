@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "People have the illusion that all over the world, all the time, all kinds of fantastic things are happening. - David Brinkley"
+    "It takes a very long time to become young. - Pablo Picasso"
   </blockquote>
   <hr>
   <div>
