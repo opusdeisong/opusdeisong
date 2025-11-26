@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It takes a very long time to become young. - Pablo Picasso"
+    "Prefer to be defeated in the presence of the wise than to excel among fools. - Dogen"
   </blockquote>
   <hr>
   <div>
