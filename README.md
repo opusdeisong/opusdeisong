@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Prefer to be defeated in the presence of the wise than to excel among fools. - Dogen"
+    "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
