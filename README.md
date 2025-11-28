@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy"
+    "When at last you are come to the ocean of happiness, do not go back thirsty. - Kabir"
   </blockquote>
   <hr>
   <div>
