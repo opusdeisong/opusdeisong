@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Courage Is a Love Affair with the Unknown - Osho"
+    "Dreams provide nourishment for the soul, just as a meal does for the body. - Paulo Coelho"
   </blockquote>
   <hr>
   <div>
