@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Dreams provide nourishment for the soul, just as a meal does for the body. - Paulo Coelho"
+    "The greatest gift that you can give to others is the gift of unconditional love and acceptance.  - Brian Tracy"
   </blockquote>
   <hr>
   <div>
