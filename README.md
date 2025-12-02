@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The greatest gift that you can give to others is the gift of unconditional love and acceptance.  - Brian Tracy"
+    "How much pain they have cost us, the evils which have never happened. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
