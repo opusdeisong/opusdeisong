@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. - Roy T. Bennett"
+    "Make peace with your inner turmoil. - Unknown"
   </blockquote>
   <hr>
   <div>
