@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Troubles are often the tools by which God fashions us for better things. - Henry Ward Beecher"
+    "A leader is one who knows the way, goes the way, and shows the way. - Unknown"
   </blockquote>
   <hr>
   <div>
