@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A leader is one who knows the way, goes the way, and shows the way. - Unknown"
+    "Life itself is the most wonderful fairy tale. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
