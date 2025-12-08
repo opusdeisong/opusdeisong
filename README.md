@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life itself is the most wonderful fairy tale. - Hans Christian Andersen"
+    "If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr."
   </blockquote>
   <hr>
   <div>
