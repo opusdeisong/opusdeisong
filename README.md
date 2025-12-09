@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr."
+    "Do something worth remembering. - Elvis Presley"
   </blockquote>
   <hr>
   <div>
