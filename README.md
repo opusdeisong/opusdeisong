@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do something worth remembering. - Elvis Presley"
+    "Don't live the same year 75 times and call it a life. - Robin Sharma"
   </blockquote>
   <hr>
   <div>
