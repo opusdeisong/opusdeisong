@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Don't live the same year 75 times and call it a life. - Robin Sharma"
+    "Riches don't make a man rich, they only make him busier. - Christopher Columbus"
   </blockquote>
   <hr>
   <div>
