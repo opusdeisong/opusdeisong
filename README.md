@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Riches don't make a man rich, they only make him busier. - Christopher Columbus"
+    "Never allow someone to be your priority while allowing yourself to be their option. - Mark Twain"
   </blockquote>
   <hr>
   <div>
