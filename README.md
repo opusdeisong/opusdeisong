@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Never allow someone to be your priority while allowing yourself to be their option. - Mark Twain"
+    "Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? - Eckhart Tolle"
   </blockquote>
   <hr>
   <div>
