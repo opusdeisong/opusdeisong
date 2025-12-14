@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have? - Eckhart Tolle"
+    "We have a duty to maintain the light of consciousness to make sure it continues into the future. - Elon Musk"
   </blockquote>
   <hr>
   <div>
