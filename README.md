@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We have a duty to maintain the light of consciousness to make sure it continues into the future. - Elon Musk"
+    "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.  - St. Jerome"
   </blockquote>
   <hr>
   <div>
