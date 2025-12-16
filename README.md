@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The face is the mirror of the mind, and eyes without speaking confess the secrets of the heart.  - St. Jerome"
+    "Short cuts make long delays. - J.R.R. Tolkien"
   </blockquote>
   <hr>
   <div>
