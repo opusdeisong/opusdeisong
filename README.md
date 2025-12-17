@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Short cuts make long delays. - J.R.R. Tolkien"
+    "Do not think you will necessarily be aware of your own enlightenment. - Dogen"
   </blockquote>
   <hr>
   <div>
