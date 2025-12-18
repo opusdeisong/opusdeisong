@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not think you will necessarily be aware of your own enlightenment. - Dogen"
+    "Live the moment for the moment. - Michael Jordan"
   </blockquote>
   <hr>
   <div>
