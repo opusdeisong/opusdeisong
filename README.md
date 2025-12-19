@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Live the moment for the moment. - Michael Jordan"
+    "Know yourself and you will win all battles. - Sun Tzu"
   </blockquote>
   <hr>
   <div>
