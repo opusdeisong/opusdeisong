@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Know yourself and you will win all battles. - Sun Tzu"
+    "The businessman's tool is value. - Ayn Rand"
   </blockquote>
   <hr>
   <div>
