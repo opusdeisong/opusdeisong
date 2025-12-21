@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The businessman's tool is value. - Ayn Rand"
+    "Always keep your eyes open. Keep watching. Because whatever you see can inspire you. - Grace Coddington"
   </blockquote>
   <hr>
   <div>
