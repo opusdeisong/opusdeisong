@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Always keep your eyes open. Keep watching. Because whatever you see can inspire you. - Grace Coddington"
+    "Act as if what you do makes a difference. It does. - William James"
   </blockquote>
   <hr>
   <div>
