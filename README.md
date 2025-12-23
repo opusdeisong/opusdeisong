@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Act as if what you do makes a difference. It does. - William James"
+    "Confuse them with your silence and amaze them with your actions. - Unknown"
   </blockquote>
   <hr>
   <div>
