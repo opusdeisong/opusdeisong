@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Confuse them with your silence and amaze them with your actions. - Unknown"
+    "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene"
   </blockquote>
   <hr>
   <div>
