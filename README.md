@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene"
+    "No matter what happens in life, never lose sight of who you are. - Yanni"
   </blockquote>
   <hr>
   <div>
