@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "No matter what happens in life, never lose sight of who you are. - Yanni"
+    "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
