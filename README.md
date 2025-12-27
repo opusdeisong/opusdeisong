@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan"
+    "If you want peace, you won't get it with violence. - John Lennon"
   </blockquote>
   <hr>
   <div>
