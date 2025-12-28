@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you want peace, you won't get it with violence. - John Lennon"
+    "If you can change your mind, you can change your life. - William James"
   </blockquote>
   <hr>
   <div>
