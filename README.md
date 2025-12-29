@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you can change your mind, you can change your life. - William James"
+    "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. - Dogen"
   </blockquote>
   <hr>
   <div>
