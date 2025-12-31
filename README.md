@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To be prepared is half the victory.  - Miguel de Cervantes"
+    "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - Robert Kiyosaki"
   </blockquote>
   <hr>
   <div>
