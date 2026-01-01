@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - Robert Kiyosaki"
+    "Force has no place where there is need of skill.  - Herodotus"
   </blockquote>
   <hr>
   <div>
