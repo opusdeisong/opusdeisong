@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Force has no place where there is need of skill.  - Herodotus"
+    "The harder the conflict, the greater the triumph.  - George Washington"
   </blockquote>
   <hr>
   <div>
