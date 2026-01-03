@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The harder the conflict, the greater the triumph.  - George Washington"
+    "If you put water into a cup, it becomes the cup. - Bruce Lee"
   </blockquote>
   <hr>
   <div>
