@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you put water into a cup, it becomes the cup. - Bruce Lee"
+    "It is better to fail in originality than to succeed in imitation. - Herman Melville"
   </blockquote>
   <hr>
   <div>
