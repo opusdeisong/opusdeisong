@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It is better to fail in originality than to succeed in imitation. - Herman Melville"
+    "Heroes don't need to talk about what they did. - W.P. Kinsella"
   </blockquote>
   <hr>
   <div>
