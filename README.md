@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Heroes don't need to talk about what they did. - W.P. Kinsella"
+    "The whole of life, from the moment you are born to the moment you die, is a process of learning. - Jiddu Krishnamurti"
   </blockquote>
   <hr>
   <div>
