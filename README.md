@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The whole of life, from the moment you are born to the moment you die, is a process of learning. - Jiddu Krishnamurti"
+    "A minute's success pays the failure of years. - Robert Browning"
   </blockquote>
   <hr>
   <div>
