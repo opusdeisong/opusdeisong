@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A minute's success pays the failure of years. - Robert Browning"
+    "Every man gotta right to decide his own destiny. - Bob Marley"
   </blockquote>
   <hr>
   <div>
