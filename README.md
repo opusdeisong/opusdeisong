@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Every man gotta right to decide his own destiny. - Bob Marley"
+    "Believe you can and you're halfway there. - Theodore Roosevelt"
   </blockquote>
   <hr>
   <div>
