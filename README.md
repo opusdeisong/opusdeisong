@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Believe you can and you're halfway there. - Theodore Roosevelt"
+    "Let the beauty of what you love be what you do. - Rumi"
   </blockquote>
   <hr>
   <div>
