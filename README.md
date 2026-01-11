@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Let the beauty of what you love be what you do. - Rumi"
+    "Our stories may be singular, but our destination is shared. - Barack Obama"
   </blockquote>
   <hr>
   <div>
