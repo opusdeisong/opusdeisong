@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Our stories may be singular, but our destination is shared. - Barack Obama"
+    "If the plan doesn't work, change the plan, but never the goal. - Unknown"
   </blockquote>
   <hr>
   <div>
