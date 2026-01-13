@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If the plan doesn't work, change the plan, but never the goal. - Unknown"
+    "Failure is just information and an opportunity to change your course. - Oprah Winfrey"
   </blockquote>
   <hr>
   <div>
