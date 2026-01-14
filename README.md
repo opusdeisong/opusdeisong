@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Failure is just information and an opportunity to change your course. - Oprah Winfrey"
+    "Never argue with ignorance. It only leads to frustration. - Unknown"
   </blockquote>
   <hr>
   <div>
