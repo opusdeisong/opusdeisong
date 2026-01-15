@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Never argue with ignorance. It only leads to frustration. - Unknown"
+    "Be brave. Take risks. Nothing can substitute experience. - Paulo Coelho"
   </blockquote>
   <hr>
   <div>
