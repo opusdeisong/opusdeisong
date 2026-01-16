@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be brave. Take risks. Nothing can substitute experience. - Paulo Coelho"
+    "Is it really possible to tell someone else what one feels? - Leo Tolstoy"
   </blockquote>
   <hr>
   <div>
