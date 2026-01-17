@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Is it really possible to tell someone else what one feels? - Leo Tolstoy"
+    "Anxiety is the dizziness of freedom. - Soren Kierkegaard"
   </blockquote>
   <hr>
   <div>
