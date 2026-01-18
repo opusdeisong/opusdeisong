@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Anxiety is the dizziness of freedom. - Soren Kierkegaard"
+    "Opportunity often comes disguised in the form of misfortune or temporary defeat. - Napoleon Hill"
   </blockquote>
   <hr>
   <div>
