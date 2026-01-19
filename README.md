@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Opportunity often comes disguised in the form of misfortune or temporary defeat. - Napoleon Hill"
+    "The moment you stop to think about whether you love someone, you've already stopped loving that person forever. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
