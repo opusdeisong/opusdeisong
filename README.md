@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The moment you stop to think about whether you love someone, you've already stopped loving that person forever. - Carlos Ruiz Zafon"
+    "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
