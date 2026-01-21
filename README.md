@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - Ming-Dao Deng"
+    "Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose. - Steve Jobs"
   </blockquote>
   <hr>
   <div>
