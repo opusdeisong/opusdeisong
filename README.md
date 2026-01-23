@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The ones who are crazy enough to think they can change the world, are the ones that do. - Steve Jobs"
+    "All religions, arts and sciences are branches of the same tree.  - Albert Einstein"
   </blockquote>
   <hr>
   <div>
