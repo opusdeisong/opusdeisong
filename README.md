@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "All religions, arts and sciences are branches of the same tree.  - Albert Einstein"
+    "Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. - Earl Nightingale"
   </blockquote>
   <hr>
   <div>
