@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Think how really precious is the time you have to spend, whether it's at work or with your family. Every minute should be enjoyed and savored. - Earl Nightingale"
+    "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. - Denis Waitley"
   </blockquote>
   <hr>
   <div>
