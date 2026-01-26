@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience. - Denis Waitley"
+    "You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran"
   </blockquote>
   <hr>
   <div>
