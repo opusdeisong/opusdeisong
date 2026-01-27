@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran"
+    "All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas"
   </blockquote>
   <hr>
   <div>
