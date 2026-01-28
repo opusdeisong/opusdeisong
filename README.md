@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "All human wisdom is contained in these two words - Wait and Hope - Alexandre Dumas"
+    "All cruelty springs from weakness.   - Seneca"
   </blockquote>
   <hr>
   <div>
