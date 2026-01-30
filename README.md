@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To get angry is like to revenge yourself for the guilt of others. - Jonathan Swift"
+    "Anything you may hold firmly in your imagination can be yours. - William James"
   </blockquote>
   <hr>
   <div>
