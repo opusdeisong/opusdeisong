@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Anything you may hold firmly in your imagination can be yours. - William James"
+    "It is what we make out of what we have, not what we are given, that separates one person from another. - Nelson Mandela"
   </blockquote>
   <hr>
   <div>
