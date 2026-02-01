@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It is what we make out of what we have, not what we are given, that separates one person from another. - Nelson Mandela"
+    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
   </blockquote>
   <hr>
   <div>
