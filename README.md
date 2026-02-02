@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
+    "We are like islands in the sea, separate on the surface but connected in the deep. - William James"
   </blockquote>
   <hr>
   <div>
