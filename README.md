@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We are like islands in the sea, separate on the surface but connected in the deep. - William James"
+    "Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! - Alfred Adler"
   </blockquote>
   <hr>
   <div>
