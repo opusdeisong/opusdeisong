@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live! - Alfred Adler"
+    "I try more and more to be myself, caring relatively little whether people approve or disapprove. - Vincent van Gogh"
   </blockquote>
   <hr>
   <div>
