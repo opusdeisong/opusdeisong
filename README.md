@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "I try more and more to be myself, caring relatively little whether people approve or disapprove. - Vincent van Gogh"
+    "The only limits in your life are those that you set yourself. - Celestine Chua"
   </blockquote>
   <hr>
   <div>
