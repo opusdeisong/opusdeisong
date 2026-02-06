@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The only limits in your life are those that you set yourself. - Celestine Chua"
+    "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. - Dogen"
   </blockquote>
   <hr>
   <div>
