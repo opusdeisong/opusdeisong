@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life and death are of supreme importance. Time swiftly passes by and opportunity is lost. - Dogen"
+    "We can either add to our character each day, or we can fritter away our energies in distractions. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
