@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We can either add to our character each day, or we can fritter away our energies in distractions. - Ming-Dao Deng"
+    "You have as much laughter as you have faith. - Martin Luther"
   </blockquote>
   <hr>
   <div>
