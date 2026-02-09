@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You have as much laughter as you have faith. - Martin Luther"
+    "In order to be walked over, you have to be lying down. - Celestine Chua"
   </blockquote>
   <hr>
   <div>
