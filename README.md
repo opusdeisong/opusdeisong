@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "In order to be walked over, you have to be lying down. - Celestine Chua"
+    "The important thing is not to stop questioning. Curiosity has its own reason for existing. - Albert Einstein"
   </blockquote>
   <hr>
   <div>
