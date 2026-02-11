@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The important thing is not to stop questioning. Curiosity has its own reason for existing. - Albert Einstein"
+    "The thing about smart people is that they seem like crazy people to dumb people. - Stephen Hawking"
   </blockquote>
   <hr>
   <div>
