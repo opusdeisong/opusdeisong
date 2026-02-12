@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The thing about smart people is that they seem like crazy people to dumb people. - Stephen Hawking"
+    "Raise your words, not voice. It is rain that grows flowers, not thunder. - Rumi"
   </blockquote>
   <hr>
   <div>
