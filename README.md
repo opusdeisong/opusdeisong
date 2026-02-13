@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Raise your words, not voice. It is rain that grows flowers, not thunder. - Rumi"
+    "We can spend our whole lives escaping from the monsters of our minds. - Pema Chodron"
   </blockquote>
   <hr>
   <div>
