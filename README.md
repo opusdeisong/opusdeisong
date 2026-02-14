@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We can spend our whole lives escaping from the monsters of our minds. - Pema Chodron"
+    "Chop your own wood and it will warm you twice.  - Henry Ford"
   </blockquote>
   <hr>
   <div>
