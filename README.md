@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Chop your own wood and it will warm you twice.  - Henry Ford"
+    "Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
