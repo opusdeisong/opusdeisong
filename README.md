@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Even if you stumble and fall down, it doesn't mean you've chosen the wrong path. - Zen Proverb"
+    "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. - Alfred Adler"
   </blockquote>
   <hr>
   <div>
