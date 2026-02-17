@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. - Alfred Adler"
+    "Believe you can and you're halfway there. - Theodore Roosevelt"
   </blockquote>
   <hr>
   <div>
