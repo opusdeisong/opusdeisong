@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. - Alfred Adler"
+    "When you win, say nothing, when you lose say less. - Wayne Gretzky"
   </blockquote>
   <hr>
   <div>
