@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "When you win, say nothing, when you lose say less. - Wayne Gretzky"
+    "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously. - Naval Ravikant"
   </blockquote>
   <hr>
   <div>
