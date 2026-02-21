@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nothing you do is going to matter that much in the long run. Don't take yourself so seriously. - Naval Ravikant"
+    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
   </blockquote>
   <hr>
   <div>
