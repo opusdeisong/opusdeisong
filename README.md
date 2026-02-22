@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
+    "But better die than live mechanically a life that is a repetition of repetitions. - D. H. Lawrence"
   </blockquote>
   <hr>
   <div>
