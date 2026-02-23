@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "But better die than live mechanically a life that is a repetition of repetitions. - D. H. Lawrence"
+    "In nature there is no alienation. Everything belongs. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
