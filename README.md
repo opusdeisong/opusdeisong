@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "In nature there is no alienation. Everything belongs. - Ming-Dao Deng"
+    "One's best success comes after their greatest disappointments. - Henry Ward Beecher"
   </blockquote>
   <hr>
   <div>
