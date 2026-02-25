@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "One's best success comes after their greatest disappointments. - Henry Ward Beecher"
+    "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. - Alfred Adler"
   </blockquote>
   <hr>
   <div>
