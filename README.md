@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A simple rule in dealing with those who are hard to get along with is to remember that this person is striving to assert his superiority; and you must deal with him from that point of view. - Alfred Adler"
+    "Throw your heart over the fence and the rest will follow - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
