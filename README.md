@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Throw your heart over the fence and the rest will follow - Norman Vincent Peale"
+    "In order to be walked over, you have to be lying down. - Celestine Chua"
   </blockquote>
   <hr>
   <div>
