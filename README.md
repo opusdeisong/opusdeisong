@@ -94,7 +94,7 @@
 <details open>
   <summary><strong><a href = "https://arxiv.org/abs/2507.05890">Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</a></strong></summary>
   <p>
-    <em>Transactions of the Association for Computational Linguistics (TACL) (Under Review), 2025</em><br>
+    <em>Transactions of the Association for Computational Linguistics (TACL), 2026</em><br>
     Sungjib Lim, <strong>Woojung Song</strong>, Eunju Lee, Yohan Jo
   </p>
 </details>
