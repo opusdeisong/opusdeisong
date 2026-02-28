@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "In order to be walked over, you have to be lying down. - Celestine Chua"
+    "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves. - Adi Da Samraj"
   </blockquote>
   <hr>
   <div>
