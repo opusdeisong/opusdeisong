@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Fear of death is fear of surrender to Infinity. Learn to surrender, to exist at Infinity while alive, and fear of death dissolves. - Adi Da Samraj"
+    "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. - Josh Waitzkin"
   </blockquote>
   <hr>
   <div>
