@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible. - Josh Waitzkin"
+    "Turn your wounds into wisdom.  - Oprah Winfrey"
   </blockquote>
   <hr>
   <div>
