@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Turn your wounds into wisdom.  - Oprah Winfrey"
+    "Success is never final; failure is never fatal. - Conrad Hilton"
   </blockquote>
   <hr>
   <div>
