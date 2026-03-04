@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Success is never final; failure is never fatal. - Conrad Hilton"
+    "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  - George Washington"
   </blockquote>
   <hr>
   <div>
