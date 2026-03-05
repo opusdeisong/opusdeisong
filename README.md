@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be courteous to all, but intimate with few, and let those few be well tried before you give them your confidence.  - George Washington"
+    "Even in the grave, all is not lost. - Edgar Allan Poe"
   </blockquote>
   <hr>
   <div>
