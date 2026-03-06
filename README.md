@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Even in the grave, all is not lost. - Edgar Allan Poe"
+    "The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard"
   </blockquote>
   <hr>
   <div>
