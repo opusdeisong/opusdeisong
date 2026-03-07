@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The greatest mistake you can make in life is to be continually fearing you will make one. - Elbert Hubbard"
+    "Chop your own wood and it will warm you twice.  - Henry Ford"
   </blockquote>
   <hr>
   <div>
