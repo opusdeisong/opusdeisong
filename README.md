@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Get mad, then get over it. - Colin Powell"
+    "Do not wait for leaders; do it alone, person to person. - Mother Teresa"
   </blockquote>
   <hr>
   <div>
