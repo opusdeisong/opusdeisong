@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not wait for leaders; do it alone, person to person. - Mother Teresa"
+    "The greatest treasures are those invisible to the eye but found by the heart. - Judy Garland"
   </blockquote>
   <hr>
   <div>
