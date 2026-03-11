@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The greatest treasures are those invisible to the eye but found by the heart. - Judy Garland"
+    "If you want to see things just as they are, then you yourself must practice just as you are. - Dogen"
   </blockquote>
   <hr>
   <div>
