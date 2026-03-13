@@ -102,7 +102,7 @@
 <details open>
   <summary><strong><a href="https://www.arxiv.org/abs/2509.10078">Established Psychometric vs. Ecologically Valid Questionnaires: Rethinking Psychological Assessments in Large Language Models</a></strong></summary>
   <p>
-    <em>Transactions of the Association for Computational Linguistics (TACL) (Under Review), 2025</em><br>
+    <em>(Under Review), 2025</em><br>
     Dongmin Choi, <strong>Woojung Song</strong>, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
   </p>
 </details>
@@ -110,7 +110,7 @@
 <details open>
   <summary><strong>Interpretable Prediction of Private Brand Purchases by Pet Type in E-Commerce for Consumer Behavior Analysis Using Real-World Transaction Data</strong></summary>
   <p>
-    <em>PeerJ Computer Science (Under Review), 2025</em><br>
+    <em>PeerJ Computer Science, 2025</em><br>
    Jaehyuk Lee*, <strong>Woojung Song*</strong>, Jina Kim, Eunchan Kim<br>
     <em>*Co-first authors</em>
   </p>
