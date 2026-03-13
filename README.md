@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It is far easier to start something than it is to finish it. - Amelia Earhart"
+    "I no doubt deserved my enemies, but I don't believe I deserved my friends. - Walt Whitman"
   </blockquote>
   <hr>
   <div>
