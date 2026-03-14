@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "I no doubt deserved my enemies, but I don't believe I deserved my friends. - Walt Whitman"
+    "Courage is found in unlikely places. - J.R.R. Tolkien"
   </blockquote>
   <hr>
   <div>
