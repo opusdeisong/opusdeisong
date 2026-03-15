@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Courage is found in unlikely places. - J.R.R. Tolkien"
+    "When I let go of what I am, I become what I might be. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
