@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "When I let go of what I am, I become what I might be. - Lao Tzu"
+    "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - Sonia Ricotti"
   </blockquote>
   <hr>
   <div>
