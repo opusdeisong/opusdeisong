@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you. - Sonia Ricotti"
+    "Courage is resistance to fear, mastery of fear - not absence of fear. - Mark Twain"
   </blockquote>
   <hr>
   <div>
