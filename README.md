@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Courage is resistance to fear, mastery of fear - not absence of fear. - Mark Twain"
+    "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. - Charles Dickens"
   </blockquote>
   <hr>
   <div>
