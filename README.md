@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes. - Charles Dickens"
+    "The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran"
   </blockquote>
   <hr>
   <div>
