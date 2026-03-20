@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran"
+    "Don't be afraid that you do not know something. Be afraid of not learning about it. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
