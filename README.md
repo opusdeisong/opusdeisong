@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Don't be afraid that you do not know something. Be afraid of not learning about it. - Zen Proverb"
+    "Some people want it to happen, some wish it would happen, others make it happen. - Michael Jordan"
   </blockquote>
   <hr>
   <div>
