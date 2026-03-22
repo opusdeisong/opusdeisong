@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Some people want it to happen, some wish it would happen, others make it happen. - Michael Jordan"
+    "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop. - Mother Teresa"
   </blockquote>
   <hr>
   <div>
