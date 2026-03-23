@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We ourselves feel that what we are doing is just a drop in the ocean. But the ocean would be less because of that missing drop. - Mother Teresa"
+    "The more you extend kindness to yourself, the more it will become your automatic response to others. - Wayne Dyer"
   </blockquote>
   <hr>
   <div>
