@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The more you extend kindness to yourself, the more it will become your automatic response to others. - Wayne Dyer"
+    "Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac"
   </blockquote>
   <hr>
   <div>
