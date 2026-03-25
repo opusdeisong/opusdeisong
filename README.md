@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Great things are not accomplished by those who yield to trends and fads and popular opinion. - Jack Kerouac"
+    "Anything you may hold firmly in your imagination can be yours. - William James"
   </blockquote>
   <hr>
   <div>
