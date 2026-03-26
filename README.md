@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Anything you may hold firmly in your imagination can be yours. - William James"
+    "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. - Harry S. Truman"
   </blockquote>
   <hr>
   <div>
