@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nearly every crisis seems to be the worst one, but after it's over, it isn't so bad. - Harry S. Truman"
+    "If you think adventure is dangerous, try routine; it is lethal. - Paulo Coelho"
   </blockquote>
   <hr>
   <div>
