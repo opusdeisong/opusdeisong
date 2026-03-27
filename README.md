@@ -109,10 +109,11 @@
 </details>
 
 <details open>
-  <summary><strong><a href="https://www.arxiv.org/abs/2509.10078">Established Psychometric vs. Ecologically Valid Questionnaires: Rethinking Psychological Assessments in Large Language Models</a></strong></summary>
+  <summary><strong><a href="https://www.arxiv.org/abs/2509.10078">Human Psychometric Questionnaires Mischaracterize LLM Psychology: Evidence from Generation Behavior</a></strong></summary>
   <p>
     <em>(Under Review), 2025</em><br>
-    Dongmin Choi, <strong>Woojung Song</strong>, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
+    <strong>Woojung Song*</strong>, Dongmin Choi*, Yoonah Park, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
+    <em>*Co-first authors</em>
   </p>
 </details>
 
