@@ -57,6 +57,15 @@
 ## 📄 Publications
 
 <details open>
+  <summary><strong><a href="https://www.arxiv.org/abs/2509.10078">Human Psychometric Questionnaires Mischaracterize LLM Psychology: Evidence from Generation Behavior</a></strong></summary>
+  <p>
+    <em>(Under Review), 2026</em><br>
+    <strong>Woojung Song*</strong>, Dongmin Choi*, Yoonah Park, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
+    <em>*Co-first authors</em>
+  </p>
+</details>
+
+<details open>
   <summary><strong><a href="https://www.arxiv.org/abs/2509.23124">Non-Collaborative User Simulators for Tool Agents</a></strong></summary>
   <p>
     <em>[ICLR] The Fourteenth International Conference on Learning Representations, 2026</em><br>
@@ -104,15 +113,6 @@
   <p>
     <em>PeerJ Computer Science, 2025</em><br>
    Jaehyuk Lee*, <strong>Woojung Song*</strong>, Jina Kim, Eunchan Kim<br>
-    <em>*Co-first authors</em>
-  </p>
-</details>
-
-<details open>
-  <summary><strong><a href="https://www.arxiv.org/abs/2509.10078">Human Psychometric Questionnaires Mischaracterize LLM Psychology: Evidence from Generation Behavior</a></strong></summary>
-  <p>
-    <em>(Under Review), 2025</em><br>
-    <strong>Woojung Song*</strong>, Dongmin Choi*, Yoonah Park, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
     <em>*Co-first authors</em>
   </p>
 </details>
