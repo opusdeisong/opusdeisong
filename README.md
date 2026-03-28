@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you think adventure is dangerous, try routine; it is lethal. - Paulo Coelho"
+    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
   </blockquote>
   <hr>
   <div>
