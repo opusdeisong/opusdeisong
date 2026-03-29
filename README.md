@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Reality is the leading cause of stress among those in touch with it. - Lily Tomlin"
+    "A rational person can find peace by cultivating indifference to things outside of their control. - Naval Ravikant"
   </blockquote>
   <hr>
   <div>
