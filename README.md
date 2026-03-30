@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A rational person can find peace by cultivating indifference to things outside of their control. - Naval Ravikant"
+    "The scariest monsters are the ones that lurk within our souls. - Edgar Allan Poe"
   </blockquote>
   <hr>
   <div>
