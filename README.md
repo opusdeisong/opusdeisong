@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The scariest monsters are the ones that lurk within our souls. - Edgar Allan Poe"
+    "Who you are is always right. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
