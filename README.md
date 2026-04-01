@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Who you are is always right. - Ming-Dao Deng"
+    "Life is about choice. You can choose to be a victim or anything else you like to be. - Celestine Chua"
   </blockquote>
   <hr>
   <div>
