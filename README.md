@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is about choice. You can choose to be a victim or anything else you like to be. - Celestine Chua"
+    "No man is happy unless he believes he is. - Publilius Syrus"
   </blockquote>
   <hr>
   <div>
