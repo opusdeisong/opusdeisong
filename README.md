@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "No man is happy unless he believes he is. - Publilius Syrus"
+    "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. - Aristophanes"
   </blockquote>
   <hr>
   <div>
