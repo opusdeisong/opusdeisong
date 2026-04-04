@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. - Aristophanes"
+    "Someday death will take us to another star. - Vincent van Gogh"
   </blockquote>
   <hr>
   <div>
