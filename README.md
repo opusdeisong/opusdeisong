@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Someday death will take us to another star. - Vincent van Gogh"
+    "Stop wasting time defending your problems and work on addressing them instead. - Celestine Chua"
   </blockquote>
   <hr>
   <div>
