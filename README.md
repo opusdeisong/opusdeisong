@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Stop wasting time defending your problems and work on addressing them instead. - Celestine Chua"
+    "Do something to move yourself toward your major goal every day. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
