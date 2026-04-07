@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do something to move yourself toward your major goal every day. - Brian Tracy"
+    "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
