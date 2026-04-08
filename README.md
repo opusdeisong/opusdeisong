@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means. - Ronald Reagan"
+    "What people say, what people do, and what they say they do are entirely different things.  - Margaret Mead"
   </blockquote>
   <hr>
   <div>
