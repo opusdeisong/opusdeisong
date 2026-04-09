@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "What people say, what people do, and what they say they do are entirely different things.  - Margaret Mead"
+    "The difference between winning and losing is most often not quitting. - Walt Disney"
   </blockquote>
   <hr>
   <div>
