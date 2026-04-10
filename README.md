@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The difference between winning and losing is most often not quitting. - Walt Disney"
+    "Dreams are the royal road to the unconscious.  - Sigmund Freud"
   </blockquote>
   <hr>
   <div>
