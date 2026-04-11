@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Dreams are the royal road to the unconscious.  - Sigmund Freud"
+    "Imagination means nothing without doing.   - Charlie Chaplin"
   </blockquote>
   <hr>
   <div>
