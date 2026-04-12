@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Imagination means nothing without doing.   - Charlie Chaplin"
+    "When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy. - Norman Vincent Peale"
   </blockquote>
   <hr>
   <div>
