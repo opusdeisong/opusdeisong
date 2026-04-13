@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "When you get up in the morning, you have two choices - either to be happy or to be unhappy. Just choose to be happy. - Norman Vincent Peale"
+    "Re-examine all that you have been told... dismiss that which insults your soul. - Walt Whitman"
   </blockquote>
   <hr>
   <div>
