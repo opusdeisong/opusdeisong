@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Re-examine all that you have been told... dismiss that which insults your soul. - Walt Whitman"
+    "Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
