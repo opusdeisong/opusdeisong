@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson"
+    "If there were no God, there would be no atheists. - Gilbert Chesterton"
   </blockquote>
   <hr>
   <div>
