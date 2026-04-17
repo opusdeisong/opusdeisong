@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A wise man will be master of his mind, a fool will be its slave. - Publilius Syrus"
+    "Instead of thinking outside the box, get rid of the box. - Deepak Chopra"
   </blockquote>
   <hr>
   <div>
