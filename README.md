@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Instead of thinking outside the box, get rid of the box. - Deepak Chopra"
+    "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr."
   </blockquote>
   <hr>
   <div>
