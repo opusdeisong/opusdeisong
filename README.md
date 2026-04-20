@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Some people are old at 18 and some are young at 90. Time is a concept that humans created. - Yoko Ono"
+    "You can never cross the ocean unless you have the courage to lose sight of the shore. - Christopher Columbus"
   </blockquote>
   <hr>
   <div>
