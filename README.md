@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You can never cross the ocean unless you have the courage to lose sight of the shore. - Christopher Columbus"
+    "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Buddha"
   </blockquote>
   <hr>
   <div>
