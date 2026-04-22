@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment. - Buddha"
+    "To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - Simon Sinek"
   </blockquote>
   <hr>
   <div>
