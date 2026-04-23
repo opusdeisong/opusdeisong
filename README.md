@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - Simon Sinek"
+    "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
