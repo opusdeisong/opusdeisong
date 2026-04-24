@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday. - Brian Tracy"
+    "Ask no questions, and you'll be told no lies. - Charles Dickens"
   </blockquote>
   <hr>
   <div>
