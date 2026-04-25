@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Ask no questions, and you'll be told no lies. - Charles Dickens"
+    "You are today where your thoughts have brought you. - James Allen"
   </blockquote>
   <hr>
   <div>
