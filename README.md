@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You are today where your thoughts have brought you. - James Allen"
+    "Let us rather run the risk of wearing out than rusting out. - Theodore Roosevelt"
   </blockquote>
   <hr>
   <div>
