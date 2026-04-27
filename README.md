@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Let us rather run the risk of wearing out than rusting out. - Theodore Roosevelt"
+    "The road to success is always under construction. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
