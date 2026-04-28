@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The road to success is always under construction. - Steve Harvey"
+    "We are willing to believe anything other than the truth. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
