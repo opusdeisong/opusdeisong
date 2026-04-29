@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We are willing to believe anything other than the truth. - Carlos Ruiz Zafon"
+    "The big thing is to make a winning effort. I'm not obsessed with wins. - Morgan Wootten"
   </blockquote>
   <hr>
   <div>
