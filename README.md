@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The big thing is to make a winning effort. I'm not obsessed with wins. - Morgan Wootten"
+    "The pen is the tongue of the mind.  - Miguel de Cervantes"
   </blockquote>
   <hr>
   <div>
