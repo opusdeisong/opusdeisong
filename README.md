@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The pen is the tongue of the mind.  - Miguel de Cervantes"
+    "By the practice of meditation, you will find that you are carrying within your heart a portable paradise. - Paramahansa Yogananda"
   </blockquote>
   <hr>
   <div>
