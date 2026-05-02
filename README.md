@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "By the practice of meditation, you will find that you are carrying within your heart a portable paradise. - Paramahansa Yogananda"
+    "Always forgive your enemies - nothing annoys them so much.  - Oscar Wilde"
   </blockquote>
   <hr>
   <div>
