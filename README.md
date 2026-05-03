@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Always forgive your enemies - nothing annoys them so much.  - Oscar Wilde"
+    "Longevity is a fleeting moment that lasts forever. - Vidal Sassoon"
   </blockquote>
   <hr>
   <div>
