@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Longevity is a fleeting moment that lasts forever. - Vidal Sassoon"
+    "Anyone who reads a book with a sense of obligation does not understand the art of reading. - Lin Yutang"
   </blockquote>
   <hr>
   <div>
