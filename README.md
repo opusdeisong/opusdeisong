@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Anyone who reads a book with a sense of obligation does not understand the art of reading. - Lin Yutang"
+    "Catch, then, O catch the transient hour; Improve each moment as it flies!  - St. Jerome"
   </blockquote>
   <hr>
   <div>
