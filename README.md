@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Catch, then, O catch the transient hour; Improve each moment as it flies!  - St. Jerome"
+    "To love means loving the unlovable. - Gilbert Chesterton"
   </blockquote>
   <hr>
   <div>
