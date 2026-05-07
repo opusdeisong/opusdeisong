@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To love means loving the unlovable. - Gilbert Chesterton"
+    "Failure is an option, fear is not. - James Cameron"
   </blockquote>
   <hr>
   <div>
