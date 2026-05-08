@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Failure is an option, fear is not. - James Cameron"
+    "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  - Jack London"
   </blockquote>
   <hr>
   <div>
