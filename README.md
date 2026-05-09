@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  - Jack London"
+    "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - Paulo Coelho"
   </blockquote>
   <hr>
   <div>
