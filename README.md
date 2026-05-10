@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - Paulo Coelho"
+    "Success is good at any age, but the sooner you find it, the longer you will enjoy it. - Napoleon Hill"
   </blockquote>
   <hr>
   <div>
