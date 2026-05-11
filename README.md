@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Success is good at any age, but the sooner you find it, the longer you will enjoy it. - Napoleon Hill"
+    "Being in a good frame of mind helps keep one in the picture of health. - Unknown"
   </blockquote>
   <hr>
   <div>
