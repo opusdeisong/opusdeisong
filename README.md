@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Being in a good frame of mind helps keep one in the picture of health. - Unknown"
+    ""
   </blockquote>
   <hr>
   <div>
