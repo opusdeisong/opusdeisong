@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nothing in the world is ever completely wrong. Even a stopped clock is right twice a day. - Paulo Coelho"
+    "He who cheats the earth will be cheated by the earth. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
