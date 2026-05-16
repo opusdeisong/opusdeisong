@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "He who cheats the earth will be cheated by the earth. - Chinese Proverb"
+    "Engage in those actions and thoughts that nurture the good qualities you want to have. - Paramahansa Yogananda"
   </blockquote>
   <hr>
   <div>
