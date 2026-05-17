@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Engage in those actions and thoughts that nurture the good qualities you want to have. - Paramahansa Yogananda"
+    "Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
