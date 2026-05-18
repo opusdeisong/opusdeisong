@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson"
+    "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. - Dan Millman"
   </blockquote>
   <hr>
   <div>
