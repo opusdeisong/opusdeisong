@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. - Dan Millman"
+    "Life is like underwear, should be changed twice a day.   - Ray Bradbury"
   </blockquote>
   <hr>
   <div>
