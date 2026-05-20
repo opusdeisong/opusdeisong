@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is like underwear, should be changed twice a day.   - Ray Bradbury"
+    "The greatest miracle is to be alive. - Thich Nhat Hanh"
   </blockquote>
   <hr>
   <div>
