@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Perhaps the most tragic thing about mankind is that we are all dreaming about some magical garden over the horizon, instead of enjoying the roses that are right outside today. - Andrew Carnegie"
+    "The only limits in our life are those we impose on ourselves. - Bob Proctor"
   </blockquote>
   <hr>
   <div>
