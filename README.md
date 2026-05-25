@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The only limits in our life are those we impose on ourselves. - Bob Proctor"
+    "The one who boasts does so only out of a feeling of inferiority. - Alfred Adler"
   </blockquote>
   <hr>
   <div>
