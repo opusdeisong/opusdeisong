@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The one who boasts does so only out of a feeling of inferiority. - Alfred Adler"
+    "Start each day with a positive thought and a grateful heart. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
