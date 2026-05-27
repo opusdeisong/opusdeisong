@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Start each day with a positive thought and a grateful heart. - Roy T. Bennett"
+    "You are the only problem you will ever have and you are the only solution. - Bob Proctor"
   </blockquote>
   <hr>
   <div>
