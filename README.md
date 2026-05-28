@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You are the only problem you will ever have and you are the only solution. - Bob Proctor"
+    "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. - Herbert Hoover"
   </blockquote>
   <hr>
   <div>
