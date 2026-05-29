@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Wisdom consists not so much in knowing what to do in the ultimate as knowing what to do next. - Herbert Hoover"
+    "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus. - Alexander Graham Bell"
   </blockquote>
   <hr>
   <div>
