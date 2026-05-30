@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Concentrate all your thoughts upon the work at hand. The sun's rays do not burn until brought to focus. - Alexander Graham Bell"
+    "Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. - Robert Kiyosaki"
   </blockquote>
   <hr>
   <div>
