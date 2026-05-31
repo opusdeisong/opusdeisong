@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Winners are not afraid of losing. But losers are. Failure is part of the process of success. People who avoid failure also avoid success. - Robert Kiyosaki"
+    "Success in any endeavor depends on the degree to which it is an expression of your true self. - Ralph Marston"
   </blockquote>
   <hr>
   <div>
