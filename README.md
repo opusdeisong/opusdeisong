@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Success in any endeavor depends on the degree to which it is an expression of your true self. - Ralph Marston"
+    "Success is often achieved by those who don't know that failure is inevitable. - Coco Chanel"
   </blockquote>
   <hr>
   <div>
