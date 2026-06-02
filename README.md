@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Success is often achieved by those who don't know that failure is inevitable. - Coco Chanel"
+    "Nature loves to hide. - Heraclitus"
   </blockquote>
   <hr>
   <div>
