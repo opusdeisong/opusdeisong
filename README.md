@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Nature loves to hide. - Heraclitus"
+    "The greatest test of courage on earth is to bear defeat without losing heart. - Robert Greene"
   </blockquote>
   <hr>
   <div>
