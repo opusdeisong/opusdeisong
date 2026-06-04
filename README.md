@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The greatest test of courage on earth is to bear defeat without losing heart. - Robert Greene"
+    "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
