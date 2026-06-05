@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward. - Roy T. Bennett"
+    "The more knowledge you have, the more you're free to rely on your instincts. - Arnold Schwarzenegger"
   </blockquote>
   <hr>
   <div>
