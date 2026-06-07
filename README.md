@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "No one can compete with you on being you. Most of life is a search for who and what needs you the most. - Naval Ravikant"
+    "I do not seek. I find. - Pablo Picasso"
   </blockquote>
   <hr>
   <div>
