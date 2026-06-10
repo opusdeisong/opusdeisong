@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The significance of life is living. - Jiddu Krishnamurti"
+    "It is during our darkest moments that we must focus to see the light. - Aristotle"
   </blockquote>
   <hr>
   <div>
