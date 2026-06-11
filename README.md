@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It is during our darkest moments that we must focus to see the light. - Aristotle"
+    "Every day passes whether you participate or not. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
