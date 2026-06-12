@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Every day passes whether you participate or not. - Ming-Dao Deng"
+    "The best way to predict your future is to create it. - Abraham Lincoln"
   </blockquote>
   <hr>
   <div>
