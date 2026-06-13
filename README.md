@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The best way to predict your future is to create it. - Abraham Lincoln"
+    "Life is simply what our feelings do to us. - Honore de Balzac"
   </blockquote>
   <hr>
   <div>
