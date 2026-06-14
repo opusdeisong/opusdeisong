@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is simply what our feelings do to us. - Honore de Balzac"
+    "You will face many defeats in life, but never let yourself be defeated. - Maya Angelou"
   </blockquote>
   <hr>
   <div>
