@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You will face many defeats in life, but never let yourself be defeated. - Maya Angelou"
+    "There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
