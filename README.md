@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect. - Ronald Reagan"
+    "All you need is passion. If you have a passion for something, you'll create the talent. - Yanni"
   </blockquote>
   <hr>
   <div>
