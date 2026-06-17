@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "All you need is passion. If you have a passion for something, you'll create the talent. - Yanni"
+    "Be brave to stand for what you believe in even if you stand alone. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
