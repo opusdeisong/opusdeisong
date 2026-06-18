@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be brave to stand for what you believe in even if you stand alone. - Roy T. Bennett"
+    ""
   </blockquote>
   <hr>
   <div>
