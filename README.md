@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    ""
+    "Darkness is the absence of light. - Kamal Ravikant"
   </blockquote>
   <hr>
   <div>
