@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Darkness is the absence of light. - Kamal Ravikant"
+    "Go and do the things you can't. That is how you get to do them. - Pablo Picasso"
   </blockquote>
   <hr>
   <div>
