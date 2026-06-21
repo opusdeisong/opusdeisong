@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Go and do the things you can't. That is how you get to do them. - Pablo Picasso"
+    "You can't build a reputation on what you are going to do. - Henry Ford"
   </blockquote>
   <hr>
   <div>
