@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    ""
+    "The only place where success comes before work is in the dictionary. - Vidal Sassoon"
   </blockquote>
   <hr>
   <div>
