@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh. - Pema Chodron"
+    "You miss 100% of the shots you don't take. - Wayne Gretzky"
   </blockquote>
   <hr>
   <div>
