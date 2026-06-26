@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You miss 100% of the shots you don't take. - Wayne Gretzky"
+    "The source of a true smile is an awakened mind. - Thich Nhat Hanh"
   </blockquote>
   <hr>
   <div>
