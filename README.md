@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The source of a true smile is an awakened mind. - Thich Nhat Hanh"
+    "Don't be afraid to give up the good to go for the great. - John D. Rockefeller"
   </blockquote>
   <hr>
   <div>
