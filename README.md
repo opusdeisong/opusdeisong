@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Don't be afraid to give up the good to go for the great. - John D. Rockefeller"
+    "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. - Barack Obama"
   </blockquote>
   <hr>
   <div>
