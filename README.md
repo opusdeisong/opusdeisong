@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. - Barack Obama"
+    "When you have a dream, you've got to grab it and never let go. - Carol Burnett"
   </blockquote>
   <hr>
   <div>
