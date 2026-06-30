@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "When you have a dream, you've got to grab it and never let go. - Carol Burnett"
+    "Respect is earned by effort not age, all things age without effort. - C. Sean McGee"
   </blockquote>
   <hr>
   <div>
