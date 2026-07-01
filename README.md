@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Respect is earned by effort not age, all things age without effort. - C. Sean McGee"
+    "Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. - Sathya Sai Baba"
   </blockquote>
   <hr>
   <div>
