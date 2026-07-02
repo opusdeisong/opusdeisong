@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. - Sathya Sai Baba"
+    "You can, you should, and if you're brave enough to start, you will. - Stephen King"
   </blockquote>
   <hr>
   <div>
