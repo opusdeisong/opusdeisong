@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You can, you should, and if you're brave enough to start, you will. - Stephen King"
+    "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. - Billie Jean King"
   </blockquote>
   <hr>
   <div>
