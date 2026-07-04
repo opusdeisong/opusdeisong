@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great. - Billie Jean King"
+    "Show me a hero, and I'll write you a tragedy. - F. Scott Fitzgerald"
   </blockquote>
   <hr>
   <div>
