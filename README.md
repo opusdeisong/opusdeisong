@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Show me a hero, and I'll write you a tragedy. - F. Scott Fitzgerald"
+    "He who fails to plan, plans to fail. - Unknown"
   </blockquote>
   <hr>
   <div>
