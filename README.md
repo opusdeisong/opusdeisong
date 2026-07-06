@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "He who fails to plan, plans to fail. - Unknown"
+    "Discipline yourself, and others won't need to. - John Wooden"
   </blockquote>
   <hr>
   <div>
