@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Discipline yourself, and others won't need to. - John Wooden"
+    "No matter how great the talent or efforts, some things just take time. - Warren Buffett"
   </blockquote>
   <hr>
   <div>
