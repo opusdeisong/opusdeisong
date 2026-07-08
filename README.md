@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "No matter how great the talent or efforts, some things just take time. - Warren Buffett"
+    "The goal of an artist is to create the definitive work that cannot be surpassed. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
