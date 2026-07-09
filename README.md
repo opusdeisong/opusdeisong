@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The goal of an artist is to create the definitive work that cannot be surpassed. - George Bernard Shaw"
+    "Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden"
   </blockquote>
   <hr>
   <div>
