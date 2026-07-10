@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden"
+    "A hut full of laughter is richer than a palace full of sadness. - Zen Proverb"
   </blockquote>
   <hr>
   <div>
