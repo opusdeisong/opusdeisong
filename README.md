@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A hut full of laughter is richer than a palace full of sadness. - Zen Proverb"
+    "Life is about not knowing and then doing something anyway. - Mark Manson"
   </blockquote>
   <hr>
   <div>
