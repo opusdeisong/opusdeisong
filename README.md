@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is about not knowing and then doing something anyway. - Mark Manson"
+    "Take responsibility of your own happiness, never put it in other people's hands. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
