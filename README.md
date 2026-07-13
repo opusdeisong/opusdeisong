@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Take responsibility of your own happiness, never put it in other people's hands. - Roy T. Bennett"
+    "Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang von Goethe"
   </blockquote>
   <hr>
   <div>
