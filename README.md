@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Magic is believing in yourself, if you can do that, you can make anything happen. - Johann Wolfgang von Goethe"
+    "To become what you are not, behave as you do not. - T.S. Eliot"
   </blockquote>
   <hr>
   <div>
