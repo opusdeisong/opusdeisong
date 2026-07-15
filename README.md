@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To become what you are not, behave as you do not. - T.S. Eliot"
+    "He who laughs at himself never runs out of things to laugh at. - Epictetus"
   </blockquote>
   <hr>
   <div>
