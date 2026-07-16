@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "He who laughs at himself never runs out of things to laugh at. - Epictetus"
+    "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - Tony Robbins"
   </blockquote>
   <hr>
   <div>
