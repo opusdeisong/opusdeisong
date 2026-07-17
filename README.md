@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Leaders spend 5% of their time on the problem & 95% of their time on the solution. Get over it & crush it! - Tony Robbins"
+    "No great discovery was ever made without a bold guess. - Isaac Newton"
   </blockquote>
   <hr>
   <div>
