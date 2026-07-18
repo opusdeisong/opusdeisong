@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "No great discovery was ever made without a bold guess. - Isaac Newton"
+    "We suffer more often in imagination than in reality. - Seneca"
   </blockquote>
   <hr>
   <div>
