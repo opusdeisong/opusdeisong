@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We suffer more often in imagination than in reality. - Seneca"
+    "A person hears only what they understand. - Johann Wolfgang von Goethe"
   </blockquote>
   <hr>
   <div>
