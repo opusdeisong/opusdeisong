@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A person hears only what they understand. - Johann Wolfgang von Goethe"
+    "To lose your temper is only useful once a year. - Colin R. Davis"
   </blockquote>
   <hr>
   <div>
