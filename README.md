@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "To lose your temper is only useful once a year. - Colin R. Davis"
+    "The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. - Ming-Dao Deng"
   </blockquote>
   <hr>
   <div>
