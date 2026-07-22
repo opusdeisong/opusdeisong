@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. - Ming-Dao Deng"
+    "Judge your success by what you had to give up in order to get it. - Dalai Lama"
   </blockquote>
   <hr>
   <div>
