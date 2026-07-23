@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Judge your success by what you had to give up in order to get it. - Dalai Lama"
+    "We don't stop going to school when we graduate. - Carol Burnett"
   </blockquote>
   <hr>
   <div>
