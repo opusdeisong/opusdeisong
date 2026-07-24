@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We don't stop going to school when we graduate. - Carol Burnett"
+    "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. - Wayne Gretzky"
   </blockquote>
   <hr>
   <div>
