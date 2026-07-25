@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Procrastination is one of the most common and deadliest of diseases and its toll on success and happiness is heavy. - Wayne Gretzky"
+    "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. - Dan Millman"
   </blockquote>
   <hr>
   <div>
