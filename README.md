@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment. - Dan Millman"
+    "Chop your own wood and it will warm you twice. - Henry Ford"
   </blockquote>
   <hr>
   <div>
