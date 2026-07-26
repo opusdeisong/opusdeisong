@@ -28,6 +28,10 @@
 ## 🏆 Awards
 
 <table>
+<tr>
+   <td align="center">🥇</td>
+   <td><strong>1st Place</strong> - Busan Metropolitan Corporation in 2026 DIVE competition</td>
+ </tr>
  <tr>
    <td align="center">🥉</td>
    <td><strong>3rd Place (Encouragement Award)</strong> - Korea Meteorological Administration Weather Data Contest</td>
