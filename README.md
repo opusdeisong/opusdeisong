@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Chop your own wood and it will warm you twice. - Henry Ford"
+    "I've always lived in the moment. - Yanni"
   </blockquote>
   <hr>
   <div>
