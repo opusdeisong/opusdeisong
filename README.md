@@ -30,7 +30,7 @@
 <table>
   <tr>
     <td align="center">🥈</td>
-    <td><strong>2nd Place (Silver Prize)</strong> - Busan Metropolitan City in App and Service Development category (2026 DIVE)</td>
+    <td><strong>2nd Place (Busan Mayor's Award)</strong> - Busan Metropolitan City in App and Service Development category (2026 DIVE)</td>
   </tr>
   <tr>
    <td align="center">🥇</td>
