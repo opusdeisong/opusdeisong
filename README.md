@@ -28,7 +28,11 @@
 ## 🏆 Awards
 
 <table>
-<tr>
+  <tr>
+    <td align="center">🥈</td>
+    <td><strong>2nd Place (Silver Prize)</strong> - Busan Metropolitan City in App and Service Development category (2026 DIVE)</td>
+  </tr>
+  <tr>
    <td align="center">🥇</td>
    <td><strong>1st Place</strong> - Busan Metropolitan Corporation in 2026 DIVE competition</td>
  </tr>
