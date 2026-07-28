@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "I've always lived in the moment. - Yanni"
+    "Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa"
   </blockquote>
   <hr>
   <div>
