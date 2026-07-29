@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Be happy in the moment, that's enough. Each moment is all we need, not more. - Mother Teresa"
+    "If a man knows not to which port he sails, no wind is favorable. - Seneca"
   </blockquote>
   <hr>
   <div>
