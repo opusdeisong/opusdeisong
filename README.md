@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If a man knows not to which port he sails, no wind is favorable. - Seneca"
+    "Life is like a beautiful melody, only the lyrics are messed up. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
