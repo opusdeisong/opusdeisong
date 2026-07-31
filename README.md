@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Life is like a beautiful melody, only the lyrics are messed up. - Hans Christian Andersen"
+    "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
