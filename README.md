@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new. - Brian Tracy"
+    "Successful people do what unsuccessful people are not willing to do. - Jim Rohn"
   </blockquote>
   <hr>
   <div>
