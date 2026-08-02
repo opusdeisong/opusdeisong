@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Successful people do what unsuccessful people are not willing to do. - Jim Rohn"
+    "If you can't argue both sides, you can't argue. - Jack Butcher"
   </blockquote>
   <hr>
   <div>
