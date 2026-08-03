@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you can't argue both sides, you can't argue. - Jack Butcher"
+    "As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. - Kabir"
   </blockquote>
   <hr>
   <div>
