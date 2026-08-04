@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "As long as a human being worries about when he will die, and what he has that is his, all of his works are zero. - Kabir"
+    "The real measure of your wealth is how much you'd be worth if you lost all your money. - Unknown"
   </blockquote>
   <hr>
   <div>
