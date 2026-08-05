@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The real measure of your wealth is how much you'd be worth if you lost all your money. - Unknown"
+    "The only thing more frustrating than slanderers is those foolish enough to listen to them. - Criss Jami"
   </blockquote>
   <hr>
   <div>
