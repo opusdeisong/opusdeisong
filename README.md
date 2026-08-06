@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The only thing more frustrating than slanderers is those foolish enough to listen to them. - Criss Jami"
+    "Everybody has talent, but ability takes hard work. - Michael Jordan"
   </blockquote>
   <hr>
   <div>
