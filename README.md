@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Everybody has talent, but ability takes hard work. - Michael Jordan"
+    "The ability to observe without evaluating is the highest form of intelligence. - Jiddu Krishnamurti"
   </blockquote>
   <hr>
   <div>
