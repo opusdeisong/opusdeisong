@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The ability to observe without evaluating is the highest form of intelligence. - Jiddu Krishnamurti"
+    "Sometimes it is harder to deprive oneself of a pain than of a pleasure. - F. Scott Fitzgerald"
   </blockquote>
   <hr>
   <div>
