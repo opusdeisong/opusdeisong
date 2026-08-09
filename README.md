@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Sometimes it is harder to deprive oneself of a pain than of a pleasure. - F. Scott Fitzgerald"
+    "Learning is a weightless treasure you can always carry easily. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
