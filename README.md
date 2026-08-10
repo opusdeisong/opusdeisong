@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Learning is a weightless treasure you can always carry easily. - Chinese Proverb"
+    "The key to success is action. - Brian Tracy"
   </blockquote>
   <hr>
   <div>
