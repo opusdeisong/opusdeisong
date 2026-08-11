@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "The key to success is action. - Brian Tracy"
+    "A man that flies from his fear may find that he has only taken a short cut to meet it. - J.R.R. Tolkien"
   </blockquote>
   <hr>
   <div>
