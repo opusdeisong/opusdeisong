@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "A man that flies from his fear may find that he has only taken a short cut to meet it. - J.R.R. Tolkien"
+    "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. - Arnold Schwarzenegger"
   </blockquote>
   <hr>
   <div>
