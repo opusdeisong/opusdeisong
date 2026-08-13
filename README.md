@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win. - Arnold Schwarzenegger"
+    "Have the fearless attitude of a hero and the loving heart of a child. - Soyen Shaku"
   </blockquote>
   <hr>
   <div>
