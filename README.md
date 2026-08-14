@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Have the fearless attitude of a hero and the loving heart of a child. - Soyen Shaku"
+    "We all give up great expectations along the way. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
