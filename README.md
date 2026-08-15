@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "We all give up great expectations along the way. - Carlos Ruiz Zafon"
+    "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - Dalai Lama"
   </blockquote>
   <hr>
   <div>
