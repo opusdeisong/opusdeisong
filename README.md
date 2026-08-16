@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - Dalai Lama"
+    "Choose to be optimistic, it feels better. - Dalai Lama"
   </blockquote>
   <hr>
   <div>
