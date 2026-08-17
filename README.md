@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Choose to be optimistic, it feels better. - Dalai Lama"
+    "Remain calm. Be kind. - Colin Powell"
   </blockquote>
   <hr>
   <div>
