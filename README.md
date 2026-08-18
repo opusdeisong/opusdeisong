@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Remain calm. Be kind. - Colin Powell"
+    "Happiness is not a goal...it's a by-product of a life well lived. - Eleanor Roosevelt"
   </blockquote>
   <hr>
   <div>
