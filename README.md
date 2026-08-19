@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Happiness is not a goal...it's a by-product of a life well lived. - Eleanor Roosevelt"
+    "Do not try to be on the side of the majority, but live according to your inner laws. - Marcus Aurelius"
   </blockquote>
   <hr>
   <div>
