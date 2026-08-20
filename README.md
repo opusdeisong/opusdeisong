@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "Do not try to be on the side of the majority, but live according to your inner laws. - Marcus Aurelius"
+    "You don't have to be great to start, but you have to start to be great. - Zig Ziglar"
   </blockquote>
   <hr>
   <div>
