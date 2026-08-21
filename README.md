@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "You don't have to be great to start, but you have to start to be great. - Zig Ziglar"
+    "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. - Robert Kiyosaki"
   </blockquote>
   <hr>
   <div>
