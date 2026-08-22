@@ -6,7 +6,7 @@
 🎓 B.S. in Information System at Hanyang University <hr>
 
   <blockquote>
-    "If you realize that you're the problem, then you can change yourself, learn something and grow wiser. Don't blame other people for your problems. - Robert Kiyosaki"
+    "If you don't program yourself, life will program you. - Les Brown"
   </blockquote>
   <hr>
   <div>
