@@ -126,7 +126,7 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
 </details>
 
 <details open>
-  <summary><strong><a href="https://arxiv.org/abs/2507.05890">Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</a></strong></summary>
+  <summary><strong><a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.733/137430/Psychometric-Item-Validation-Using-Virtual">Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</a></strong></summary>
   <p>
     <em>[TACL] Transactions of the Association for Computational Linguistics, 2026</em><br>
     Sungjib Lim, <strong>Woojung Song</strong>, Eun-Ju Lee, Yohan Jo
