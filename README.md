@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene"
+    "There is no limit to the amount of good you can do if you don't care who gets the credit. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
