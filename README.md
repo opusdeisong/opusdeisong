@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "There is no limit to the amount of good you can do if you don't care who gets the credit. - Ronald Reagan"
+    "Time doesn't heal emotional pain, you need to learn how to let go. - Roy T. Bennett"
   </blockquote>
   <hr>
   <div>
