@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Accept responsibility for your life. Know that it is you who will get you where you want to go, no one else. - Les Brown"
+    "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. - Albus Dumbledore"
   </blockquote>
   <hr>
   <div>
