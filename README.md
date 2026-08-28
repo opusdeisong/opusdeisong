@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. - Albus Dumbledore"
+    "Unlike the stomach, the brain doesn't alert you when it's empty. - Arabic Proverb"
   </blockquote>
   <hr>
   <div>
