@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Unlike the stomach, the brain doesn't alert you when it's empty. - Arabic Proverb"
+    "A wise man can learn more from a foolish question than a fool can learn from a wise answer. - Bruce Lee"
   </blockquote>
   <hr>
   <div>
