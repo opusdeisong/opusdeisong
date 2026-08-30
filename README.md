@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "A wise man can learn more from a foolish question than a fool can learn from a wise answer. - Bruce Lee"
+    "Those who are enlightened never stop forging themselves. - Morihei Ueshiba"
   </blockquote>
   <hr>
   <div>
