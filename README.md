@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Those who are enlightened never stop forging themselves. - Morihei Ueshiba"
+    "Be not afraid of growing slowly, be afraid only of standing still. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
