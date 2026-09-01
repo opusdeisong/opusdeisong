@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Be not afraid of growing slowly, be afraid only of standing still. - Chinese Proverb"
+    "Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. - Richard Bach"
   </blockquote>
   <hr>
   <div>
