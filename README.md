@@ -100,20 +100,22 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
 </details>
 
 <details open>
-  <summary><strong><a href="https://arxiv.org/abs/2510.07248">Don't Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models</a></strong></summary>
-  <p>
-    <em>[ACL] Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Main), 2026</em><br>
-    Jonggeun Lee*, <strong>Woojung Song*</strong>, Jongwook Han, Haesung Pyun, Yohan Jo<br>
-    <em>*Co-first authors</em>
-  </p>
-</details>
-
-<details open>
   <summary><strong><a href="https://arxiv.org/abs/2509.10078">Human Psychometric Questionnaires Mischaracterize LLM Behavior</a></strong></summary>
   <p>
     <em>[EMNLP] Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (Main), 2026</em><br>
     <strong>Woojung Song*</strong>, Dongmin Choi*, Yoonah Park, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
-    <em>*Co-first authors</em>
+    <em>*Co-first authors</em><br>
+    <a href="https://github.com/holi-lab/Human-Psychometric-Questionnaires-Mischaracterize-LLM-Behavior">Code</a>
+  </p>
+</details>
+
+<details open>
+  <summary><strong><a href="https://arxiv.org/abs/2510.07248">Don't Adapt Small Language Models for Tools; Adapt Tool Schemas to the Models</a></strong></summary>
+  <p>
+    <em>[ACL] Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Main), 2026</em><br>
+    Jonggeun Lee*, <strong>Woojung Song*</strong>, Jongwook Han, Haesung Pyun, Yohan Jo<br>
+    <em>*Co-first authors</em><br>
+    <a href="https://github.com/holi-lab/PA-Tool">Code</a>
   </p>
 </details>
 
@@ -122,6 +124,7 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
   <p>
     <em>[ICLR] The Fourteenth International Conference on Learning Representations, 2026</em><br>
     Jeonghoon Shim, <strong>Woojung Song</strong>, Cheyon Jin, Seungwon Kook, Yohan Jo<br>
+    <a href="https://github.com/holi-lab/NCUser">Code</a>
   </p>
 </details>
 
@@ -129,7 +132,8 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
   <summary><strong><a href="https://direct.mit.edu/tacl/article/doi/10.1162/TACL.a.733/137430/Psychometric-Item-Validation-Using-Virtual">Psychometric Item Validation Using Virtual Respondents with Trait-Response Mediators</a></strong></summary>
   <p>
     <em>[TACL] Transactions of the Association for Computational Linguistics, 2026</em><br>
-    Sungjib Lim, <strong>Woojung Song</strong>, Eun-Ju Lee, Yohan Jo
+    Sungjib Lim, <strong>Woojung Song</strong>, Eun-Ju Lee, Yohan Jo<br>
+    <a href="https://github.com/holi-lab/Psychometric-Item-Validation">Code</a>
   </p>
 </details>
 
@@ -138,7 +142,8 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
   <p>
     <em>[EACL Findings] Findings of the Association for Computational Linguistics: EACL, 2026</em><br>
     Jongwook Han*, <strong>Woojung Song*</strong>, Jonggeun Lee*, Yohan Jo<br>
-    <em>*Co-first authors</em>
+    <em>*Co-first authors</em><br>
+    <a href="https://github.com/holi-lab/psychometric-contamination">Code</a>
   </p>
 </details>
 
@@ -147,7 +152,8 @@ I'm interested in **AI agents** and **value alignment**. As LLMs become more cap
   <p>
     <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Main), 2025</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo<br>
-    <em>*Co-first authors</em>
+    <em>*Co-first authors</em><br>
+    <a href="https://github.com/holi-lab/ValuePortrait">Code</a>
   </p>
 </details>
 
