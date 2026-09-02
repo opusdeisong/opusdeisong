@@ -117,7 +117,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
     <em>[ACL] Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Main), 2026</em><br>
     Jonggeun Lee*, <strong>Woojung Song*</strong>, Jongwook Han, Haesung Pyun, Yohan Jo<br>
     <em>*Co-first authors</em><br>
-    <a href="https://github.com/holi-lab/PA-Tool">Code</a>
+    <a href="https://holi-lab.github.io/PA-Tool/">Project</a> · <a href="https://github.com/holi-lab/PA-Tool">Code</a>
   </p>
 </details>
 
@@ -135,7 +135,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
   <p>
     <em>[TACL] Transactions of the Association for Computational Linguistics, 2026</em><br>
     Sungjib Lim, <strong>Woojung Song</strong>, Eun-Ju Lee, Yohan Jo<br>
-    <a href="https://github.com/holi-lab/Psychometric-Item-Validation">Code</a>
+    <a href="https://holi-lab.github.io/Psychometric-Item-Validation/">Project</a> · <a href="https://github.com/holi-lab/Psychometric-Item-Validation">Code</a>
   </p>
 </details>
 
@@ -155,7 +155,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
     <em>[ACL] Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Main), 2025</em><br>
     Jongwook Han*, Dongmin Choi*, <strong>Woojung Song*</strong>, Eun-Ju Lee, Yohan Jo<br>
     <em>*Co-first authors</em><br>
-    <a href="https://github.com/holi-lab/ValuePortrait">Code</a>
+    <a href="https://holi-lab.github.io/ValuePortrait/">Project</a> · <a href="https://github.com/holi-lab/ValuePortrait">Code</a>
   </p>
 </details>
 
