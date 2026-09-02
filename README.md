@@ -34,12 +34,12 @@
 
 ## 🔬 Research Interests
 
-I'm interested in **AI agents** and **value alignment**. As LLMs become more capable, they are increasingly embedded in everyday life through tool use and direct interaction with people.
+I believe agents can already solve many of the problems we face in the real world. Still, people want better agents, and we don't get there just by making models code or complete tasks more accurately. My research covers two sides: **Agents** and **Value Alignment**.
 
-- **Agents.** Understanding not just whether agents succeed or fail, but in what environments they succeed, where they break down, and how they behave along the way.
-- **Value Alignment.** Building better evaluation frameworks to measure what values models actually hold and how they manifest in context — with growing interest in social agents and simulation.
+- **Agents.** Looking beyond whether an agent succeeds or fails: in which environments agents work well, where they break down, and how they behave along the way.
+- **Value Alignment.** Uncovering the values LLMs actually hold and how those values show up in real interactions, aiming for human-like LLMs with a growing interest in social agents and simulation.
 
-I'm always open to collaboration — if any of this resonates, feel free to reach out!
+I'm currently looking for a summer internship and always open to collaboration. Feel free to reach out!
 
 ## 🎓 Scholarships
 
