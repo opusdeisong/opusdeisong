@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Remember where you came from, where you're going, and why you created this mess you got yourself into in the first place. - Richard Bach"
+    "I can think of nothing less pleasurable than a life devoted to pleasure. - John D. Rockefeller"
   </blockquote>
   <hr>
   <div>
