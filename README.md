@@ -36,8 +36,10 @@
 
 I'm interested in **AI agents** and **value alignment**. As LLMs become more capable, they are increasingly embedded in everyday life through tool use and direct interaction with people.
 
-- **Tool-Use Agents.** Enabling language models to use tools effectively so they can explore broader environments and help users solve real-world tasks across diverse scenarios.
-- **Value Alignment.** Building better evaluation frameworks to measure what values models actually hold and how they manifest in context.
+- **Agents.** Understanding not just whether agents succeed or fail, but in what environments they succeed, where they break down, and how they behave along the way.
+- **Value Alignment.** Building better evaluation frameworks to measure what values models actually hold and how they manifest in context — with growing interest in social agents and simulation.
+
+I'm always open to collaboration — if any of this resonates, feel free to reach out!
 
 ## 🎓 Scholarships
 
