@@ -107,7 +107,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
     <em>[EMNLP] Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (Main), 2026</em><br>
     <strong>Woojung Song*</strong>, Dongmin Choi*, Yoonah Park, Jongwook Han, Eun-Ju Lee, Yohan Jo<br>
     <em>*Co-first authors</em><br>
-    <a href="https://github.com/holi-lab/Human-Psychometric-Questionnaires-Mischaracterize-LLM-Behavior">Code</a>
+    <a href="https://holi-lab.github.io/Human-Psychometric-Questionnaires-Mischaracterize-LLM-Behavior/">Project</a> · <a href="https://github.com/holi-lab/Human-Psychometric-Questionnaires-Mischaracterize-LLM-Behavior">Code</a>
   </p>
 </details>
 
