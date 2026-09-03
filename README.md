@@ -126,7 +126,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
   <p>
     <em>[ICLR] The Fourteenth International Conference on Learning Representations, 2026</em><br>
     Jeonghoon Shim, <strong>Woojung Song</strong>, Cheyon Jin, Seungwon Kook, Yohan Jo<br>
-    <a href="https://github.com/holi-lab/NCUser">Code</a>
+    <a href="https://holi-lab.github.io/NCUser/">Project</a> · <a href="https://github.com/holi-lab/NCUser">Code</a>
   </p>
 </details>
 
@@ -145,7 +145,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
     <em>[EACL Findings] Findings of the Association for Computational Linguistics: EACL, 2026</em><br>
     Jongwook Han*, <strong>Woojung Song*</strong>, Jonggeun Lee*, Yohan Jo<br>
     <em>*Co-first authors</em><br>
-    <a href="https://github.com/holi-lab/psychometric-contamination">Code</a>
+    <a href="https://holi-lab.github.io/psychometric-contamination/">Project</a> · <a href="https://github.com/holi-lab/psychometric-contamination">Code</a>
   </p>
 </details>
 
