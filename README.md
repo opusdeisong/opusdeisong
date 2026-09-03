@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "I can think of nothing less pleasurable than a life devoted to pleasure. - John D. Rockefeller"
+    "It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - Gary Keller"
   </blockquote>
   <hr>
   <div>
