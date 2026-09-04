@@ -97,7 +97,8 @@ I'm currently looking for a summer internship and always open to collaboration. 
   <p>
     <em>[EMNLP] Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (Main), 2026</em><br>
     <strong>Woojung Song*</strong>, Nalim Kim*, Sangjun Song, Chaewon Heo, Jongwon Lim, Yohan Jo<br>
-    <em>*Co-first authors</em>
+    <em>*Co-first authors</em><br>
+    <a href="https://github.com/holi-lab/ArcANE">Code</a>
   </p>
 </details>
 
@@ -168,23 +169,6 @@ I'm currently looking for a summer internship and always open to collaboration. 
   </p>
 </details>
 
-### Domestic Publications
-
-<details open>
-  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12131510">B. F. Sword: Blank Inference System with Optimized RAG and Knowledge Distillation</a></strong></summary>
-  <p>
-    <em>PROCEEDINGS OF HCI KOREA 2025</em><br>
-    Junseong Pyo, Hyejin Bae, Kitae Kwon, Jina Kim, <strong>Woojung Song</strong>, Yeonseong Shin
-  </p>
-</details>
-
-<details open>
-  <summary><strong><a href="https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE12318872">Enhancing the Security of AI Models through Parameter Encryption</a></strong></summary>
-  <p>
-    <em>Korea Computer Congress (KCC) 2025</em><br>
-    Dongwook Kim, <strong>Woojung Song</strong>
-  </p>
-</details>
 
 ## 🔍 Patents
 
