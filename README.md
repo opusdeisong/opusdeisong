@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - Gary Keller"
+    "No matter what happens in life, never lose sight of who you are. - Yanni"
   </blockquote>
   <hr>
   <div>
