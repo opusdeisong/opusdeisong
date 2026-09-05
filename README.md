@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "No matter what happens in life, never lose sight of who you are. - Yanni"
+    "From the errors of others, a wise man corrects his own. - Publilius Syrus"
   </blockquote>
   <hr>
   <div>
