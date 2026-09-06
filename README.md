@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "From the errors of others, a wise man corrects his own. - Publilius Syrus"
+    "Care about what other people think and you will always be their prisoner. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
