@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Care about what other people think and you will always be their prisoner. - Lao Tzu"
+    "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. - Martin Luther"
   </blockquote>
   <hr>
   <div>
