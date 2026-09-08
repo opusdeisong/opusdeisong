@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree. - Martin Luther"
+    "When something is important enough, you do it even if the odds are not in your favor. - Elon Musk"
   </blockquote>
   <hr>
   <div>
