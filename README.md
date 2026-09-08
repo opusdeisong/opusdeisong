@@ -98,7 +98,7 @@ I'm currently looking for a summer internship and always open to collaboration. 
     <em>[EMNLP] Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (Main), 2026</em><br>
     <strong>Woojung Song*</strong>, Nalim Kim*, Sangjun Song, Chaewon Heo, Jongwon Lim, Yohan Jo<br>
     <em>*Co-first authors</em><br>
-    <a href="https://github.com/holi-lab/ArcANE">Code</a>
+    <a href="https://holi-lab.github.io/ArcANE/">Project</a> · <a href="https://github.com/holi-lab/ArcANE">Code</a>
   </p>
 </details>
 
