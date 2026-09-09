@@ -7,7 +7,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "When something is important enough, you do it even if the odds are not in your favor. - Elon Musk"
+    "So long as we are being remembered, we remain alive. - Carlos Ruiz Zafon"
   </blockquote>
   <hr>
   <div>
