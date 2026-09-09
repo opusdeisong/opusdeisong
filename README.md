@@ -90,6 +90,17 @@ I'm currently looking for a summer internship and always open to collaboration. 
 
 ## 📄 Publications
 
+### Preprints
+
+<details open>
+  <summary><strong><a href="https://arxiv.org/abs/2609.05587">Agents Trust Tools Too Much: Measuring Reliance on Unreliable Tools</a></strong></summary>
+  <p>
+    <em>Under review, 2026</em><br>
+    Hoyeol Yang*, <strong>Woojung Song*</strong>, Taewon Kim, Jonghyun Song, Seoyeon Park, Yohan Jo<br>
+    <em>*Co-first authors</em>
+  </p>
+</details>
+
 ### Conferences & Journals
 
 <details open>
