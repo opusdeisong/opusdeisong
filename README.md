@@ -181,17 +181,6 @@ I'm currently looking for a summer internship and always open to collaboration. 
 </details>
 
 
-## 🔍 Patents
-
-<div>
-  <h3>English Problem Creation System Using Multi-Agents</h3>
-  <p>
-    <em>App. No: 10-2024-0109541 (Filed: August 16, 2024)</em><br>
-    <a href="https://drive.google.com/file/d/1w7xtQ66pYHyL0JH7QnKij2dlh1I9ydmo/view" target="_blank">
-      <img src="https://img.shields.io/badge/View_Patent-4285F4?style=flat-square&logo=googledrive&logoColor=white" alt="View Patent">
-    </a>
-  </p>
-</div>
 
 ## 💼 Work Experience
 
