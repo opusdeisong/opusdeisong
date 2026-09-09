@@ -4,6 +4,7 @@
   
 *🎓 Integrated M.S.-Ph.D. in Data Science at Seoul National University (September 2025 ~ )* <br>
 🎓 B.I.S. in Information Systems at Hanyang University (GPA: 4.35 / 4.50) <br>
+🧑‍🏫 Advised by <a href="https://yohanjo.github.io/">Yohan Jo</a> · HOLI Lab (Human-Oriented Language Intelligence) <br>
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
@@ -34,7 +35,7 @@
 
 ## 🔬 Research Interests
 
-I believe agents can already solve many of the problems we face in the real world. Still, people want better agents, and we don't get there just by making models code or complete tasks more accurately. My research covers two sides: **Agents** and **Value Alignment**.
+I believe agents can already solve many of the problems we face in the real world. Still, people want better agents, and I don't think we get there just by making models code or complete tasks more accurately. We get there by understanding how agents actually behave, and what values they carry while doing so. My research covers these two sides: **Agents** and **Value Alignment**.
 
 - **Agents.** Looking beyond whether an agent succeeds or fails: in which environments agents work well, where they break down, and how they behave along the way.
 - **Value Alignment.** Uncovering the values LLMs actually hold and how those values show up in real interactions, aiming for human-like LLMs with a growing interest in social agents and simulation.
@@ -55,37 +56,20 @@ I'm currently looking for a summer internship and always open to collaboration. 
 
 <table>
   <tr>
-    <td align="center">🥈</td>
-    <td><strong>2nd Place (Busan Mayor's Award)</strong> - 2026 DIVE Competition</td>
+    <td align="center">🏅</td>
+    <td><strong>Busan Mayor's Award</strong> (2026)<br>
+    DIVE Competition · 2nd Place · also 1st Place from Busan Metropolitan Corporation</td>
   </tr>
   <tr>
-   <td align="center">🥇</td>
-   <td><strong>1st Place (Busan Metropolitan Corporation)</strong> - 2026 DIVE Competition</td>
- </tr>
- <tr>
-   <td align="center">🥉</td>
-   <td><strong>3rd Place (Encouragement Award)</strong> - Korea Meteorological Administration Weather Data Contest</td>
- </tr>
- <tr>
-   <td align="center">🥉</td>
-   <td><strong>3rd Place (Chuncheon Mayor's Award)</strong> - Chuncheon Generative AI Competition</td>
- </tr>
- <tr>
-   <td align="center">🥇</td>
-   <td><strong>1st Place (Korea Railroad Corporation Busan-Gyeongnam HQ)</strong> - 2024 DIVE Competition</td>
- </tr>
- <tr>
-   <td align="center">🥉</td>
-   <td><strong>3rd Place (Busan Mayor's Award)</strong> - App and Service Development category, 2024 DIVE Competition</td>
- </tr>
- <tr>
-   <td align="center">🥈</td>
-   <td><strong>2nd Place</strong> - Software Engineering Competition with LG X HYU</td>
- </tr>
- <tr>
-   <td align="center">🥇</td>
-   <td><strong>1st Place</strong> - Namuthon (2023 GDSC X Alpaco Hackathon)</td>
- </tr>
+    <td align="center">🏅</td>
+    <td><strong>Chuncheon Mayor's Award</strong> (2025)<br>
+    Chuncheon Generative AI Competition · 3rd Place</td>
+  </tr>
+  <tr>
+    <td align="center">🏅</td>
+    <td><strong>Busan Mayor's Award</strong> (2024)<br>
+    DIVE Competition, App and Service Development · 3rd Place · also 1st Place from Korea Railroad Corporation Busan-Gyeongnam HQ</td>
+  </tr>
 </table>
 
 ## 📄 Publications
@@ -193,17 +177,6 @@ I'm currently looking for a summer internship and always open to collaboration. 
 </div>
 
 <div>
-  <h3>🤝 CNC Study (DataLingo Team PM)</h3>
-  <p>
-    Providing English questions and analysis for middle school students<br>
-    <a href="https://www.cncscore.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Working_Page-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Working Page">
-    </a><br>
-    <em>(2022.07 ~ 2025.08)</em>
-  </p>
-</div>
-
-<div>
   <h3>👨‍💻 LG Electronics AI Research Intern</h3>
   <p>
     H&A Sound/Image Intelligence R&D Lab<br>
@@ -215,8 +188,8 @@ I'm currently looking for a summer internship and always open to collaboration. 
 
 <div>
   <p>
-    <strong>KATUSA (SGT)</strong> at 3 BSB, 1 ABCT, 3ID<br>
-    Camp Humphrey, South Korea <em>(2020-2021)</em>
+    <strong>Republic of Korea Army &ndash; Sergeant (KATUSA)</strong><br>
+    Mandatory military service · 3 BSB, 1 ABCT, 3ID, Camp Humphreys, South Korea <em>(2020 &ndash; 2021)</em>
   </p>
 </div>
 
