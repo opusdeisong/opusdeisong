@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "So long as we are being remembered, we remain alive. - Carlos Ruiz Zafon"
+    "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr."
   </blockquote>
   <hr>
   <div>
