@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr."
+    "People become attached to their burdens sometimes more than the burdens are attached to them. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
