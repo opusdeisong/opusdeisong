@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "People become attached to their burdens sometimes more than the burdens are attached to them. - George Bernard Shaw"
+    "No great discovery was ever made without a bold guess. - Isaac Newton"
   </blockquote>
   <hr>
   <div>
