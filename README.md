@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "No great discovery was ever made without a bold guess. - Isaac Newton"
+    "Have the courage to be ignorant of a great number of things, in order to avoid the calamity of being ignorant of everything. - Sydney Smith"
   </blockquote>
   <hr>
   <div>
