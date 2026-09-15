@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "For every minute you are angry you lose sixty seconds of happiness. - Ralph Waldo Emerson"
+    "Great acts are made up of small deeds. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
