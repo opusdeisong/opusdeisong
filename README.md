@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Great acts are made up of small deeds. - Lao Tzu"
+    "If we are not able to smile, then the world will not have peace. - Thich Nhat Hanh"
   </blockquote>
   <hr>
   <div>
