@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If we are not able to smile, then the world will not have peace. - Thich Nhat Hanh"
+    "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. - Richard Bach"
   </blockquote>
   <hr>
   <div>
