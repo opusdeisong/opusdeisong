@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Here is the test to find whether your mission on earth is finished. If you're alive, it isn't. - Richard Bach"
+    "Some people dream of success, while others wake up and work hard at it. - Napoleon Hill"
   </blockquote>
   <hr>
   <div>
