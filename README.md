@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Some people dream of success, while others wake up and work hard at it. - Napoleon Hill"
+    "If you're really truthful with yourself, it's a wonderful guidance. - Charlie Chaplin"
   </blockquote>
   <hr>
   <div>
