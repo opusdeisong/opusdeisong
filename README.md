@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If you're really truthful with yourself, it's a wonderful guidance. - Charlie Chaplin"
+    "The Art of Peace begins with you. - Morihei Ueshiba"
   </blockquote>
   <hr>
   <div>
