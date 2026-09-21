@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The Art of Peace begins with you. - Morihei Ueshiba"
+    "Nothing has any power over me other than that which I give it through my conscious thoughts. - Tony Robbins"
   </blockquote>
   <hr>
   <div>
