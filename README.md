@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Nothing has any power over me other than that which I give it through my conscious thoughts. - Tony Robbins"
+    "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. - Lao Tzu"
   </blockquote>
   <hr>
   <div>
