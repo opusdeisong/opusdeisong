@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage. - Lao Tzu"
+    "Enjoy life. There's plenty of time to be dead. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
