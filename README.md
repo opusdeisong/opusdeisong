@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Enjoy life. There's plenty of time to be dead. - Hans Christian Andersen"
+    "Wherever you are, and whatever you do, be in love. - Rumi"
   </blockquote>
   <hr>
   <div>
