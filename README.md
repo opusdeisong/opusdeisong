@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Wherever you are, and whatever you do, be in love. - Rumi"
+    "Do what you can, with what you have, where you are. - Colin R. Davis"
   </blockquote>
   <hr>
   <div>
