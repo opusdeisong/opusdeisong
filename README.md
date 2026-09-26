@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Do what you can, with what you have, where you are. - Colin R. Davis"
+    "Poverty and hardship are created by false thinking. - Bodhidharma"
   </blockquote>
   <hr>
   <div>
