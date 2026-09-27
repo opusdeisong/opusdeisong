@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Poverty and hardship are created by false thinking. - Bodhidharma"
+    "You don't earn loyalty in a day. You earn loyalty day-by-day. - Jeffrey Gitomer"
   </blockquote>
   <hr>
   <div>
