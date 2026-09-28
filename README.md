@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "You don't earn loyalty in a day. You earn loyalty day-by-day. - Jeffrey Gitomer"
+    "Rewards and punishment is the lowest form of education. - Zhuangzi"
   </blockquote>
   <hr>
   <div>
