@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Rewards and punishment is the lowest form of education. - Zhuangzi"
+    "The only real mistake is the one from which we learn nothing. - Henry Ford"
   </blockquote>
   <hr>
   <div>
