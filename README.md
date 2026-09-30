@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The only real mistake is the one from which we learn nothing. - Henry Ford"
+    "Sometimes good things fall apart so better things can fall together. - Marilyn Monroe"
   </blockquote>
   <hr>
   <div>
