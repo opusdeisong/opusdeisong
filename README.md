@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Sometimes good things fall apart so better things can fall together. - Marilyn Monroe"
+    "Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward. - Unknown"
   </blockquote>
   <hr>
   <div>
