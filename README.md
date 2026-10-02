@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward. - Unknown"
+    "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. - Mark Manson"
   </blockquote>
   <hr>
   <div>
