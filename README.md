@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If you want to change how you see your problems, you have to change what you value and/or how you measure failure/success. - Mark Manson"
+    "Everyone is a moon, and has a dark side which he never shows to anybody. - Mark Twain"
   </blockquote>
   <hr>
   <div>
