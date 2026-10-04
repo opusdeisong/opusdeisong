@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Everyone is a moon, and has a dark side which he never shows to anybody. - Mark Twain"
+    "The number one cause of failure is the fear of failure. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
