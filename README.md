@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The number one cause of failure is the fear of failure. - Steve Harvey"
+    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
   </blockquote>
   <hr>
   <div>
