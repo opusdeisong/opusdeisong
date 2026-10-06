@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Failure is an option here. If things are not failing, you are not innovating enough. - Elon Musk"
+    "Realize deeply that the present moment is all you ever have. - Eckhart Tolle"
   </blockquote>
   <hr>
   <div>
