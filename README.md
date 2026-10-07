@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Realize deeply that the present moment is all you ever have. - Eckhart Tolle"
+    "The pursuit of mastery bears gifts. - Gary Keller"
   </blockquote>
   <hr>
   <div>
