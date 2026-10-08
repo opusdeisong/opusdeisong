@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The pursuit of mastery bears gifts. - Gary Keller"
+    "Find something you love and do it better than everyone else. - Gurbaksh Chahal"
   </blockquote>
   <hr>
   <div>
