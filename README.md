@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Find something you love and do it better than everyone else. - Gurbaksh Chahal"
+    "If you spend too much time thinking about a thing, you'll never get it done. - Bruce Lee"
   </blockquote>
   <hr>
   <div>
