@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If you spend too much time thinking about a thing, you'll never get it done. - Bruce Lee"
+    "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - Dalai Lama"
   </blockquote>
   <hr>
   <div>
