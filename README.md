@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "It is under the greatest adversity that there exists the greatest potential for doing good, both for oneself and others. - Dalai Lama"
+    "Where focus goes, energy flows. - Tony Robbins"
   </blockquote>
   <hr>
   <div>
