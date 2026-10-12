@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Where focus goes, energy flows. - Tony Robbins"
+    "Whatever your mind can conceive and believe, it can achieve. - Napoleon Hill"
   </blockquote>
   <hr>
   <div>
