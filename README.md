@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Whatever your mind can conceive and believe, it can achieve. - Napoleon Hill"
+    "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. - Paramahansa Yogananda"
   </blockquote>
   <hr>
   <div>
