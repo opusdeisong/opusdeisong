@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. - Paramahansa Yogananda"
+    "You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran"
   </blockquote>
   <hr>
   <div>
