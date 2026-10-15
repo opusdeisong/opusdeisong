@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "You give but little when you give of your possessions. It is when you give of yourself that you truly give. - Kahlil Gibran"
+    "Paths are made by walking. - Franz Kafka"
   </blockquote>
   <hr>
   <div>
