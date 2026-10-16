@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Paths are made by walking. - Franz Kafka"
+    "In three words I can sum up everything I've learned about life: it goes on. - Robert Frost"
   </blockquote>
   <hr>
   <div>
