@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Truth is the offspring of silence and meditation. - Isaac Newton"
+    "The primary cause of unhappiness is never the situation but your thoughts about it. - Eckhart Tolle"
   </blockquote>
   <hr>
   <div>
