@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The primary cause of unhappiness is never the situation but your thoughts about it. - Eckhart Tolle"
+    "Never to suffer would never to have been blessed. - Edgar Allan Poe"
   </blockquote>
   <hr>
   <div>
