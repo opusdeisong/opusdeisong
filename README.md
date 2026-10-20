@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Never to suffer would never to have been blessed. - Edgar Allan Poe"
+    "A friend to all is a friend to none. - Aristotle"
   </blockquote>
   <hr>
   <div>
