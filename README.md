@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "A friend to all is a friend to none. - Aristotle"
+    "The world is open for play, everything and everybody is mockable in a wonderful way. - Robin Williams"
   </blockquote>
   <hr>
   <div>
