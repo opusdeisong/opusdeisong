@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The world is open for play, everything and everybody is mockable in a wonderful way. - Robin Williams"
+    "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill"
   </blockquote>
   <hr>
   <div>
