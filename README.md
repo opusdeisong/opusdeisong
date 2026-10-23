@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill"
+    "Do Something. If it works, do more of it. If it doesn't, do something else. - Franklin D. Roosevelt"
   </blockquote>
   <hr>
   <div>
