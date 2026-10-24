@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Do Something. If it works, do more of it. If it doesn't, do something else. - Franklin D. Roosevelt"
+    "The measure of who we are is what we do with what we have. - Vince Lombardi"
   </blockquote>
   <hr>
   <div>
