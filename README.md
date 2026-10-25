@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The measure of who we are is what we do with what we have. - Vince Lombardi"
+    "Happiness must be grown in one's own garden. - Mary Engelbreit"
   </blockquote>
   <hr>
   <div>
