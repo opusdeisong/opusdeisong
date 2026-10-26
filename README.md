@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Happiness must be grown in one's own garden. - Mary Engelbreit"
+    "Small men think they are small; great men never know they are great. - Chinese Proverb"
   </blockquote>
   <hr>
   <div>
