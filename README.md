@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Small men think they are small; great men never know they are great. - Chinese Proverb"
+    "Only in the agony of parting do we look into the depths of love. - George Eliot"
   </blockquote>
   <hr>
   <div>
