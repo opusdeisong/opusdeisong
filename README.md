@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Only in the agony of parting do we look into the depths of love. - George Eliot"
+    "In the long run, the sharpest weapon of all is a kind and gentle spirit. - Anne Frank"
   </blockquote>
   <hr>
   <div>
