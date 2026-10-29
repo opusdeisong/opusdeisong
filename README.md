@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "In the long run, the sharpest weapon of all is a kind and gentle spirit. - Anne Frank"
+    "There exists only the present instant; a Now which always and without end is itself new. - Meister Eckhart"
   </blockquote>
   <hr>
   <div>
