@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "There exists only the present instant; a Now which always and without end is itself new. - Meister Eckhart"
+    "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. - Albus Dumbledore"
   </blockquote>
   <hr>
   <div>
