@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. - Albus Dumbledore"
+    "One of the advantages of being disorganized is that one is always having surprising discoveries. - A.A. Milne"
   </blockquote>
   <hr>
   <div>
