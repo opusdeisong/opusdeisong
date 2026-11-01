@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "One of the advantages of being disorganized is that one is always having surprising discoveries. - A.A. Milne"
+    "You have the potential for greatness. - Steve Harvey"
   </blockquote>
   <hr>
   <div>
