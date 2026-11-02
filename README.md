@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "You have the potential for greatness. - Steve Harvey"
+    "Turn the pain into power. - Unknown"
   </blockquote>
   <hr>
   <div>
