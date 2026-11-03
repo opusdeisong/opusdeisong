@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Turn the pain into power. - Unknown"
+    "Many roads lead to the path, but basically there are only two: reason and practice. - Bodhidharma"
   </blockquote>
   <hr>
   <div>
