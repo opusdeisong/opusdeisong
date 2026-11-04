@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Many roads lead to the path, but basically there are only two: reason and practice. - Bodhidharma"
+    "Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson"
   </blockquote>
   <hr>
   <div>
