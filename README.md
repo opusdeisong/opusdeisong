@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson"
+    "Enthusiasm is a vital element toward the individual success of every man or woman. - Conrad Hilton"
   </blockquote>
   <hr>
   <div>
