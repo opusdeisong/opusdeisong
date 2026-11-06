@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Enthusiasm is a vital element toward the individual success of every man or woman. - Conrad Hilton"
+    "Have the courage to follow your heart and intuition. They somehow know what you truly want to become. - Steve Jobs"
   </blockquote>
   <hr>
   <div>
