@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Have the courage to follow your heart and intuition. They somehow know what you truly want to become. - Steve Jobs"
+    "If you build the guts to do something, anything, then you better save enough to face the consequences. - Criss Jami"
   </blockquote>
   <hr>
   <div>
