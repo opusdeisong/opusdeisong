@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If you build the guts to do something, anything, then you better save enough to face the consequences. - Criss Jami"
+    "What have you done today to make someone else happy? - Deepam Chaterjee"
   </blockquote>
   <hr>
   <div>
