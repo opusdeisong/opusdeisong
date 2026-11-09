@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "What have you done today to make someone else happy? - Deepam Chaterjee"
+    "We have a duty to maintain the light of consciousness to make sure it continues into the future. - Elon Musk"
   </blockquote>
   <hr>
   <div>
