@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "We have a duty to maintain the light of consciousness to make sure it continues into the future. - Elon Musk"
+    "That some achieve great success is proof to all that others can achieve it as well. - Abraham Lincoln"
   </blockquote>
   <hr>
   <div>
