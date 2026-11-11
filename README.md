@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "That some achieve great success is proof to all that others can achieve it as well. - Abraham Lincoln"
+    "Knowledge has to be improved, challenged, and increased constantly, or it vanishes. - Peter Drucker"
   </blockquote>
   <hr>
   <div>
