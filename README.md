@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Knowledge has to be improved, challenged, and increased constantly, or it vanishes. - Peter Drucker"
+    "You don't know who is important to you until you actually lose them. - Mahatma Gandhi"
   </blockquote>
   <hr>
   <div>
