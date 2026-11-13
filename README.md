@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "You don't know who is important to you until you actually lose them. - Mahatma Gandhi"
+    "Wheels of justice grind slow but grind fine. - Sun Tzu"
   </blockquote>
   <hr>
   <div>
