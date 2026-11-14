@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Wheels of justice grind slow but grind fine. - Sun Tzu"
+    "One day, in retrospect, the years of struggle will strike you as the most beautiful. - Sigmund Freud"
   </blockquote>
   <hr>
   <div>
