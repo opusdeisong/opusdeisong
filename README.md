@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "One day, in retrospect, the years of struggle will strike you as the most beautiful. - Sigmund Freud"
+    "A rational person can find peace by cultivating indifference to things outside of their control. - Naval Ravikant"
   </blockquote>
   <hr>
   <div>
