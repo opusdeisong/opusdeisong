@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "A rational person can find peace by cultivating indifference to things outside of their control. - Naval Ravikant"
+    "Just do what must be done. This may not be happiness but it is greatness. - George Bernard Shaw"
   </blockquote>
   <hr>
   <div>
