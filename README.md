@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Just do what must be done. This may not be happiness but it is greatness. - George Bernard Shaw"
+    "Many roads lead to the path, but basically there are only two: reason and practice. - Bodhidharma"
   </blockquote>
   <hr>
   <div>
