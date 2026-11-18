@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Many roads lead to the path, but basically there are only two: reason and practice. - Bodhidharma"
+    "Discontent is the first necessity of progress. - Thomas Edison"
   </blockquote>
   <hr>
   <div>
