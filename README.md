@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Discontent is the first necessity of progress. - Thomas Edison"
+    "To forgive means pardoning the unpardonable. - Gilbert Chesterton"
   </blockquote>
   <hr>
   <div>
