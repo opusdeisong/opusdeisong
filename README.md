@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "To forgive means pardoning the unpardonable. - Gilbert Chesterton"
+    "If you want work well done, select a busy man; the other kind has no time. - Elbert Hubbard"
   </blockquote>
   <hr>
   <div>
