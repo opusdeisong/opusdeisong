@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "If you want work well done, select a busy man; the other kind has no time. - Elbert Hubbard"
+    "It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. - Kahlil Gibran"
   </blockquote>
   <hr>
   <div>
