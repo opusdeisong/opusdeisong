@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "It takes a minute to have a crush on someone, an hour to like someone, and a day to love someone... but it takes a lifetime to forget someone. - Kahlil Gibran"
+    "To be of use to the world is the only way to be happy. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
