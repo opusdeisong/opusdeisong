@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "To be of use to the world is the only way to be happy. - Hans Christian Andersen"
+    "Love your enemies, for they tell you your faults. - Benjamin Franklin"
   </blockquote>
   <hr>
   <div>
