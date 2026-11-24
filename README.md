@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Love your enemies, for they tell you your faults. - Benjamin Franklin"
+    "We can't help everyone, but everyone can help someone. - Ronald Reagan"
   </blockquote>
   <hr>
   <div>
