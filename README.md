@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "We can't help everyone, but everyone can help someone. - Ronald Reagan"
+    "The whole world is a series of miracles, but we're so used to them we call them ordinary things. - Hans Christian Andersen"
   </blockquote>
   <hr>
   <div>
