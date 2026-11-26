@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "The whole world is a series of miracles, but we're so used to them we call them ordinary things. - Hans Christian Andersen"
+    "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. - John D. Rockefeller"
   </blockquote>
   <hr>
   <div>
