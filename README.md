@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Giving is the secret of a healthy life. Not necessarily money, but whatever a person has of encouragement, sympathy and understanding. - John D. Rockefeller"
+    "Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett"
   </blockquote>
   <hr>
   <div>
