@@ -8,7 +8,7 @@
 🔬 Research Interests: **AI Agents** · **Value Alignment** <hr>
 
   <blockquote>
-    "Someone is sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett"
+    "You can, you should, and if you're brave enough to start, you will. - Stephen King"
   </blockquote>
   <hr>
   <div>
